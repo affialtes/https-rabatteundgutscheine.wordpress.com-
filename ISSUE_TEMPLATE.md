@@ -1,64 +1,40 @@
 <!--
 
-IMPORTANT! YOU MUST FOLLOW THESE INSTRUCTIONS OR YOUR ISSUE WILL BE CLOSED.
+Have you read Atom's Code of Conduct? By filing an Issue, you are expected to comply with it, including treating everyone with respect: https://github.com/atom/atom/blob/master/CODE_OF_CONDUCT.md
 
-Thank you for contributing to the Firebase community!
+Do you want to ask a question? Are you looking for support? The Atom message board is the best place for getting support: https://discuss.atom.io
 
-Have a usage question about Functions?
-======================================
-We get lots of those and we love helping you, but the samples issue tracker is not the best place for them and they will be closed. Here are some resources to get help:
-
-- Go through the Contributor's Guide: https://github.com/firebase/functions-samples/blob/master/CONTRIBUTING.md
-- Read the full user's guide: https://firebase.google.com/docs/functions/
-
-If the official documentation doesn't help, try asking through our officially supported channels:
-
-- Firebase Google Group: https://groups.google.com/forum/#!forum/firebase-talk
-- Stack Overflow: https://stackoverflow.com/questions/tagged/google-cloud-functions+firebase
-
-*Please avoid double posting across multiple channels!*
-
-Think you found a bug?
-=======================
-Yeah, we're definitely not perfect! Please use the bug report template below and include a minimal
-repro when opening the issue.
-
-Have a request for a new sample?
-================================
-Great, we love hearing how we can improve our samples! Remove the template below and
-provide an explanation of your sample request. Be as detailed as possible.
-Note that it should cover a use case that isn't similar to our existing samples and
-likely to be of broad use (i.e. not just a copy/paste solution to your specialized problem).
 -->
 
-### How to reproduce these conditions
+### Prerequisites
 
-**Sample name or URL where you found the bug**
+* [ ] Put an X between the brackets on this line if you have done all of the following:
+    * Reproduced the problem in Safe Mode: http://flight-manual.atom.io/hacking-atom/sections/debugging/#using-safe-mode
+    * Followed all applicable steps in the debugging guide: http://flight-manual.atom.io/hacking-atom/sections/debugging/
+    * Checked the FAQs on the message board for common solutions: https://discuss.atom.io/c/faq
+    * Checked that your issue isn't already filed: https://github.com/issues?utf8=✓&q=is%3Aissue+user%3Aatom
+    * Checked that there is not already an Atom package that provides the described functionality: https://atom.io/packages
 
-**Failing Function code used (including require/import commands at the top)**
+### Description
 
-**Steps to set up and reproduce**
+[Description of the issue]
 
-<!-- detailed instructions to run your minimal repro or to recreate the environment -->
+### Steps to Reproduce
 
-**Sample data pasted or attached as JSON (not an image)**
+1. [First Step]
+2. [Second Step]
+3. [and so on...]
 
-<!-- paste/attach/link sample data as json (not an image) -->
+**Expected behavior:** [What you expect to happen]
 
-**Security rules used**
+**Actual behavior:** [What actually happens]
 
-<!-- paste/attach/link security rules as json (not an image) -->
+**Reproduces how often:** [What percentage of the time does it reproduce?]
 
-### Debug output
+### Versions
 
-**Errors in the [console logs](https://console.firebase.google.com/project/_/functions/logs?search=&severity=DEBUG)**
+You can get this information from copy and pasting the output of `atom --version` and `apm --version` from the command line. Also, please include the OS and what version of the OS you're running.
 
-**Screenshots**
+### Additional Information
 
-### Expected behavior
-
-<!-- What is the expected behavior? -->
-
-### Actual behavior
-
-<!-- What is the actual behavior? -->
+Any additional information, configuration or data that might be necessary to reproduce the issue.
