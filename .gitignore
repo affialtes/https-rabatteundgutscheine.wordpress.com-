@@ -1,3 +1,15 @@
-node_modules
+/secret/
+/.dependencies/
+*.tfstate
+*.tfstate.backup
+*.tfvars-*
+*.tfvars
+.ansible/
+**.retry
+<<<<<<< HEAD
+.terraform
+debug.log
+terraform.tfvars
+terraform.tfvars*
+/.terraform
 .DS_Store
-npm-debug.log
