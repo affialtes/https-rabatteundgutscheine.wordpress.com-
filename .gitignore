@@ -1,15 +1,4 @@
-/secret/
-/.dependencies/
-*.tfstate
-*.tfstate.backup
-*.tfvars-*
-*.tfvars
-.ansible/
-**.retry
-<<<<<<< HEAD
-.terraform
-debug.log
-terraform.tfvars
-terraform.tfvars*
-/.terraform
-.DS_Store
+_site
+.sass-cache
+Gemfile.lock
+*.gem
