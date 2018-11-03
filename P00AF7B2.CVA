@@ -1,0 +1,575 @@
+﻿[CVA File Information]
+CVATimeStamp=20150711T012305
+CVASyntaxVersion=2.1A1
+
+[Software Title]
+US=HP 3D DriveGuard Software (HP ProtectSmart Hard Drive Protection)
+AR=HP 3D DriveGuard Software (HP ProtectSmart Hard Drive Protection)
+BR=HP 3D DriveGuard Software (HP ProtectSmart Hard Drive Protection)
+CH=HP 3D DriveGuard Software (HP ProtectSmart Hard Drive Protection)
+CS=HP 3D DriveGuard Software (HP ProtectSmart Hard Drive Protection)
+DK=HP 3D DriveGuard Software (HP ProtectSmart Hard Drive Protection)
+NL=HP 3D DriveGuard Software (HP ProtectSmart Hard Drive Protection)
+FI=HP 3D DriveGuard Software (HP ProtectSmart Hard Drive Protection)
+FR=HP 3D DriveGuard Software (HP ProtectSmart Hard Drive Protection)
+GR=HP 3D DriveGuard Software (HP ProtectSmart Hard Drive Protection)
+GK=HP 3D DriveGuard Software (HP ProtectSmart Hard Drive Protection)
+IL=HP 3D DriveGuard Software (HP ProtectSmart Hard Drive Protection)
+TZ=HP 3D DriveGuard Software (HP ProtectSmart Hard Drive Protection)
+HU=HP 3D DriveGuard Software (HP ProtectSmart Hard Drive Protection)
+IT=HP 3D DriveGuard Software (HP ProtectSmart Hard Drive Protection)
+JP=HP 3D DriveGuard Software (HP ProtectSmart Hard Drive Protection)
+KR=HP 3D DriveGuard Software (HP ProtectSmart Hard Drive Protection)
+NO=HP 3D DriveGuard Software (HP ProtectSmart Hard Drive Protection)
+PL=HP 3D DriveGuard Software (HP ProtectSmart Hard Drive Protection)
+PT=HP 3D DriveGuard Software (HP ProtectSmart Hard Drive Protection)
+RU=HP 3D DriveGuard Software (HP ProtectSmart Hard Drive Protection)
+SK=HP 3D DriveGuard Software (HP ProtectSmart Hard Drive Protection)
+SL=HP 3D DriveGuard Software (HP ProtectSmart Hard Drive Protection)
+SP=HP 3D DriveGuard Software (HP ProtectSmart Hard Drive Protection)
+SE=HP 3D DriveGuard Software (HP ProtectSmart Hard Drive Protection)
+TW=HP 3D DriveGuard Software (HP ProtectSmart Hard Drive Protection)
+TR=HP 3D DriveGuard Software (HP ProtectSmart Hard Drive Protection)
+
+[US.Software Description]
+Receives notifications from the integrated accelerometer and automatically parks the hard drive to reduce the risk of damage if the PC is accidentally dropped. 
+
+
+[AR.Software Description]
+يثبت ذلك‏ ‏HP 3D DriveGuard‏ ‏الذي يحمي محرك الأقراص الداخلي في الكمبيوتر في حالة إسقاط الكمبيوتر أو اصطدامه بغرض آخر فجأة.
+
+[BR.Software Description]
+Isso instalará o HP 3D DriveGuard, que protege a unidade de disco rígido interna do seu computador em caso de queda ou impacto acidental contra outro objeto.
+
+[CH.Software Description]
+这将安装 HP 3D DriveGuard，当笔记本计算机不小心跌落或突然撞到其他物体时，它可以保护笔记本计算机的内部磁盘驱动器。
+
+[CS.Software Description]
+Toto nainstaluje aplikaci HP 3D DriveGuard, která poskytuje ochranu internímu disku vašeho počítače v případě, že počítač spadne nebo je udeřen jiným tělesem.
+
+[DK.Software Description]
+Dette installerer HP 3D DriveGuard, som beskytter computerens interne harddisk, hvis du taber computeren, eller den støder ind i en anden genstand.
+
+[NL.Software Description]
+Hiermee installeert u HP 3D DriveGuard, dat de interne harde schijf van uw computer beschermt als de computer per ongeluk valt of plotseling een ander voorwerp raakt.
+
+[FI.Software Description]
+Tämä asentaa HP 3D DriveGuard -järjestelmän, joka suojaa tietokoneen sisäistä levyasemaa, mikäli tietokone vahingossa tippuu tai osuu toiseen esineeseen.
+
+[FR.Software Description]
+Installe HP 3D DriveGuard, qui protège l'unité de disque interne de votre ordinateur en cas de chute ou de choc violent avec un autre objet.
+
+[GR.Software Description]
+Hiermit wird HP 3D DriveGuard installiert, das die interne Festplatte Ihres Computers schützt, wenn er versehentlich fallen gelassen wird oder abrupt mit einem anderen Gegenstand zusammenstößt.
+
+[GK.Software Description]
+Με τον τρόπο αυτό θα γίνει εκκίνηση του HP 3D DriveGuard, το οποίο παρέχει προστασία στον εσωτερικό σκληρό δίσκο του υπολογιστή σας, σε περίπτωση που ο υπολογιστής πέσει κατά λάθος ή χτυπήσει με δύναμη πάνω σε .
+
+[IL.Software Description]
+פעולה זו תתקין את HP 3D DriveGuard, אשר מספק הגנה עבור כונן הדיסק הפנימי של המחשב במקרים שבהם המחשב מושמט בטעות או פוגע לפתע בחפץ אחר.
+
+[TZ.Software Description]
+這樣會安裝 HP 3D DriveGuard，當電腦不小心摔落或突然碰撞其他物體時，它可以保護電腦的內建磁碟機。
+
+[HU.Software Description]
+A HP 3D DriveGuard szoftver telepítése: ez a program védelmet nyújt a számítógép belső lemezmeghajtója számára, ha a gépet váratlan ütés éri (például elejtik).
+
+[IT.Software Description]
+Verrà installato HP 3D DriveGuard, che assicura la protezione dell'unità disco rigido interna del computer in caso di caduta o urto accidentale del computer con altri oggetti.
+
+[JP.Software Description]
+HP 3D DriveGuard をインストールします。 HP 3D DriveGuard は、お使いのコンピュータを誤って落としたりぶつけたりした場合に、コンピュータ内部のディスク ドライブを保護します。
+
+[KR.Software Description]
+HP 3D DriveGuard를 설치하여 실수로 컴퓨터를 떨어뜨리거나 갑자기 다른 물체와 충돌하는 경우 컴퓨터 내장 디스크 드라이브를 보호합니다.
+
+[NO.Software Description]
+Dette vil installere HP 3D DriveGuard, som beskytter datamaskinens interne diskstasjon hvis datamaskinen ved et uhell slippes ned eller treffer et annet objekt.
+
+[PL.Software Description]
+Ten program zainstaluje oprogramowanie HP 3D DriveGuard, które zapewnia ochronę wewnętrznego dysku twardego komputera w razie przypadkowego upuszczenia lub uderzenia komputera.
+
+[PT.Software Description]
+Isto instala o HP 3D DriveGuard, que oferece protecção ao disco interno do computador se o computador for acidentalmente deixado cair ou subitamente bater noutro objecto.
+
+[RU.Software Description]
+Будет установлена программа HP 3D DriveGuard, которая обеспечивает защиту внутреннего жесткого диска компьютера при случайном падении или ударе компьютера.
+
+[SK.Software Description]
+Týmto sa nainštaluje softvér HP 3D DriveGuard, ktorý poskytuje ochranu internej diskovej jednotky počítača v prípade náhodného spadnutia počítača alebo jeho neočakávaného nárazu do iného predmetu.
+
+[SL.Software Description]
+S tem namestite HP 3D DriveGuard, ki ščiti notranji diskovni pogon računalnika, če vam ta po nesreči pade na tla ali se ostro zadene v drug predmet.
+
+[SP.Software Description]
+Esto instalará HP 3D Drive Guard, que protege la unidad de disco duro interna de su equipo en caso de caídas o golpes accidentales contra otros objetos.
+
+[SE.Software Description]
+Detta installerar HP 3D DriveGuard och skyddar datorns interna hårddisk om du av misstag skulle tappa datorn eller slå den hårt mot ett annat föremål.
+
+[TW.Software Description]
+這樣會安裝 HP 3D DriveGuard，當電腦不小心摔落或突然碰撞其他物體時，它可以保護電腦的內建磁碟機。
+
+[TR.Software Description]
+Bu, bilgisayarınız kazara düşürüldüğünde veya hızla başka bir cisim çarptığında bilgisayarınızın dahili sabit sürücüsünü koruyan HP 3D DriveGuard uygulamasını yükler.
+
+[General]
+PN=P00AF7-B2X
+Version=6.0.28.1
+Revision=A
+Pass=1
+Type=Driver
+Category=Application - General
+TargetPartition=
+SystemMustBeRebooted=1
+VendorName=HP
+VendorVersion=6.0.28.1
+
+[SupportedLanguages]
+Languages=GLOBAL
+Countries=GBL
+
+[DetailFileInformation]
+
+
+[Softpaq]
+SoftpaqNumber=
+SupersededSoftpaqNumber=
+SoftPaqMD5=
+
+[Operating Systems]
+W10P32=OEM
+W732EN=OEM
+W732HB=OEM
+W732HP=OEM
+W732PR=OEM
+W732SE=OEM
+W732UL=OEM
+W764EN=OEM
+W764HB=OEM
+W764HP=OEM
+W764PR=OEM
+W764UL=OEM
+W8.132=OEM
+W8.164=OEM
+W832=OEM
+W864=OEM
+WES7E32=OEM
+WES7P64=OEM
+WT64=OEM
+
+
+[Devices]
+ACPI\HPQ6007="HP Mobile Data Protection Sensor"
+ACPI\VEN_HPQ&DEV_6007="HP Mobile Data Protection Sensor"
+[System Information]
+SysId01=0x227C
+SysName01=HP Pavilion 17
+SysId02=0x227F
+SysName02=HP Pavilion 17
+SysId03=0x2282
+SysName03=HP Pavilion 17
+SysId04=0x2294
+SysName04=HP Pavilion 17
+SysId05=0x2297
+SysName05=HP Pavilion 17
+SysId06=0x22A4
+SysName06=HP Split x2 Detachable PC;HP Pavilion x2 Detachable
+SysId07=0x2262
+SysName07=HP Pavilion 15;HP Pavilion Beats Special Edition
+SysId08=0x2263
+SysName08=HP Pavilion 15;HP Pavilion Beats Special Edition
+SysId09=0x2268
+SysName09=HP Pavilion 15;HP Pavilion Beats Special Edition
+SysId10=0x2269
+SysName10=HP Pavilion 15;HP Pavilion Beats Special Edition
+SysId11=0x22C5
+SysName11=HP Pavilion 15;HP Pavilion Beats Special Edition
+SysId12=0x22C6
+SysName12=HP Pavilion 15;HP Pavilion Beats Special Edition
+SysId13=0x22A8
+SysName13=HP Pavilion 15;HP Pavilion Beats Special Edition
+SysId14=0x22A9
+SysName14=HP Pavilion Beats Special Edition
+SysId15=0x8092
+SysName15=
+SysId16=0x8095
+SysName16=
+SysId17=0x8098
+SysName17=
+SysId18=0x809B
+SysName18=
+SysId19=0x80A0
+SysName19=
+SysId20=0x80A3
+SysName20=
+SysId21=0x80A6
+SysName21=
+SysId22=0x1984
+SysName22=HP Pavilion 17
+SysId23=0x1985
+SysName23=HP Pavilion 17
+SysId24=0x213B
+SysName24=HP Pavilion 17
+SysId25=0x213C
+SysName25=HP Pavilion 17
+SysId26=0x8093
+SysName26=
+SysId27=0x8096
+SysName27=
+SysId28=0x8099
+SysName28=
+SysId29=0x809C
+SysName29=
+SysId30=0x809E
+SysName30=
+SysId31=0x80A1
+SysName31=
+SysId32=0x80A4
+SysName32=
+SysId33=0x80A7
+SysName33=
+SysId34=0x80A9
+SysName34=;HP Pavilion Gaming
+SysId35=0x8119
+SysName35=
+SysId36=0x806E
+SysName36=HP Pavilion x360 Convertible;HP Pavilion x360 m3 Convertible
+SysId37=0x80D1
+SysName37=HP Pavilion x360 Convertible;HP Pavilion x360 m3 Convertible
+SysId38=0x222D
+SysName38=HP ENVY m6
+SysId39=0x222C
+SysName39=HP ENVY m6
+SysId40=0x8071
+SysName40=HP 247 G1
+SysId41=0x8094
+SysName41=
+SysId42=0x8097
+SysName42=
+SysId43=0x809A
+SysName43=
+SysId44=0x809D
+SysName44=
+SysId45=0x80A2
+SysName45=
+SysId46=0x80A5
+SysName46=
+SysId47=0x80A8
+SysName47=
+SysId48=0x811A
+SysName48=
+SysId49=0x80C3
+SysName49=HP Notebook 15g;HP Notebook 15q;HP 250 G4;HP 256 G4
+SysId50=0x80C4
+SysName50=HP Notebook 15g;HP Notebook 15q;HP 250 G4;HP 256 G4
+SysId51=0x80C1
+SysName51=HP Notebook 15g;HP Notebook 15q;HP 250 G4;HP 256 G4
+SysId52=0x80C2
+SysName52=HP Notebook 15g;HP Notebook 15q;HP 250 G4;HP 256 G4
+SysId53=0x80C5
+SysName53=HP Notebook 15g;HP Notebook 15q;HP 250 G4;HP 256 G4
+SysId54=0x80C6
+SysName54=HP Notebook 15g;HP Notebook 15q
+SysId55=0x8135
+SysName55=HP Notebook 15g;HP Notebook 15q
+SysId56=0x8136
+SysName56=HP Notebook 15g;HP Notebook 15q;HP 250 G4;HP 256 G4
+SysId57=0x8073
+SysName57=HP Pavilion x360
+SysId58=0x8074
+SysName58=HP Pavilion x360
+SysId59=0x8075
+SysName59=HP Pavilion x360
+SysId60=0x22C0
+SysName60=HP 345 G2
+SysId61=0x22C2
+SysName61=HP 355 G2
+SysId62=0x22C1
+SysName62=HP 355 G2
+SysId63=0x8070
+SysName63=HP 243 G1
+SysId64=0x80AF
+SysName64=
+SysId65=0x80B2
+SysName65=
+SysId66=0x80B5
+SysName66=
+SysId67=0x80B8
+SysName67=
+SysId68=0x2178
+SysName68=HP 215 G1 Ultrabook PC
+SysId69=0x229E
+SysName69=HP ENVY TouchSmart 15
+SysId70=0x22A0
+SysName70=HP ENVY TouchSmart 15;HP ENVY HP ENVY
+SysId71=0x8110
+SysName71=HP ENVY 15
+SysId72=0x8154
+SysName72=HP ENVY 15
+SysId73=0x8155
+SysName73=HP ENVY 15
+SysId74=0x806C
+SysName74=HP ENVY x360 Convertible;HP ENVY x360 m6 Convertible
+SysId75=0x806D
+SysName75=HP ENVY x360 Convertible;HP ENVY x360 m6 Convertible
+SysId76=0x80CF
+SysName76=HP ENVY x360 Convertible;HP ENVY x360 m6 Convertible
+SysId77=0x80D0
+SysName77=HP ENVY x360 Convertible;HP ENVY x360 m6 Convertible
+SysId78=0x2289
+SysName78=HP ENVY 14 Notebook
+SysId79=0x228C
+SysName79=HP ENVY 14 Notebook
+SysId80=0x228F
+SysName80=HP ENVY 14 Notebook
+SysId81=0x2298
+SysName81=HP ENVY 14
+SysId82=0x229B
+SysName82=HP ENVY 14
+SysId83=0x80D8
+SysName83=HP ENVY Notebook
+SysId84=0x80DC
+SysName84=HP ENVY Notebook
+SysId85=0x80E0
+SysName85=HP ENVY Notebook
+SysId86=0x80E4
+SysName86=HP ENVY Notebook
+SysId87=0x80EC
+SysName87=HP ENVY Notebook
+SysId88=0x80DE
+SysName88=HP ENVY Notebook;HP ENVY m7 Notebook
+SysId89=0x80E6
+SysName89=HP ENVY Notebook;HP ENVY m7 Notebook
+SysId90=0x80EE
+SysName90=HP ENVY Notebook;HP ENVY m7 Notebook
+SysId91=0x8133
+SysName91=;;HP 245 G4
+SysId92=0x80C7
+SysName92=;;HP 245 G4
+SysId93=0x80C8
+SysName93=;
+SysId94=0x80AE
+SysName94=
+SysId95=0x80B1
+SysName95=
+SysId96=0x80B4
+SysName96=
+SysId97=0x80B7
+SysName97=
+SysId98=0x227A
+SysName98=HP Pavilion 14
+SysId99=0x227D
+SysName99=HP Pavilion 14
+SysId100=0x2280
+SysName100=HP Pavilion 14
+SysId101=0x2292
+SysName101=HP Pavilion 14
+SysId102=0x2295
+SysName102=HP Pavilion 14
+SysId103=0x2293
+SysName103=HP Pavilion 14;HP Pavilion 15
+SysId104=0x22B3
+SysName104=HP Pavilion x360 Convertible
+SysId105=0x80BA
+SysName105=HP ENVY m6 Notebook;HP ENVY Notebook
+SysId106=0x228D
+SysName106=HP ENVY 15
+SysId107=0x228A
+SysName107=HP ENVY 15
+SysId108=0x2290
+SysName108=HP ENVY 15
+SysId109=0x2299
+SysName109=HP ENVY 15
+SysId110=0x229C
+SysName110=HP ENVY 15
+SysId111=0x233C
+SysName111=HP ENVY 15
+SysId112=0x2209
+SysName112=HP Pavilion x360;HP x360 310 G1 PC
+SysId113=0x8050
+SysName113=HP Pavilion x360
+SysId114=0x1965
+SysName114=
+SysId115=0x219C
+SysName115=
+SysId116=0x219D
+SysName116=
+SysId117=0x1966
+SysName117=
+SysId118=0x1968
+SysName118=
+SysId119=0x21A1
+SysName119=
+SysId120=0x80D9
+SysName120=HP ENVY Notebook 15;HP ENVY m6 Notebook
+SysId121=0x80DD
+SysName121=HP ENVY Notebook 15;HP ENVY m6 Notebook
+SysId122=0x80E1
+SysName122=HP ENVY Notebook;HP ENVY m6 Notebook
+SysId123=0x80E5
+SysName123=HP ENVY Notebook;HP ENVY m6 Notebook
+SysId124=0x80E9
+SysName124=HP ENVY Notebook;HP ENVY m6 Notebook
+SysId125=0x1982
+SysName125=HP Pavilion 15
+SysId126=0x1983
+SysName126=HP Pavilion 15
+SysId127=0x2139
+SysName127=HP Pavilion 15
+SysId128=0x213A
+SysName128=HP Pavilion 15
+SysId129=0x810F
+SysName129=HP Notebook 11
+SysId130=0x228B
+SysName130=HP ENVY 17
+SysId131=0x228E
+SysName131=HP ENVY 17
+SysId132=0x2291
+SysName132=HP ENVY 17
+SysId133=0x229A
+SysName133=HP ENVY 17
+SysId134=0x229D
+SysName134=HP ENVY 17
+SysId135=0x2141
+SysName135=HP ENVY Rove
+SysId136=0x80B0
+SysName136=
+SysId137=0x80B3
+SysName137=
+SysId138=0x80B6
+SysName138=
+SysId139=0x80B9
+SysName139=
+SysId140=0x22B5
+SysName140=HP Pavilion x360 Convertible;HP Pavilion 13
+SysId141=0x22B6
+SysName141=HP Pavilion x360 Convertible;HP Pavilion 13
+SysId142=0x2340
+SysName142=HP Pavilion x360 Convertible;HP Pavilion 13
+SysId143=0x2341
+SysName143=HP Pavilion x360 Convertible;HP Pavilion 13
+SysId144=0x1995
+SysName144=HP ENVY m6 Sleekbook
+SysId145=0x80BF
+SysName145=HP Notebook 14g;HP Notebook 14q;HP 240 G4;HP 246 G4
+SysId146=0x80BD
+SysName146=HP Notebook 14g;HP Notebook 14q;HP 240 G4;HP 246 G4
+SysId147=0x80BE
+SysName147=HP Notebook 14g;HP Notebook 14q;HP 240 G4;HP 246 G4
+SysId148=0x80BB
+SysName148=HP Notebook 14g;HP Notebook 14q;HP 240 G4;HP 246 G4
+SysId149=0x80BC
+SysName149=HP Notebook 14g;HP Notebook 14q;HP 240 G4;HP 246 G4
+SysId150=0x8131
+SysName150=HP Notebook 14g;HP Notebook 14q
+SysId151=0x8132
+SysName151=HP Notebook 14g;HP Notebook 14q;HP 240 G4;HP 246 G4
+SysId152=0x22E1
+SysName152=HP ENVY x2 Detachable PC 15
+SysId153=0x21B7
+SysName153=HP 248 G1;HP 340 G1
+SysId154=0x21B8
+SysName154=HP 248 G1;HP 340 G1
+SysId155=0x8036
+SysName155=HP 340 G2
+SysId156=0x8037
+SysName156=HP 340 G2
+SysId157=0x8038
+SysName157=HP 340 G2
+SysId158=0x8039
+SysName158=HP 340 G2
+SysId159=0x8007
+SysName159=HP 340 G2
+SysId160=0x8008
+SysName160=HP 340 G2
+SysId161=0x8009
+SysName161=HP 340 G2
+SysId162=0x800A
+SysName162=HP 340 G2
+SysId163=0x803A
+SysName163=HP 350 G2
+SysId164=0x803B
+SysName164=HP 350 G2
+SysId165=0x803C
+SysName165=HP 350 G2
+SysId166=0x803D
+SysName166=HP 350 G2
+SysId167=0x800B
+SysName167=HP 350 G2
+SysId168=0x800C
+SysName168=HP 350 G2
+SysId169=0x800D
+SysName169=HP 350 G2
+SysId170=0x800E
+SysName170=HP 350 G2
+SysId171=0x2342
+SysName171=HP ENVY x360 Convertible
+SysId172=0x8113
+SysName172=HP ENVY x360 Convertible
+SysId173=0x8114
+SysName173=HP ENVY x360 Convertible
+SysId174=0x227B
+SysName174=HP Pavilion 15
+SysId175=0x227E
+SysName175=HP Pavilion 15
+SysId176=0x2281
+SysName176=HP Pavilion 15
+SysId177=0x2296
+SysName177=HP Pavilion 15
+SysId178=0x233A
+SysName178=HP Pavilion 15
+SysId179=0x8137
+SysName179=;;HP 255 G4
+SysId180=0x80CB
+SysName180=;;HP 255 G4
+SysId181=0x80CC
+SysName181=;
+SysId182=0x80DF
+SysName182=HP ENVY Notebook
+SysId183=0x217A
+SysName183=HP 242 G2
+SysId184=0x217B
+SysName184=HP 242 G2
+
+[Install Execution]
+Install="setup.exe"
+SilentInstall="install.cmd"
+
+[ReturnCode]
+0:SUCCESS:NOREBOOT=The action completed successfully.
+13:FAILURE:NOREBOOT=The data is invalid.
+87:FAILURE:NOREBOOT=One of the parameters was invalid.
+259:FAILURE:NOREBOOT=An error occurred during installation.
+1601:FAILURE:NOREBOOT=The Windows Installer service could not be accessed. 
+1602:FAILURE:NOREBOOT=The user cancels installation. 
+1603:FAILURE:NOREBOOT=A fatal error occurred during installation. 
+1604:FAILURE:NOREBOOT=Installation suspended, incomplete. 
+1612:FAILURE:NOREBOOT=The installation source for this product is not available. 
+1613:FAILURE:NOREBOOT=This installation package cannot be installed by the Windows Installer service. 
+1618:FAILURE:NOREBOOT=Another installation is already in progress. Complete that installation before proceeding with this install.
+1619:FAILURE:NOREBOOT=This installation package could not be opened. 
+1620:FAILURE:NOREBOOT=This installation package could not be opened. 
+1621:FAILURE:NOREBOOT=There was an error starting the Windows Installer service user interface. Contact your support personnel. 
+1622:FAILURE:NOREBOOT=There was an error opening installation log file. Verify that the specified log file location exists and is writable. 
+1623:FAILURE:NOREBOOT=This language of this installation package is not supported by your system. 
+1624:FAILURE:NOREBOOT=There was an error applying transforms. Verify that the specified transform paths are valid. 
+1631:FAILURE:NOREBOOT=The Windows Installer service failed to start. Contact your support personnel. 
+1632:FAILURE:NOREBOOT=The Temp folder is either full or inaccessible. Verify that the Temp folder exists and that you can write to it. 
+1633:FAILURE:NOREBOOT=This installation package is not supported on this platform. Contact your application vendor. 
+1634:FAILURE:NOREBOOT=Component is not used on this machine. 
+1638:FAILURE:NOREBOOT=Another version of this product is already installed. Installation of this version cannot continue. 
+1639:FAILURE:NOREBOOT=Invalid command line argument.
+1641:SUCCESS:NOREBOOT=The installer has initiated a restart. This message is indicative of a success. 
+3010:SUCCESS:REBOOT=A restart is required to complete the install. This message is indicative of a success.
+
+[Private]
+Private_SSMCompliant=1
+DPB_Compliant=0
+
+[Private_SoftpaqInstall]
+
+
+[CVAToolDocumentStamp]
+Generated by Excalibur using Syntax Version 2.1 A1 on 07/11/2015
+Copyright © 2015 HP Development Company, L.P. 
