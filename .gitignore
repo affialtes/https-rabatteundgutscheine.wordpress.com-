@@ -1,4 +1,10 @@
-_site
-.sass-cache
-Gemfile.lock
-*.gem
+.DS_Store
+vendor
+build
+node_modules
+wiki
+amp.zip
+**/*-compiled.js
+languages/*.pot
+languages/*.php
+built
