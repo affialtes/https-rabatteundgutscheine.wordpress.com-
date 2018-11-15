@@ -5,18 +5,18 @@
         <meta name="google-site-verification" content="FvadgHWOiqjkeEcd2zffF6QGthpgUPuRt5OMAPLhTes" />
         <meta name="verification" content="5beb210f277740818ab1e9c19d5e8a6a" />
 
-                <title>Willkommen</title>
-        <meta name="keywords" content="Cashbackdeals.de, Verdiene Geld, Shoppen, Rabattcode, Online-Umfrage, Cashback Online, Exklusive Aktionen, Beste Cashback-Website, Online Bezahlung" />
-        <meta name="description" content="CashbackDeals.de ist dein Sparportal, um mit über 10 Möglichkeiten Geld zu verdienen. Melde dich kostenlos an und sichere dir 7,50 CashCoins Willkommensbonus." />
+                <title>Saldo</title>
+        <meta name="keywords" content="Cashback meta keywords" />
+        <meta name="description" content="Cashback meta description" />
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta property="og:title" content=""/>
         <meta property="og:description" content=""/>
         <meta property="og:image" content=""/>
         <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-        <link rel="alternate" hreflang="De" href="https://www.cashbackdeals.de/" />
+        <link rel="alternate" hreflang="De" href="https://www.cashbackdeals.de/user/cashback.php" />
 
         
-        <link rel="canonical" href="https://www.cashbackdeals.de/"/>
+        <link rel="canonical" href="https://www.cashbackdeals.de/user/cashback.php"/>
         <link rel="icon" href="https://static.orangebuddies.nl/templates/www.cashbackdeals.de/march16/assets/favicon.ico" type="image/x-icon">
         <link href="https://static.orangebuddies.nl/templates/www.cashbackdeals.de/march16/css/layout.css" rel="stylesheet" type="text/css" />
         <link href="https://static.orangebuddies.nl/templates/www.cashbackdeals.de/march16/css/popup/popup.css" rel="stylesheet" type="text/css" />
@@ -67,14 +67,8 @@
         <link rel="manifest" href="/manifest.json">
         <script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async></script>
 
-                <script src="/general.assets/js/jquery.countdown.min.js"></script>
-        <script src="/general.assets/js/moment/moment-with-locales.min.js" type="text/javascript"></script>
-        <script src="/general.assets/js/moment/moment-timezone-with-data-2010-2020.min.js" type="text/javascript"></script>
         
         
-                <link rel="stylesheet" type="text/css" href="https://static.orangebuddies.nl/templates/www.cashbackdeals.de/march16/css/theme-page.css"/>
-        <link href="/general.assets/css/jquery.bxslider.cbk.css" rel="stylesheet" />
-        <script src="/general.assets/js/bxslider.min.js"></script>
         	
                         
                 
@@ -192,7 +186,7 @@
                         <!-- takeover diff banner code end -->
                         <div class="leftBanner main_banner">
                 
-                                                                                                                                                                <a class="various" href="#inline_store_visit" onClick="loginFancyPopUP({cashback: '20,00 ', storeName: 'EnBW', urlKey: 'enbw', imgUrl: 'https://static.orangebuddies.nl/image/stores/96520.jpg', itemId: '0', bannerId: '35522', isCbkDay: '1'})" title="EnBW"><img class="main_sidebanner" width="120" height="400" src="https://static.orangebuddies.nl/image/banners/35522-SkyScraperWrapper.jpg" alt="EnBW" /></a>
+                                                                                                                                <a class="various" href="#inline_store_visit" onClick="loginFancyPopUP({cashback: '4,00%', storeName: 'Under Armour', urlKey: 'under-armour-de', imgUrl: 'https://static.orangebuddies.nl/image/stores/85175.gif', itemId: '0', bannerId: '35626', isCbkDay: '0'})" title="Under Armour"><img class="main_sidebanner" width="120" height="400" src="https://static.orangebuddies.nl/image/banners/35626-SkyScraperWrapper.jpg" alt="Under Armour" /></a>
                                                 <img src="" width="0" height="0" style="display:none"/>
                                             </div>
                         <!-- new -->
@@ -811,1536 +805,458 @@
                                                             </div>
                         </div>
 
-                        <!-- Quick link -->    
-<div class="QuickLinkBar">
-    <ul class="QuickLink">
+                        <div id="main-content">
+    <div id="breadcrumbs">
+        <ol itemscope itemtype="http://schema.org/BreadcrumbList"> 
+                  <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+                      <a itemprop="item" href="https://www.cashbackdeals.de/">
+                      <span itemprop="name">Startseite</span></a>
+                      <meta itemprop="position" content="1" />
+                  </li><li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+                        <a itemprop="item" href="https://www.cashbackdeals.de/user/welcome.php">
+                        <span itemprop="name">Willkommen</span></a> 
+                        <meta itemprop="position" content="2" />
+                    </li><li>Saldo</li></ol>
+    </div>
+    <!--//////////////////////////////////////////////////-->
+        <div id="contents" class="clearfix">
+        <!--################### file include #################################-->
+        <div id="toptabs">
+    <ul> 
         <li >
-            <a href="/user/detail.php" title="Daten">Daten</a></li>
+            <a href="/user/detail.php" title="Daten"><span>Daten</span></a></li>
+        <li id="current">
+            <a href="/user/cashback.php" title="Saldo"><span>Saldo</span></a></li>
+
         <li >
-            <a href="/user/cashback.php" title="Saldo">Saldo</a></li>
+            <a href="/user/cashout.php" title="Auszahlen"><span>Auszahlen</span></a></li>
+
         <li >
-            <a href="/user/cashout.php" title="Auszahlen">Auszahlen</a></li>
-        <li >
-            <a href="/user/cashbackdetails.php" title="Status Auszahlung">Status Auszahlung</a>
+            <a href="/user/cashbackdetails.php" title="Status Auszahlung"><span>Status Auszahlung</span></a></li>
+
+
+        
+
+        <li ><a href="/user/favourites.php" title="Favoriten" ><span>Favoriten</span></a></li>
+        <li ><a href="/user/clicks.php" title="Klickübersicht" ><span>Klickübersicht</span></a></li>
+        <li ><a href="/user/cashmail-clicks.php" title="Klickübersicht CashMails" ><span>Klickübersicht CashMails</span></a></li>
+        <li ><a href="/user/ticket.php" title="Hilfe-Tickets"><span>Hilfe-Tickets</span></a></li>
+    
+                  <li  >
+            <a href="/user/notifications.php" title="Benachrichtigungen">
+                <span>Benachrichtigungen</span></a>
         </li>
-        <li ><a href="/user/favourites.php" title="Favoriten" >Favoriten</a></li>
-        <li ><a href="/user/clicks.php" title="Klickübersicht" >Klickübersicht</a></li>
-        <li ><a href="/user/cashmail-clicks.php" title="Klickübersicht CashMails" >Klickübersicht CashMails</a></li>
-        <li ><a href="/user/ticket.php" title="Hilfe-Tickets">Hilfe-Tickets</a></li>
-            
-    </ul>
+            </ul>
 </div>
-<!-- Quick link -->
-<div id="account-block"> 
-    <span class="account-block-1"> 
-        <span class="account-block-amount"><i class="fa fa-check-circle-o"></i>Aufgaben für heute:</span> 
-        <span class="account-block-subtext"> 
-            <a href="/user/cashmail.php"><span class="account-number">73</span> Ungelesene CashMails</a> 
-            <a href="/shops/delen.php"><span class="account-number">
-                    1</span> Aktionen zum Teilen</a>
-            <a href="/shops/bannerkliks.php">
-                <span class="account-number">1</span> Bannerklicks
-            </a> 
-                        <a href="/shops/click-earn-campaigns.php"><span class="account-number">4</span>Klicken und Verdienen</a> 
-                     </span> 
-    </span> 
-    <span class="account-block-2">
-        <span class="account-block-amount"> 
-            <i class="fa fa-user"></i>
-            <span class="account-number-large">100%</span> Profildaten</span> 
-        <span class="progress-meter">
-            <div class="meter"> 
-                <span style="width: 100%"></span> 
+<div id="toptabsline"><img src="https://static.orangebuddies.nl/templates/www.cashbackdeals.de/march16/assets/spacer.gif" /></div>
+        <!--####################################################-->
+        <br />
+        <div class="contentbox">
+            <h1 class="none">Mein Konto</h1>
+            <p><p>Hierunter findest du eine detaillierte Übersicht deines angesammelten Guthabens bei CashbackDeals.de. <br /> * Bannerklicks und CashMails nur von den letzten 7 Tagen.</p></p>
+        </div>
+        <link rel="stylesheet" type="text/css" href="https://static.orangebuddies.nl/templates/www.cashbackdeals.de/march16/css/transcation-overview.css" />
+          <script type="text/javascript">
+               $(document).ready(function(){           
+                    $('ul.tabs-btn-ul li').click(function(){
+                        var tab_id = $(this).attr('data-tab');
+                        console.log(tab_id);
+                       
+                        $('ul.tabs-btn-ul li').removeClass('current');
+                        $('.cashback-tab-content').removeClass('current');
+
+                        $(this).addClass('current');
+                        $("#"+tab_id).addClass('current');
+                       
+                         if(tab_id!='tab-1' && tab_id!='tab-2' )
+                          {
+                               $.ajax({
+                                   url: '/ajax/get_transactions.php',
+                                   data: { type : tab_id },
+                                   type: 'POST',
+                                   success: function (resp) {
+                                       console.log("function working");
+                                       console.log(resp);
+                                       $('#cashback_DATA').html(resp);
+                                       $('#cashback_DATA').show();
+                                   }
+                                });
+                         }
+                         else
+                         {
+                            $('cashback_DATA').html('');
+                            $('#cashback_DATA').hide();
+                         }
+                       
+                        
+                    })
+
+                })
+            </script>
+        <!---/////////////////--->
+          <div class="balance-info">
+            <div class="total-bal">
+                <p> <i class="fa fa-check-circle-o"></i>Total inkl. Auszahlungen</p>
+                <span class="bal-box">Betrag: 46,690</span>
             </div>
-        </span> 
-        <span class="account-block-subtext"><a href="/user/detail.php">Profildaten pflegen</a></span>
-                          <span class="account-block-subtext"><a href="/onlinepanel/">Melde dich für den Online Panel an</a></span>
-             </span> 
-    <span class="account-block-3"> 
-        <span class="account-block-amount"><i class="fa fa-database"></i>
-            <span class="account-number-large">21,69</span> CashCoins</span> 
-        <span class="progress-meter">
+            <div class="balance-payout">
+                <span><i class="fa fa-database"></i>Betrag: 21,690</span>
+                <span class="bal-bar"> 
+                    <span class="progress-meter">
             <div class="meter"> 
                 
                 <span style="width:  87%"></span> 
             </div>
-        </span> 
-        <span class="account-block-subtext">
-                            <a href="/user/cashout.php">Noch 3,31 bis zur nächsten Auszahlung</a>
-                    </span> 
-    </span> 
-    <span class="account-block-4">
-        <span class="account-block-amount">
-            <i class="fa fa-trophy"></i>Verdiene CashCoins:</span> 
-        <span class="account-block-subtext"> 
-            <div class="random">
-                <a href="/user/cashboost.php"><span class="account-number">0</span>
-                    Freunde
-                </a> 
-            </div>	
-                
-                        <div class="random">            
-                <a href="/user/jackpot.php">
-                    <span>Checke den Jackpot</span> 
-                </a>
-            </div>	
-             
-                <div class="random">
-                    <a href="/user/bingo.php">
-                                                    Nächste Bingo-Runde startet:
-
-                                                <span id="time2"></span>	
-                    </a>
-                </div>
-                    </span> 
-    </span> 
-</div>
-<!-- Content -->
-<div id="main-content">
-    <div id="home-top" class="clearfix">
-        <!-- new slider like on shopbuddie -->
-        <div class="homeslider">             <!-- Homepage Slider -->
-            <div class="home-visuals">
-                <div class="bx-wrapper">
-                    <div class="bx-viewport">
-                        <div class="bxslider-cbkslider"> 
-                                                                                                                                        <div> 
-                                                                                                                                                                                                 
-                                                                                                                                                                                                                                                                                                                                                             <a class="various" href="#inline_store_visit" onclick="loginFancyPopUP({cashback: '12,50 ', storeName: 'winSIM', urlKey: 'winsim-de', imgUrl: 'https://static.orangebuddies.nl/image/stores/91320.jpg', itemId: '0', bannerId: '35633', isCbkDay: '1'})">
-                                                       <div class="DynOverlay" style="visibility: visible;">
-                                                        <div class="DynOverlayContent" style="visibility: visible;">
-                                                            
-                                                            <div class="OverlayBtn" style="visibility: visible;">
-                                                                    <span class="bannerLinK">ERHALTE BIS ZU 12,50  CASHCOINS
-                                                                </span>
-                                                            </div>
-                                                        </div>
-                                                        </div>
-                                                  </a>
-                                                                                                <a class="various" href="#inline_store_visit" onclick="loginFancyPopUP({cashback: '12,50 ', storeName: 'winSIM', urlKey: 'winsim-de', imgUrl: 'https://static.orangebuddies.nl/image/stores/91320.jpg', itemId: '0', bannerId: '35633', isCbkDay: '1'})">
-                                                    <img style="width: 684px; height: 180px;" src="https://static.orangebuddies.nl/image/banners/35633-Slider720x200.jpg" alt="winSIM" />
-                                                </a> 
-                                             
-                                        </div>
-                                                                                                                                                <div> 
-                                                                                                                                                                                                 
-                                                                                                                                                                                                                                                                                                                                                             <a class="various" href="#inline_store_visit" onclick="loginFancyPopUP({cashback: '25,00 ', storeName: 'TARIFCHECK Kfz-Versicherung', urlKey: 'tarifcheck24-kfz', imgUrl: 'https://static.orangebuddies.nl/image/stores/25503.jpg', itemId: '0', bannerId: '35640', isCbkDay: '1'})">
-                                                       <div class="DynOverlay" style="visibility: visible;">
-                                                        <div class="DynOverlayContent" style="visibility: visible;">
-                                                            
-                                                            <div class="OverlayBtn" style="visibility: visible;">
-                                                                    <span class="bannerLinK">ERHALTE BIS ZU 25,00  CASHCOINS
-                                                                </span>
-                                                            </div>
-                                                        </div>
-                                                        </div>
-                                                  </a>
-                                                                                                <a class="various" href="#inline_store_visit" onclick="loginFancyPopUP({cashback: '25,00 ', storeName: 'TARIFCHECK Kfz-Versicherung', urlKey: 'tarifcheck24-kfz', imgUrl: 'https://static.orangebuddies.nl/image/stores/25503.jpg', itemId: '0', bannerId: '35640', isCbkDay: '1'})">
-                                                    <img style="width: 684px; height: 180px;" src="https://static.orangebuddies.nl/image/banners/35640-Slider720x200.jpg" alt="TARIFCHECK Kfz-Versicherung" />
-                                                </a> 
-                                             
-                                        </div>
-                                                                                                                                                <div> 
-                                                                                                                                                                                                 
-                                                                                                                                                                                                                                                                                                                                                             <a class="various" href="#inline_store_visit" onclick="loginFancyPopUP({cashback: '20,00 ', storeName: 'EnBW', urlKey: 'enbw', imgUrl: 'https://static.orangebuddies.nl/image/stores/96520.jpg', itemId: '0', bannerId: '35521', isCbkDay: '1'})">
-                                                       <div class="DynOverlay" style="visibility: visible;">
-                                                        <div class="DynOverlayContent" style="visibility: visible;">
-                                                            
-                                                            <div class="OverlayBtn" style="visibility: visible;">
-                                                                    <span class="bannerLinK">ERHALTE BIS ZU 20,00  CASHCOINS
-                                                                </span>
-                                                            </div>
-                                                        </div>
-                                                        </div>
-                                                  </a>
-                                                                                                <a class="various" href="#inline_store_visit" onclick="loginFancyPopUP({cashback: '20,00 ', storeName: 'EnBW', urlKey: 'enbw', imgUrl: 'https://static.orangebuddies.nl/image/stores/96520.jpg', itemId: '0', bannerId: '35521', isCbkDay: '1'})">
-                                                    <img style="width: 684px; height: 180px;" src="https://static.orangebuddies.nl/image/banners/35521-Slider720x200.jpg" alt="EnBW" />
-                                                </a> 
-                                             
-                                        </div>
-                                                                                                                                                <div> 
-                                                                                                                                                                                                 
-                                                                                                                                                                                                                                                                                                         <a class="various" href="#inline_store_visit" onclick="loginFancyPopUP({cashback: '4,00%', storeName: 'Under Armour', urlKey: 'under-armour-de', imgUrl: 'https://static.orangebuddies.nl/image/stores/85175.gif', itemId: '0', bannerId: '35624', isCbkDay: '0'})">
-                                                       <div class="DynOverlay" style="visibility: visible;">
-                                                        <div class="DynOverlayContent" style="visibility: visible;">
-                                                            
-                                                            <div class="OverlayBtn" style="visibility: visible;">
-                                                                    <span class="bannerLinK">ERHALTE  4,00% CASHCOINS
-                                                                </span>
-                                                            </div>
-                                                        </div>
-                                                        </div>
-                                                  </a>
-                                                                                                <a class="various" href="#inline_store_visit" onclick="loginFancyPopUP({cashback: '4,00%', storeName: 'Under Armour', urlKey: 'under-armour-de', imgUrl: 'https://static.orangebuddies.nl/image/stores/85175.gif', itemId: '0', bannerId: '35624', isCbkDay: '0'})">
-                                                    <img style="width: 684px; height: 180px;" src="https://static.orangebuddies.nl/image/banners/35624-Slider720x200.jpg" alt="Under Armour" />
-                                                </a> 
-                                             
-                                        </div>
-                                                                                                 
+                   </span> 
+                </span>  
+                            <a href="/user/cashout.php">Noch 3,310 bis zur nächsten Auszahlung</a>
                         </div>
-                    </div>
-                </div>
-            </div>
-            <!-- Homepage Slider -->
-                             
-                    <img src="" width="0" height="0" style="display:none"/> 
-                 
-                    <img src="" width="0" height="0" style="display:none"/> 
-                 
-                    <img src="" width="0" height="0" style="display:none"/> 
-                 
-                    <img src="" width="0" height="0" style="display:none"/> 
-                                         
-            </div>
-            <!-- Start banners -->
-            <div class="homehome-banners clearfix">
-                <ul class="tab">
-                                            <li><a href="javascript:void(0)" class="tablinks tablinksNew" id='trending' onclick="openHomeTabs(event, 'Trending')">Doppeltes Cashback</a></li>
-                                            <li><a href="javascript:void(0)" class="tablinks tablinksNew" onclick="openHomeTabs(event, 'Cashbackday')" id="defaultOpen">Cashback des Tages</a></li>
+        </div>  
+         <div class="transactions-tabs">
+            <ul class="transactions-tabs tabs-btn-ul">
+                 <li class="tab-link current" data-tab="tab-2">Letzte Transaktionen</li>
+                <li class="tab-link" data-tab="tab-1">Gesamte Kontoübersicht</li>
+            </ul>
+         </div>
+         <div class="cashback-tabs">
+            <div class="col-4">
+                <ul class="cashback-tabs-btn tabs-btn-ul">
+                   
+                    <li class="tab-link" data-tab="sbonus">Willkommens-Bonus</li>
+                    <li class="tab-link" data-tab="pbonus">Profil ergänzen</li>
+                    <li class="tab-link" data-tab="bannerkliks">Bannerklicks</li>
+                    <li class="tab-link" data-tab="emails">CashMails</li>
+                    <li class="tab-link" data-tab="review">Shopbewertungen</li>
+                    <li class="tab-link" data-tab="testimonials">Empfehlungen</li>
+                    <li class="tab-link" data-tab="delen">Aktionen teilen</li>
+                    <li class="tab-link" data-tab="app">App Vergütung</li>
+                    <li class="tab-link" data-tab="winPromotions">Mitglieder-Aktion</li>
+                    <li class="tab-link" data-tab="testScout">Online Panel/Umfragen</li>
+                                         <li class="tab-link" data-tab="whatsapp">WhatsApp Transaktionen</li>
+                                        <li class="tab-link" data-tab="confirmedstore">Bestellungen bestätigt</li>
+                    <li class="tab-link" data-tab="rejectedstore">Bestellungen storniert</li>
+                    <li class="tab-link" data-tab="pendingstore">Bestellungen vorgemerkt</li>
+                    <li class="tab-link" data-tab="rbonus">Geworbene Freunde bestätigt</li>
+                    <li class="tab-link" data-tab="rbehandling">Geworbene Freunde vorgemerkt</li>
+                    <li class="tab-link" data-tab="rbonustrans">10% Freunde Bonus</li>
+                    <li class="tab-link" data-tab="other">Sonstige Transaktionen</li>
+                    <li class="tab-link" data-tab="payoutsBank">Auszahlungen</li>
+                   <!-- <li class="tab-link" data-tab="payoutsCadeaus">Auszahlungen in Geschenken</li>
+                    <li class="tab-link" data-tab="payoutsCadeausCard">Auszahlungen in Geschenk-Gutscheinen</li>------->
                 </ul>
-                <div id="Trending" class="tabcontent" id="defaultOpen">
-                                                                        <div class="dblCashback">
-                                                                    <div class="dblCashbackItem" style="width: 200px !important;">
-                                        <center>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
-                                                                                                                                        
-                                            <a href="/cashback/blau-mobilfunk-de.php"><img src="https://static.orangebuddies.nl/image/stores/90634.jpg" width="120" height="60" alt="blau Mobilfunk" title="blau Mobilfunk"></a>
-                                                                                                <div class="oldCash"><span class="lineThrough">37,50</span><br>75,00</div>
-                                                                                            <div class="CashBtn">
-                                                                                                                                                                                                                                                                                                                                                                                                            <a class="various" href="#inline_store_visit" onclick="loginFancyPopUP({cashback: '75,00', storeName: 'blau Mobilfunk', urlKey: 'blau-mobilfunk-de', imgUrl: 'https://static.orangebuddies.nl/image/stores/90634.jpg', isCbkDay: '1'})" >Erhalte bis zu 75,00 CashCoins</a>
-                                                                                            </div>
-                                            <div class="counterClock clokctner-0" data-stopdate="2018-11-04 00:00:00">2018-11-04 00:00:00</div>
-                                        </center>   
-                                    </div>
-                                                            </div>
-                                                            </div>
-                <div id="Cashbackday" class="tabcontent">
-                                            <div class="CashBackDay">
-
-                                                                                                                                                                                                                                                                                                                    
-                            
-                                                                                                                    <a href="/cashback/bonprixde.php"><img src="https://static.orangebuddies.nl/image/stores/54519.gif" width="120" height="60" alt="bonprix" title="bonprix"></a>
-                                                                <div class="oldCash"><span class="lineThrough">2,00%</span><br>3,00%</div>
-                                                            <div class="CashBtn">
-                                                                                                                                                                                                                                                                            <a class="various" href="#inline_store_visit" onclick="loginFancyPopUP({cashback: '3,00%', storeName: 'bonprix', urlKey: 'bonprixde', imgUrl: 'https://static.orangebuddies.nl/image/stores/54519.gif', isCbkDay: '1'})" >Erhalte  3,00% CashCoins</a>
-                                                                
-                            </div>
-                            <div id="counterClock" data-stopdate="2018-11-04 00:00:00">2018-11-04 00:00:00</div>
-                        </div>
-                                    </div>
             </div>
-            <!-- End Banners -->
-        </div>
-                    <div class="home-shopbanners PopularLogs clearfix">
-                <div class="bx-wrapper">
-                    <ul class="popular_stores2">
-                                                    <li class="PopLogsBox">
-                                <a href="/cashback/na-kd-com.php">
-                                    <img src="https://static.orangebuddies.nl/image/stores/78132.jpg" width="120" height="60" alt="NA-KD.com" title="NA-KD.com">
-                                </a>
-                            </li>
-                                                    <li class="PopLogsBox">
-                                <a href="/cashback/vodafone-dsl.php">
-                                    <img src="https://static.orangebuddies.nl/image/stores/7710.jpg" width="120" height="60" alt="Vodafone (DSL, LTE & TV)" title="Vodafone (DSL, LTE & TV)">
-                                </a>
-                            </li>
-                                                    <li class="PopLogsBox">
-                                <a href="/cashback/blau-mobilfunk-de.php">
-                                    <img src="https://static.orangebuddies.nl/image/stores/90634.jpg" width="120" height="60" alt="blau Mobilfunk" title="blau Mobilfunk">
-                                </a>
-                            </li>
-                                                    <li class="PopLogsBox">
-                                <a href="/cashback/nord-vpn-de.php">
-                                    <img src="https://static.orangebuddies.nl/image/stores/95118.jpg" width="120" height="60" alt="NordVPN" title="NordVPN">
-                                </a>
-                            </li>
-                                                    <li class="PopLogsBox">
-                                <a href="/cashback/agila.php">
-                                    <img src="https://static.orangebuddies.nl/image/stores/79546.gif" width="120" height="60" alt="AGILA" title="AGILA">
-                                </a>
-                            </li>
-                                                    <li class="PopLogsBox">
-                                <a href="/cashback/groupon-shopping.php">
-                                    <img src="https://static.orangebuddies.nl/image/stores/7245.jpg" width="120" height="60" alt="Groupon Shopping" title="Groupon Shopping">
-                                </a>
-                            </li>
-                                                    <li class="PopLogsBox">
-                                <a href="/cashback/o2-de.php">
-                                    <img src="https://static.orangebuddies.nl/image/stores/90640.jpg" width="120" height="60" alt="O2" title="O2">
-                                </a>
-                            </li>
-                                                    <li class="PopLogsBox">
-                                <a href="/cashback/tarifcheck24.php">
-                                    <img src="https://static.orangebuddies.nl/image/stores/8021.jpg" width="120" height="60" alt="TARIFCHECK" title="TARIFCHECK">
-                                </a>
-                            </li>
-                                                    <li class="PopLogsBox">
-                                <a href="/cashback/saturn.php">
-                                    <img src="https://static.orangebuddies.nl/image/stores/10414.jpg" width="120" height="60" alt="SATURN" title="SATURN">
-                                </a>
-                            </li>
-                                                    <li class="PopLogsBox">
-                                <a href="/cashback/vodafone-mobilfunk.php">
-                                    <img src="https://static.orangebuddies.nl/image/stores/7701.jpg" width="120" height="60" alt="Vodafone (Mobilfunk & Data)" title="Vodafone (Mobilfunk & Data)">
-                                </a>
-                            </li>
-                                            </ul>
+         <div  class="col-8">  
+                <div  style="display:none;" class="checking" id="cashback_DATA">
                 </div>
+                     <div id="tab-1" class="cashback-tab-content">
+                         
+                    <div class="NewTable">  
+                     <div id="no-more-tables" class="TableStyle01">
+                      <table class="TabColFull table-condensed cf">
+                          <thead class="cf">
+                             <tr  class="TableSap">
+                                   <th align="left" class="TableSap">Art</th>
+                                   <th align="left" class="TableSap">Anzahl Transaktionen</th>
+                                   <th align="left" class="TableSap">CashCoins</th>
+                                   <th align="left" class="TableSap">Haben/Soll</th>		
+		             </tr>
+                          </thead>
+                          <tbody>
+                          <tr>
+            <td align="left" data-title="Art"> Willkommens-Bonus</td>  
+            <td align="left" data-title="Anzahl Transaktionen"> 1<strong>x</strong></td>  
+            <td align="left" data-title="CashCoins"> 7,500</td>  
+            <td align="left" data-title="Haben/Soll"> Haben</td>  
+                        </tr>
+		        <tr>
+            <td align="left" data-title="Art">Profil ergänzen</td>  
+            <td align="left" data-title="Anzahl Transaktionen"> 2<strong>x</strong></td>  
+            <td align="left" data-title="CashCoins"> 0,200</td>  
+            <td align="left" data-title="Haben/Soll">Haben</td>  
+                        </tr> 
+			 <tr>
+            <td align="left" data-title="Art">Bannerklicks</td>  
+            <td align="left" data-title="Anzahl Transaktionen"> 2<strong>x</strong></td>  
+            <td align="left" data-title="CashCoins"> 0,420</td>  
+            <td align="left" data-title="Haben/Soll">Haben</td>  
+                        </tr> 
 
-            </div>
-            <div class="PopularLogsLink"><a href="/shops/shops.php?url_key=all">+3348 andere Shops ></a></div>
-                    <div id="home-parts" class="clearfix">
-            <!-- Popular categories -->
-            <div class="home-part first">
-                <!-- adjusted please insert first class here -->
-                <h2 class="new-heading">Optionen, um Geld zu verdienen</h2>
-                <div class="earn-list nonumber cats">
-                    <ul>
-                        <li class="no1"> 
-                            <a href="/user/detail.php"> 
-                                <span class="earn-li-icon">
-                                    <i class="fa fa-pencil-square-o"></i>
-                                </span> 
-                                <span class="earn-li-descr">Profil ergänzen</span> 
-                                <span class="earn-li-detail">Profil- und Extra-Informationen und jeweils 0,10 CashCoins erhalten.</span> 
-                            </a> 
-                        </li>
-                        <li class="no2"> 
-                            <a href="/user/cashboost.php"> 
-                                <span class="earn-li-icon"><i class="fa fa-user"></i>
-                                </span> <span class="earn-li-descr">Freunde einladen</span> <span class="earn-li-detail">Sichere dir 5,00 CashCoins und 10% der Umsätze deiner Freunde.</span> </a> </li>
-                        <li class="no3"> 
-                            <a href="/static/mobile-app.php"> <span class="earn-li-icon"><i class="fa fa-tablet"></i></span> <span class="earn-li-descr">App installieren</span> <span class="earn-li-detail">7 Tage die iOS- oder Android-App nutzen und 0,20 CashCoins sichern.</span> </a> </li>
-                        <li class="no4"> 
-                            <a href="/static/toolbar.php"> <span class="earn-li-icon"><i class="fa fa-cog"></i></span> <span class="earn-li-descr">Cashback-Melder downloaden</span> <span class="earn-li-detail">Verpasse nie mehr einen Ankauf mit Cashback auf CashbackDeals.de!</span> </a> </li>
-                        <li class="no5"> <a href="/testimonials/add.php"> <span class="earn-li-icon"><i class="fa fa-thumbs-up"></i></span> <span class="earn-li-descr">Empfehlung schreiben</span> <span class="earn-li-detail">Erfahrungen zu CashbackDeals.de teilen und erhalte 0,50 CashCoins sichern.</span> </a> </li>
-                    </ul>
-                </div>
-                <span class="home-readmore"><a href="/user/cashboost-new.php">Alle Möglichkeiten</a></span> </div>
-            <!-- Exclusive Stores -->
-            <div class="home-part">
-                <h2 class="new-heading">TOP 5 CASHBACK</h2>
-                <div class="cat-list nonumber home-block">
-                    <!-- CHANGED: insert a nonumber class her -->
-                    <ul>
-                                                                                                                                                                                    
-                                                                                                                                                                                                    <li class="no1"> 
-                                    <a class="various" href="#inline_store_visit" onclick="loginFancyPopUP({cashback: '5,00%', storeName: 'NA-KD.com', urlKey: 'na-kd-com', imgUrl: 'https://static.orangebuddies.nl/image/stores/78132.jpg', isCbkDay: '0'})"> <span class="logo-div2"> <img src="https://static.orangebuddies.nl/image/stores/78132.jpg" alt="NA-KD.com" /> 
-                                            <span> 5,00% CashCoins</span> 
-                                        </span> 
-                                        <strong>Im Sale von NA-KD.com findest du viele tolle...</strong>
-                                    </a> 
-                                </li>
-                                                                                                                                
-                                                                                                    
-                                                                                                                                                                    <li class="no2"> 
-                                    <a class="various" href="#inline_store_visit" onclick="loginFancyPopUP({cashback: '91,00 ', storeName: 'Vodafone (DSL, LTE & TV)', urlKey: 'vodafone-dsl', imgUrl: 'https://static.orangebuddies.nl/image/stores/7710.jpg', isCbkDay: '1'})"> <span class="logo-div2"> <img src="https://static.orangebuddies.nl/image/stores/7710.jpg" alt="Vodafone (DSL, LTE & TV)" /> 
-                                            <span> bis zu 91,00  CashCoins</span> 
-                                        </span> 
-                                        <strong>Bei Vodafone sparst du dauerthaft 5,-€ in deinem...</strong>
-                                    </a> 
-                                </li>
-                                                                                                                                
-                                                                                                    
-                                                                                                                                                                    <li class="no3"> 
-                                    <a class="various" href="#inline_store_visit" onclick="loginFancyPopUP({cashback: '37,50 ', storeName: 'blau Mobilfunk', urlKey: 'blau-mobilfunk-de', imgUrl: 'https://static.orangebuddies.nl/image/stores/90634.jpg', isCbkDay: '1'})"> <span class="logo-div2"> <img src="https://static.orangebuddies.nl/image/stores/90634.jpg" alt="blau Mobilfunk" /> 
-                                            <span> bis zu 37,50  CashCoins</span> 
-                                        </span> 
-                                        <strong>Sichere dir den Top Tarif von blau Mobilfunk: Blau...</strong>
-                                    </a> 
-                                </li>
-                                                                                                                                
-                                                                                                                                                                                                    <li class="no4"> 
-                                    <a class="various" href="#inline_store_visit" onclick="loginFancyPopUP({cashback: '20,00%', storeName: 'NordVPN', urlKey: 'nord-vpn-de', imgUrl: 'https://static.orangebuddies.nl/image/stores/95118.jpg', isCbkDay: '0'})"> <span class="logo-div2"> <img src="https://static.orangebuddies.nl/image/stores/95118.jpg" alt="NordVPN" /> 
-                                            <span> 20,00% CashCoins</span> 
-                                        </span> 
-                                        <strong>Gewinne die Kontrolle über dein Internet-Browsing...</strong>
-                                    </a> 
-                                </li>
-                                                                                                                                
-                                                                                                    
-                                                                                                                                                                    <li class="no5"> 
-                                    <a class="various" href="#inline_store_visit" onclick="loginFancyPopUP({cashback: '17,50 ', storeName: 'AGILA', urlKey: 'agila', imgUrl: 'https://static.orangebuddies.nl/image/stores/79546.gif', isCbkDay: '1'})"> <span class="logo-div2"> <img src="https://static.orangebuddies.nl/image/stores/79546.gif" alt="AGILA" /> 
-                                            <span> bis zu 17,50  CashCoins</span> 
-                                        </span> 
-                                        <strong>Die AGILA Haustierversicherung AG gehört in...</strong>
-                                    </a> 
-                                </li>
-                                                                        </ul>
-                </div>
-                <span class="home-readmore"><a href="/shops/deals.php">Sieh dir weitere beliebte Aktionen an</a></span>
-                <!-- CHANGED: insert a readmore span/link here -->
-            </div>
-            <!-- Discount -->
-            <div class="home-part right">
-                <h2 class="new-heading">TOP 5 GRATIS</h2>
-                <div class="cat-list nonumber home-block">
-                    <!-- CHANGED: insert a nonumber class her -->
-                    <ul>
-                                                                                                                                                                                                                                                    
-                                <li class="no1"> 
-                                    <a class="various" href="#inline_store_visit" onclick="loginFancyPopUP({cashback: '17,50 ', storeName: 'Karibik Gewinnspiel', urlKey: 'karibik-gewinnspiel', imgUrl: 'https://static.orangebuddies.nl/image/stores/20509.jpg', isCbkDay: '0'})"> 
-                                        <span class="logo-div2">
-                                            <img src="https://static.orangebuddies.nl/image/stores/20509.jpg" alt="Karibik Gewinnspiel"/> 
-                                            <span>0,20  CashCoins</span> 
-                                        </span> 
-                                        <strong>Nimm jetzt am kostenlosen Gewinnspiel teil und gewinne eine traumhafte Kreuzfahrt in die Karibik! Viel Erfolg!</strong> 
-                                    </a> 
-                                </li>
-                                                                                                                                                                                                
-                                <li class="no2"> 
-                                    <a class="various" href="#inline_store_visit" onclick="loginFancyPopUP({cashback: '17,50 ', storeName: 'New York Gewinnspiel', urlKey: 'new-york-gewinnspiel', imgUrl: 'https://static.orangebuddies.nl/image/stores/23258.jpg', isCbkDay: '0'})"> 
-                                        <span class="logo-div2">
-                                            <img src="https://static.orangebuddies.nl/image/stores/23258.jpg" alt="New York Gewinnspiel"/> 
-                                            <span>0,20  CashCoins</span> 
-                                        </span> 
-                                        <strong>Nimm jetzt bei diesem sensationellen Gewinnspiel teil und gewinne ein Wochenendtrip nach New York für 2 Personen + 1.000$...</strong> 
-                                    </a> 
-                                </li>
-                                                                                                                                                                                                
-                                <li class="no3"> 
-                                    <a class="various" href="#inline_store_visit" onclick="loginFancyPopUP({cashback: '17,50 ', storeName: 'DRIVANGO', urlKey: 'drivango-mailing', imgUrl: 'https://static.orangebuddies.nl/image/stores/83163.jpg', isCbkDay: '0'})"> 
-                                        <span class="logo-div2">
-                                            <img src="https://static.orangebuddies.nl/image/stores/83163.jpg" alt="DRIVANGO"/> 
-                                            <span>4,00  CashCoins</span> 
-                                        </span> 
-                                        <strong>Beantrage jetzt deine persönliche Tankkarte bei DRIVANGO und spare weltweit beim Tanken. Profitiere von einer integrierten...</strong> 
-                                    </a> 
-                                </li>
-                                                                                                                                                                                                
-                                <li class="no4"> 
-                                    <a class="various" href="#inline_store_visit" onclick="loginFancyPopUP({cashback: '17,50 ', storeName: 'Hopa.com', urlKey: 'hopa-com', imgUrl: 'https://static.orangebuddies.nl/image/stores/hopa-com.jpg', isCbkDay: '0'})"> 
-                                        <span class="logo-div2">
-                                            <img src="https://static.orangebuddies.nl/image/stores/hopa-com.jpg" alt="Hopa.com"/> 
-                                            <span>10,00  CashCoins</span> 
-                                        </span> 
-                                        <strong>Hopa.com bietet dir 60 interaktive und kostenlose Rubbellos-Spiele mit 5,- € Startguthaben und sogar 100% Willkommens-Bonus...</strong> 
-                                    </a> 
-                                </li>
-                                                                                                                                                                                                
-                                <li class="no5"> 
-                                    <a class="various" href="#inline_store_visit" onclick="loginFancyPopUP({cashback: '17,50 ', storeName: 'Gembly', urlKey: 'gembly', imgUrl: 'https://static.orangebuddies.nl/image/stores/27143.gif', isCbkDay: '0'})"> 
-                                        <span class="logo-div2">
-                                            <img src="https://static.orangebuddies.nl/image/stores/27143.gif" alt="Gembly"/> 
-                                            <span>0,20  CashCoins</span> 
-                                        </span> 
-                                        <strong>Jetzt anmelden, mitspielen und tolle Gewinne absahnen! Auf Gembly kannst du die besten Kartenspiele, Brettspiele und Puzzles...</strong> 
-                                    </a> 
-                                </li>
-                                                                        </ul>
-                </div>
-                <span class="home-readmore"><a href="/shops/shops.php">Weitere beliebte kostenlose Aktionen</a></span>
-                <!-- CHANGED: insert a readmore span/link here -->
-            </div>
-            <!-- End Item Lists -->
-        </div>
-        <!--End home-parts -->
-        <!-- start deals -->
-        <div class="shop-category-deals   shop-category-deals-counter  ">
-            <h2 class="new-heading">Besondere Aktionen</h2>
-                             
-                                                                                                                                                                            <div class="exclusive_box  deal-box"> 
-                        <a href="/kortingsactie/naturzeit/naturzeit-arc-teryx-zu-freundschaftspreisen-de">
-                            <div class="exclusivedeal">
-                                                                <div class="productdiscount storeDealz">4,00% CashCoins</div>
-                                                                    <img src='https://static.orangebuddies.nl/image/vouchers/v_480692.jpg' alt='naturzeit' width="200" height="85" />
-                                                            </div>
-                        </a>
-                        <div class="vs-logo">
-                            <img src="https://static.orangebuddies.nl/image/stores/97871.jpg">
-                        </div>
-                        
-                                                    <div class="deal-countdown"  id="dcounter-0" data-stopdate="0000-00-00 00:00:00">Nur noch ...<span id="dcounter-0-daysleft"></span> Tage <span  id="dcounter-0-timeleft"></span></div> 
-                                                
-                        <div class="exclusivedescr deal-box-desc">
-                            <div> naturzeit: Arc&rsquo;teryx zu Freundschaftspreisen </div>
-                        </div>
-                        <a class="various button" href='#inline_store_visit' onclick="loginFancyPopUP({cashback: '4,00%', storeName: 'naturzeit', urlKey: 'naturzeit', itemId: '480692' , imgUrl: 'https://static.orangebuddies.nl/image/stores/97871.jpg', isCbkDay: '0'})">
-                            <span>Zur Aktion</span> 
-                        </a> 
-                                                 
-                                                 
-                                                                         
-                    </div>
-                 
-                                                                                                                                                                            <div class="exclusive_box  deal-box"> 
-                        <a href="/kortingsactie/ga-shaker-de/ga-shaker-versandksotenfrei-de">
-                            <div class="exclusivedeal">
-                                                                <div class="productdiscount storeDealz">5,00% CashCoins</div>
-                                                                    <img src='https://static.orangebuddies.nl/image/vouchers/v_464966.jpg' alt='GA Shaker' width="200" height="85" />
-                                                            </div>
-                        </a>
-                        <div class="vs-logo">
-                            <img src="https://static.orangebuddies.nl/image/stores/94558.jpg">
-                        </div>
-                        
-                                                    <div class="deal-countdown"  id="dcounter-1" data-stopdate="2018-00-00 00:00:00">Nur noch ...<span id="dcounter-1-daysleft"></span> Tage <span  id="dcounter-1-timeleft"></span></div> 
-                                                
-                        <div class="exclusivedescr deal-box-desc">
-                            <div> GA Shaker jetzt versandkostenfrei bestellen ab 44,95 € </div>
-                        </div>
-                        <a class="various button" href='#inline_store_visit' onclick="loginFancyPopUP({cashback: '5,00%', storeName: 'GA Shaker', urlKey: 'ga-shaker-de', itemId: '464966' , imgUrl: 'https://static.orangebuddies.nl/image/stores/94558.jpg', isCbkDay: '0'})">
-                            <span>Zur Aktion</span> 
-                        </a> 
-                                                 
-                                                 
-                                                                         
-                    </div>
-                 
-                                                                                                                                                                            <div class="exclusive_box  deal-box"> 
-                        <a href="/kortingsactie/springlane/springlane-kostenloser-versand-de">
-                            <div class="exclusivedeal">
-                                                                <div class="productdiscount storeDealz">2,00% CashCoins</div>
-                                                                    <img src='https://static.orangebuddies.nl/image/vouchers/v_482769.jpg' alt='Springlane' width="200" height="85" />
-                                                            </div>
-                        </a>
-                        <div class="vs-logo">
-                            <img src="https://static.orangebuddies.nl/image/stores/95841.jpg">
-                        </div>
-                        
-                                                    <div class="deal-countdown"  id="dcounter-2" data-stopdate="0000-00-00 00:00:00">Nur noch ...<span id="dcounter-2-daysleft"></span> Tage <span  id="dcounter-2-timeleft"></span></div> 
-                                                
-                        <div class="exclusivedescr deal-box-desc">
-                            <div> Springlane: Kostenloser Versand ab 49,-€ Bestellwert </div>
-                        </div>
-                        <a class="various button" href='#inline_store_visit' onclick="loginFancyPopUP({cashback: '2,00%', storeName: 'Springlane', urlKey: 'springlane', itemId: '482769' , imgUrl: 'https://static.orangebuddies.nl/image/stores/95841.jpg', isCbkDay: '0'})">
-                            <span>Zur Aktion</span> 
-                        </a> 
-                                                 
-                                                 
-                                                                         
-                    </div>
-                 
-                                                                                                                                                                            <div class="exclusive_box  deal-box"> 
-                        <a href="/kortingsactie/unumotorscom-de/unumotors-de-unu-elektroroller-at">
-                            <div class="exclusivedeal">
-                                                                <div class="productdiscount storeDealz">2,50% CashCoins</div>
-                                                                    <img src='https://static.orangebuddies.nl/image/vouchers/v_459176.jpg' alt='Unumotors.com' width="200" height="85" />
-                                                            </div>
-                        </a>
-                        <div class="vs-logo">
-                            <img src="https://static.orangebuddies.nl/image/stores/93469.jpg">
-                        </div>
-                        
-                                                    <div class="deal-countdown"  id="dcounter-3" data-stopdate="0000-00-00 00:00:00">Nur noch ...<span id="dcounter-3-daysleft"></span> Tage <span  id="dcounter-3-timeleft"></span></div> 
-                                                
-                        <div class="exclusivedescr deal-box-desc">
-                            <div> unumotors.de: Entdecke den neuen unu Elektroroller </div>
-                        </div>
-                        <a class="various button" href='#inline_store_visit' onclick="loginFancyPopUP({cashback: '2,50%', storeName: 'Unumotors.com', urlKey: 'unumotorscom-de', itemId: '459176' , imgUrl: 'https://static.orangebuddies.nl/image/stores/93469.jpg', isCbkDay: '0'})">
-                            <span>Zur Aktion</span> 
-                        </a> 
-                                                 
-                                                 
-                                                                         
-                    </div>
-                 
-                                                                                                                                                                            <div class="exclusive_box  deal-box"> 
-                        <a href="/kortingsactie/adler/adler-15-rabatt-at">
-                            <div class="exclusivedeal">
-                                                                <div class="productdiscount storeDealz">4,00% CashCoins</div>
-                                                                    <img src='https://static.orangebuddies.nl/image/vouchers/v_457338.jpg' alt='Adler' width="200" height="85" />
-                                                            </div>
-                        </a>
-                        <div class="vs-logo">
-                            <img src="https://static.orangebuddies.nl/image/stores/adler.gif">
-                        </div>
-                        
-                                                    <div class="deal-countdown"  id="dcounter-4" data-stopdate="0000-00-00 00:00:00">Nur noch ...<span id="dcounter-4-daysleft"></span> Tage <span  id="dcounter-4-timeleft"></span></div> 
-                                                
-                        <div class="exclusivedescr deal-box-desc">
-                            <div> Adler: 15% Rabatt auf den teuersten Artikel deiner Bestellung </div>
-                        </div>
-                        <a class="various button" href='#inline_store_visit' onclick="loginFancyPopUP({cashback: '4,00%', storeName: 'Adler', urlKey: 'adler', itemId: '457339' , imgUrl: 'https://static.orangebuddies.nl/image/stores/adler.gif', isCbkDay: '0'})">
-                            <span>Zur Aktion</span> 
-                        </a> 
-                                                 
-                                                 
-                                                                         
-                    </div>
-                 
-                                                                                               
-                                                                                <div class="exclusive_box  deal-box"> 
-                        <a href="/kortingsactie/schwab/Schwab-Sichere-dir-10-auf-Bademode-de">
-                            <div class="exclusivedeal">
-                                                                <div class="productdiscount storeDealz">4,25  CashCoins</div>
-                                                                    <img src='https://static.orangebuddies.nl/image/vouchers/v_408624.jpg' alt='Schwab' width="200" height="85" />
-                                                            </div>
-                        </a>
-                        <div class="vs-logo">
-                            <img src="https://static.orangebuddies.nl/image/stores/schwab.gif">
-                        </div>
-                        
-                                                    <div class="deal-countdown"  id="dcounter-5" data-stopdate="0000-00-00 00:00:00">Nur noch ...<span id="dcounter-5-daysleft"></span> Tage <span  id="dcounter-5-timeleft"></span></div> 
-                                                
-                        <div class="exclusivedescr deal-box-desc">
-                            <div> Schwab: Sichere dir 10% auf Bademode </div>
-                        </div>
-                        <a class="various button" href='#inline_store_visit' onclick="loginFancyPopUP({cashback: '4,25 ', storeName: 'Schwab', urlKey: 'schwab', itemId: '408624' , imgUrl: 'https://static.orangebuddies.nl/image/stores/schwab.gif', isCbkDay: '0'})">
-                            <span>Zur Aktion</span> 
-                        </a> 
-                                                 
-                                                 
-                                                                         
-                    </div>
-                 
-                                                                                                                                                                                                                        <div class="exclusive_box  deal-box"> 
-                        <a href="/kortingsactie/thalia-de/thalia-de-rabatt-70-letzte-exemplare">
-                            <div class="exclusivedeal">
-                                                                <div class="productdiscount storeDealz">bis zu 7,50% CashCoins</div>
-                                                                    <img src='https://static.orangebuddies.nl/image/vouchers/v_480252.jpg' alt='Thalia.de' width="200" height="85" />
-                                                            </div>
-                        </a>
-                        <div class="vs-logo">
-                            <img src="https://static.orangebuddies.nl/image/stores/7255.jpg">
-                        </div>
-                        
-                                                    <div class="deal-countdown"  id="dcounter-6" data-stopdate="2018-11-04 00:00:00">Nur noch ...<span id="dcounter-6-daysleft"></span> Tage <span  id="dcounter-6-timeleft"></span></div> 
-                                                
-                        <div class="exclusivedescr deal-box-desc">
-                            <div> Thalia.de: Letzte Exemplare sichern und 70% Rabatt erhalten </div>
-                        </div>
-                        <a class="various button" href='#inline_store_visit' onclick="loginFancyPopUP({cashback: '7,50%', storeName: 'Thalia.de', urlKey: 'thalia-de', itemId: '480255' , imgUrl: 'https://static.orangebuddies.nl/image/stores/7255.jpg', isCbkDay: '1'})">
-                            <span>Zur Aktion</span> 
-                        </a> 
-                                                 
-                                                 
-                                                                         
-                    </div>
-                 
-                                                                                               
-                                                                                                                            <div class="exclusive_box  deal-box"> 
-                        <a href="/kortingsactie/deutsche-postbank/postbank-komfort-konto-praemie-de">
-                            <div class="exclusivedeal">
-                                                                <div class="productdiscount storeDealz">bis zu 63,50  CashCoins</div>
-                                                                    <img src='https://static.orangebuddies.nl/image/vouchers/v_479095.jpg' alt='Postbank' width="200" height="85" />
-                                                            </div>
-                        </a>
-                        <div class="vs-logo">
-                            <img src="https://static.orangebuddies.nl/image/stores/8164.jpg">
-                        </div>
-                        
-                                                    <div class="deal-countdown"  id="dcounter-7" data-stopdate="2018-11-17 00:00:00">Nur noch ...<span id="dcounter-7-daysleft"></span> Tage <span  id="dcounter-7-timeleft"></span></div> 
-                                                
-                        <div class="exclusivedescr deal-box-desc">
-                            <div> Das Komfort-Konto der Postbank: bis zu 250,-€ Prämie </div>
-                        </div>
-                        <a class="various button" href='#inline_store_visit' onclick="loginFancyPopUP({cashback: '63,50 ', storeName: 'Postbank', urlKey: 'deutsche-postbank', itemId: '479095' , imgUrl: 'https://static.orangebuddies.nl/image/stores/8164.jpg', isCbkDay: '1'})">
-                            <span>Zur Aktion</span> 
-                        </a> 
-                                                 
-                                                 
-                                                                                        <div class="shareIconsToggle">
-                    <a class="tellfriend" href="#inline_tellafriends" onClick="loadPopup('.tellfriend', '800', '550', 'tellafriends');
-                    showTellafriendForm();">                  
-                  
-                <img src="https://static.orangebuddies.nl/templates/www.cashbackdeals.de/march16/assets/refer-mail-small.png" alt="Teilen:" /></a> 
-                    <a href="#" onClick="javascript: NewWinScrolls('http://twitter.com/share?url=https://www.cashbackdeals.de/u/481925/cashback/deutsche-postbank.php&text=' + encodeURIComponent('Bekomme genau wie ich (bis zu) 63,50  CashCoins bei Postbank. Verdiene extra Geld und bekomme direkt 7,50 CashCoins.'), 'Share on Twitter', 600, 450);
-                return false;">
-            <img src="https://static.orangebuddies.nl/templates/www.cashbackdeals.de/march16/assets/refer-twitter-small.png" alt="Auf Twitter teilen" />
-        </a> 
-        <a href="#" onClick="javascript: NewWinScrolls('https://www.facebook.com/dialog/feed?app_id=354800814617179&link=https://www.cashbackdeals.de/u/481925/cashback/deutsche-postbank.php&name=' + encodeURIComponent('Bekomme genau wie ich (bis zu) 63,50  CashCoins bei Postbank.') + '&picture=https://static.orangebuddies.nl/image/stores/8164.jpg&description=Verdiene extra Geld und bekomme direkt 7,50 CashCoins.&redirect_uri=https://www.cashbackdeals.de/', 'Share on Facebook', 600, 450);
-                return false;">
-            <img src="https://static.orangebuddies.nl/templates/www.cashbackdeals.de/march16/assets/refer-facebook-small.png" alt="Auf Facebook teilen" />
-        </a>
+			<tr>
+            <td align="left" data-title="Art">CashMails</td>  
+            <td align="left" data-title="Anzahl Transaktionen">171<strong>x</strong></td>  
+            <td align="left" data-title="CashCoins"> 1,710</td>  
+            <td align="left" data-title="Haben/Soll">Haben</td>  
+                        </tr>
+				<!--<div class="account_category" >
+					<span style="border-bottom: 1px ;" class="cashback_name"><a href="trans_data.php?type=review&page=1" onclick="window.open('trans_data.php?type=review&page=1','Shopbewertungen',
+					'width=720,height=500,scrollbars=no,toolbar=yes,location=no'); return false">Shopbewertungen  </a></span>
+					<span style="border-bottom: 1px ;" class="cashback_transactions">4<strong>x</strong></span>
+					<span style="border-bottom: 1px ;" class="cashback">0,400</span>
+					<span style="border-bottom: 1px ;" class="cashback">Haben</span>
+				</div>-->
 
-        
+                                <!-- NEW -->
+                               <tr>
+            <td align="left" data-title="Art">Shopbewertungen</td>  
+            <td align="left" data-title="Anzahl Transaktionen">4<strong>x</strong></td>  
+            <td align="left" data-title="CashCoins">0,400</td>  
+            <td align="left" data-title="Haben/Soll">Haben</td>  
+                              </tr>
+                                <tr>
+            <td align="left" data-title="Art">Empfehlungen</td>  
+            <td align="left" data-title="Anzahl Transaktionen">1<strong>x</strong></td>  
+            <td align="left" data-title="CashCoins">0,500</td>  
+            <td align="left" data-title="Haben/Soll">Haben</td>  
+                                </tr> 
+				 <tr>
+            <td align="left" data-title="Art">Aktionen teilen</td>  
+            <td align="left" data-title="Anzahl Transaktionen">16<strong>x</strong></td>  
+            <td align="left" data-title="CashCoins">0,160</td>  
+            <td align="left" data-title="Haben/Soll">Haben</td>  
+                                 </tr> 
+				 <tr>
+            <td align="left" data-title="Art">App Vergütung</td>  
+            <td align="left" data-title="Anzahl Transaktionen">1<strong>x</strong></td>  
+            <td align="left" data-title="CashCoins">0,200</td>  
+            <td align="left" data-title="Haben/Soll">Haben</td>  
+                                 </tr> 
+				 <tr>
+            <td align="left" data-title="Art">Mitglieder-Aktion</td>  
+            <td align="left" data-title="Anzahl Transaktionen">15<strong>x</strong></td>  
+            <td align="left" data-title="CashCoins">11,250</td>  
+            <td align="left" data-title="Haben/Soll">Soll/Haben</td>  
+                                 </tr> 
 
-    </div>
-                        <div class="shareButtonToggle share-deal-icon" onclick="toggleShare(this)">
-                <img width="25px" height="auto" src="https://static.orangebuddies.nl/templates/www.cashbackdeals.de/march16/assets/share.png" alt="Share-icon" title="Share"> 
-            </div>
-             
-                    </div>
-                                <div class="more-link"><a href="/shops/deals.php">Alle Angebote</a></div>
-                            <!-- CHANGED: insert a readmore span/link here -->
-        </div>
-        <!-- end deals -->
-        <!-- Item Home Daily Item -->
-        <div id="dailydeal_welcomepage" class="clearfix">
-            <h2 class="new-heading">Tagesangebote</h2>
-                            <ul class="dealsslider">
-                                                                                                                                                                                                    
-                                                                                                                            <li>
-                            <div class="dailydeal_box first">
-                                <a class="various" href="#inline_store_visit" onclick="loginFancyPopUP({cashback: '7,50%', storeName: 'Groupon Shopping', urlKey: 'groupon-shopping', imgUrl: 'https://static.orangebuddies.nl/image/stores/7245.jpg', itemId: '3420618', itemType: 'dailydeal', isCbkDay: '1'})" >
-                                    <span class="dailydeal"> 
-                                        <img src="https://orangebuddies.vault.ecloud.co.uk/dailydeals/3420618.jpg" alt="dagdeal" /> 
-                                    </span> 
-                                </a>
-                                <div class="price-bg"> 
-                                    <span> 
-                                                                                    €29,00
-                                         
-                                    </span> 
-                                    <strong > 
-                                        €14,00 
-                                    </strong> 
-                                </div>
-                                <span class="store-logo">
-                                    <img src="https://static.orangebuddies.nl/image/stores/7245.jpg" alt="Groupon Shopping" width="120" height="60" />
-                                </span>
-                                <p>„DIE ZWERGE - Live!“  am Sa., 15.04.2017 um 19:30 Uhr im Capitol Theater Düsseldorf (50% sparen)</p>
-
-                                <a class="various button" href="#inline_store_visit" onclick="loginFancyPopUP({cashback: '7,50%', storeName: 'Groupon Shopping', urlKey: 'groupon-shopping', imgUrl: 'https://static.orangebuddies.nl/image/stores/7245.jpg', itemId: '3420618', itemType: 'dailydeal', isCbkDay: '1'})" >
-                                    <span>7,50% extra CashCoins</span>
-                                </a>
-                                <div class="shareWraperToggle">
-                                                                         
-                                                                         
-                                                                                                                            <div class="shareIconsToggle">
-                    <a class="tellfriend" href="#inline_tellafriends" onClick="loadPopup('.tellfriend', '800', '550', 'tellafriends');
-                    showTellafriendForm();">                  
-                  
-                <img src="https://static.orangebuddies.nl/templates/www.cashbackdeals.de/march16/assets/refer-mail-small.png" alt="Teilen:" /></a> 
-                    <a href="#" onClick="javascript: NewWinScrolls('http://twitter.com/share?url=https://www.cashbackdeals.de/u/481925/cashback/groupon-shopping.php&text=' + encodeURIComponent('Bekomme genau wie ich (bis zu) 7,50% CashCoins bei Groupon Shopping. Verdiene extra Geld und bekomme direkt 7,50 CashCoins.'), 'Share on Twitter', 600, 450);
-                return false;">
-            <img src="https://static.orangebuddies.nl/templates/www.cashbackdeals.de/march16/assets/refer-twitter-small.png" alt="Auf Twitter teilen" />
-        </a> 
-        <a href="#" onClick="javascript: NewWinScrolls('https://www.facebook.com/dialog/feed?app_id=354800814617179&link=https://www.cashbackdeals.de/u/481925/cashback/groupon-shopping.php&name=' + encodeURIComponent('Bekomme genau wie ich (bis zu) 7,50% CashCoins bei Groupon Shopping.') + '&picture=https://static.orangebuddies.nl/image/stores/8164.jpg&description=Verdiene extra Geld und bekomme direkt 7,50 CashCoins.&redirect_uri=https://www.cashbackdeals.de/', 'Share on Facebook', 600, 450);
-                return false;">
-            <img src="https://static.orangebuddies.nl/templates/www.cashbackdeals.de/march16/assets/refer-facebook-small.png" alt="Auf Facebook teilen" />
-        </a>
-
-        
-
-    </div>
-                        <div class="shareButtonToggle share-deal-icon" onclick="toggleShare(this)">
-                <img width="25px" height="auto" src="https://static.orangebuddies.nl/templates/www.cashbackdeals.de/march16/assets/share.png" alt="Share-icon" title="Share"> 
-            </div>
-             
-                                </div>
-                            </div>
-                        </li>
-                                                                                                                                                
-                                                                                                                            <li>
-                            <div class="dailydeal_box ">
-                                <a class="various" href="#inline_store_visit" onclick="loginFancyPopUP({cashback: '1,00%', storeName: '1DayFly.com', urlKey: '1dayfly-com', imgUrl: 'https://static.orangebuddies.nl/image/stores/22182.gif', itemId: '6916932', itemType: 'dailydeal', isCbkDay: '0'})" >
-                                    <span class="dailydeal"> 
-                                        <img src="https://orangebuddies.vault.ecloud.co.uk/dailydeals/6916932.jpg" alt="dagdeal" /> 
-                                    </span> 
-                                </a>
-                                <div class="price-bg"> 
-                                    <span> 
-                                                                                    €25,00
-                                         
-                                    </span> 
-                                    <strong > 
-                                        €13,95 
-                                    </strong> 
-                                </div>
-                                <span class="store-logo">
-                                    <img src="https://static.orangebuddies.nl/image/stores/22182.gif" alt="1DayFly.com" width="120" height="60" />
-                                </span>
-                                <p>Original apple 1 meter kabel</p>
-
-                                <a class="various button" href="#inline_store_visit" onclick="loginFancyPopUP({cashback: '1,00%', storeName: '1DayFly.com', urlKey: '1dayfly-com', imgUrl: 'https://static.orangebuddies.nl/image/stores/22182.gif', itemId: '6916932', itemType: 'dailydeal', isCbkDay: '0'})" >
-                                    <span>1,00% extra CashCoins</span>
-                                </a>
-                                <div class="shareWraperToggle">
-                                                                         
-                                                                         
-                                                                                                                            <div class="shareIconsToggle">
-                    <a class="tellfriend" href="#inline_tellafriends" onClick="loadPopup('.tellfriend', '800', '550', 'tellafriends');
-                    showTellafriendForm();">                  
-                  
-                <img src="https://static.orangebuddies.nl/templates/www.cashbackdeals.de/march16/assets/refer-mail-small.png" alt="Teilen:" /></a> 
-                    <a href="#" onClick="javascript: NewWinScrolls('http://twitter.com/share?url=https://www.cashbackdeals.de/u/481925/cashback/1dayfly-com.php&text=' + encodeURIComponent('Bekomme genau wie ich (bis zu) 1,00% CashCoins bei 1DayFly.com. Verdiene extra Geld und bekomme direkt 7,50 CashCoins.'), 'Share on Twitter', 600, 450);
-                return false;">
-            <img src="https://static.orangebuddies.nl/templates/www.cashbackdeals.de/march16/assets/refer-twitter-small.png" alt="Auf Twitter teilen" />
-        </a> 
-        <a href="#" onClick="javascript: NewWinScrolls('https://www.facebook.com/dialog/feed?app_id=354800814617179&link=https://www.cashbackdeals.de/u/481925/cashback/1dayfly-com.php&name=' + encodeURIComponent('Bekomme genau wie ich (bis zu) 1,00% CashCoins bei 1DayFly.com.') + '&picture=https://static.orangebuddies.nl/image/stores/8164.jpg&description=Verdiene extra Geld und bekomme direkt 7,50 CashCoins.&redirect_uri=https://www.cashbackdeals.de/', 'Share on Facebook', 600, 450);
-                return false;">
-            <img src="https://static.orangebuddies.nl/templates/www.cashbackdeals.de/march16/assets/refer-facebook-small.png" alt="Auf Facebook teilen" />
-        </a>
-
-        
-
-    </div>
-                        <div class="shareButtonToggle share-deal-icon" onclick="toggleShare(this)">
-                <img width="25px" height="auto" src="https://static.orangebuddies.nl/templates/www.cashbackdeals.de/march16/assets/share.png" alt="Share-icon" title="Share"> 
-            </div>
-             
-                                </div>
-                            </div>
-                        </li>
-                                                                                                                                                
-                                                                                                                            <li>
-                            <div class="dailydeal_box ">
-                                <a class="various" href="#inline_store_visit" onclick="loginFancyPopUP({cashback: '4,55%', storeName: 'FRMODA', urlKey: 'frmoda', imgUrl: 'https://static.orangebuddies.nl/image/stores/22935.gif', itemId: '6862884', itemType: 'dailydeal', isCbkDay: '0'})" >
-                                    <span class="dailydeal"> 
-                                        <img src="https://orangebuddies.vault.ecloud.co.uk/dailydeals/6862884.jpg" alt="dagdeal" /> 
-                                    </span> 
-                                </a>
-                                <div class="price-bg"> 
-                                    <span> 
-                                         
-                                    </span> 
-                                    <strong > 
-                                        €301,00 
-                                    </strong> 
-                                </div>
-                                <span class="store-logo">
-                                    <img src="https://static.orangebuddies.nl/image/stores/22935.gif" alt="FRMODA" width="120" height="60" />
-                                </span>
-                                <p>Herrenschuhe wildleder business schuhe herren schnürschuhe orby</p>
-
-                                <a class="various button" href="#inline_store_visit" onclick="loginFancyPopUP({cashback: '4,55%', storeName: 'FRMODA', urlKey: 'frmoda', imgUrl: 'https://static.orangebuddies.nl/image/stores/22935.gif', itemId: '6862884', itemType: 'dailydeal', isCbkDay: '0'})" >
-                                    <span>4,55% extra CashCoins</span>
-                                </a>
-                                <div class="shareWraperToggle">
-                                                                         
-                                                                         
-                                                                                                                            <div class="shareIconsToggle">
-                    <a class="tellfriend" href="#inline_tellafriends" onClick="loadPopup('.tellfriend', '800', '550', 'tellafriends');
-                    showTellafriendForm();">                  
-                  
-                <img src="https://static.orangebuddies.nl/templates/www.cashbackdeals.de/march16/assets/refer-mail-small.png" alt="Teilen:" /></a> 
-                    <a href="#" onClick="javascript: NewWinScrolls('http://twitter.com/share?url=https://www.cashbackdeals.de/u/481925/cashback/frmoda.php&text=' + encodeURIComponent('Bekomme genau wie ich (bis zu) 4,55% CashCoins bei FRMODA. Verdiene extra Geld und bekomme direkt 7,50 CashCoins.'), 'Share on Twitter', 600, 450);
-                return false;">
-            <img src="https://static.orangebuddies.nl/templates/www.cashbackdeals.de/march16/assets/refer-twitter-small.png" alt="Auf Twitter teilen" />
-        </a> 
-        <a href="#" onClick="javascript: NewWinScrolls('https://www.facebook.com/dialog/feed?app_id=354800814617179&link=https://www.cashbackdeals.de/u/481925/cashback/frmoda.php&name=' + encodeURIComponent('Bekomme genau wie ich (bis zu) 4,55% CashCoins bei FRMODA.') + '&picture=https://static.orangebuddies.nl/image/stores/8164.jpg&description=Verdiene extra Geld und bekomme direkt 7,50 CashCoins.&redirect_uri=https://www.cashbackdeals.de/', 'Share on Facebook', 600, 450);
-                return false;">
-            <img src="https://static.orangebuddies.nl/templates/www.cashbackdeals.de/march16/assets/refer-facebook-small.png" alt="Auf Facebook teilen" />
-        </a>
-
-        
-
-    </div>
-                        <div class="shareButtonToggle share-deal-icon" onclick="toggleShare(this)">
-                <img width="25px" height="auto" src="https://static.orangebuddies.nl/templates/www.cashbackdeals.de/march16/assets/share.png" alt="Share-icon" title="Share"> 
-            </div>
-             
-                                </div>
-                            </div>
-                        </li>
-                                                                                                                                                
-                                                                                                                            <li>
-                            <div class="dailydeal_box ">
-                                <a class="various" href="#inline_store_visit" onclick="loginFancyPopUP({cashback: '0,00%', storeName: 'Aquadea', urlKey: 'aquadea', imgUrl: 'https://static.orangebuddies.nl/image/stores/29278.jpg', itemId: '6862863', itemType: 'dailydeal', isCbkDay: '0'})" >
-                                    <span class="dailydeal"> 
-                                        <img src="https://orangebuddies.vault.ecloud.co.uk/dailydeals/6862863.jpg" alt="dagdeal" /> 
-                                    </span> 
-                                </a>
-                                <div class="price-bg"> 
-                                    <span> 
-                                         
-                                    </span> 
-                                    <strong > 
-                                        €53,00 
-                                    </strong> 
-                                </div>
-                                <span class="store-logo">
-                                    <img src="https://static.orangebuddies.nl/image/stores/29278.jpg" alt="Aquadea" width="120" height="60" />
-                                </span>
-                                <p>REISER AB-M 0120</p>
-
-                                <a class="various button" href="#inline_store_visit" onclick="loginFancyPopUP({cashback: '0,00%', storeName: 'Aquadea', urlKey: 'aquadea', imgUrl: 'https://static.orangebuddies.nl/image/stores/29278.jpg', itemId: '6862863', itemType: 'dailydeal', isCbkDay: '0'})" >
-                                    <span>0,00% extra CashCoins</span>
-                                </a>
-                                <div class="shareWraperToggle">
-                                                                         
-                                                                         
-                                                                                                                            <div class="shareIconsToggle">
-                    <a class="tellfriend" href="#inline_tellafriends" onClick="loadPopup('.tellfriend', '800', '550', 'tellafriends');
-                    showTellafriendForm();">                  
-                  
-                <img src="https://static.orangebuddies.nl/templates/www.cashbackdeals.de/march16/assets/refer-mail-small.png" alt="Teilen:" /></a> 
-                    <a href="#" onClick="javascript: NewWinScrolls('http://twitter.com/share?url=https://www.cashbackdeals.de/u/481925/cashback/aquadea.php&text=' + encodeURIComponent('Bekomme genau wie ich (bis zu) 0,00% CashCoins bei Aquadea. Verdiene extra Geld und bekomme direkt 7,50 CashCoins.'), 'Share on Twitter', 600, 450);
-                return false;">
-            <img src="https://static.orangebuddies.nl/templates/www.cashbackdeals.de/march16/assets/refer-twitter-small.png" alt="Auf Twitter teilen" />
-        </a> 
-        <a href="#" onClick="javascript: NewWinScrolls('https://www.facebook.com/dialog/feed?app_id=354800814617179&link=https://www.cashbackdeals.de/u/481925/cashback/aquadea.php&name=' + encodeURIComponent('Bekomme genau wie ich (bis zu) 0,00% CashCoins bei Aquadea.') + '&picture=https://static.orangebuddies.nl/image/stores/8164.jpg&description=Verdiene extra Geld und bekomme direkt 7,50 CashCoins.&redirect_uri=https://www.cashbackdeals.de/', 'Share on Facebook', 600, 450);
-                return false;">
-            <img src="https://static.orangebuddies.nl/templates/www.cashbackdeals.de/march16/assets/refer-facebook-small.png" alt="Auf Facebook teilen" />
-        </a>
-
-        
-
-    </div>
-                        <div class="shareButtonToggle share-deal-icon" onclick="toggleShare(this)">
-                <img width="25px" height="auto" src="https://static.orangebuddies.nl/templates/www.cashbackdeals.de/march16/assets/share.png" alt="Share-icon" title="Share"> 
-            </div>
-             
-                                </div>
-                            </div>
-                        </li>
-                                                                                                                                                
-                                                                                                                            <li>
-                            <div class="dailydeal_box first">
-                                <a class="various" href="#inline_store_visit" onclick="loginFancyPopUP({cashback: '6,25%', storeName: 'Brunotti', urlKey: 'brunotti', imgUrl: 'https://static.orangebuddies.nl/image/stores/30114.jpg', itemId: '6862875', itemType: 'dailydeal', isCbkDay: '0'})" >
-                                    <span class="dailydeal"> 
-                                        <img src="https://orangebuddies.vault.ecloud.co.uk/dailydeals/6862875.jpg" alt="dagdeal" /> 
-                                    </span> 
-                                </a>
-                                <div class="price-bg"> 
-                                    <span> 
-                                                                                    €109,95
-                                         
-                                    </span> 
-                                    <strong > 
-                                        €109,95 
-                                    </strong> 
-                                </div>
-                                <span class="store-logo">
-                                    <img src="https://static.orangebuddies.nl/image/stores/30114.jpg" alt="Brunotti" width="120" height="60" />
-                                </span>
-                                <p>Brunotti Balme Men Shoe</p>
-
-                                <a class="various button" href="#inline_store_visit" onclick="loginFancyPopUP({cashback: '6,25%', storeName: 'Brunotti', urlKey: 'brunotti', imgUrl: 'https://static.orangebuddies.nl/image/stores/30114.jpg', itemId: '6862875', itemType: 'dailydeal', isCbkDay: '0'})" >
-                                    <span>6,25% extra CashCoins</span>
-                                </a>
-                                <div class="shareWraperToggle">
-                                                                         
-                                                                         
-                                                                                                                            <div class="shareIconsToggle">
-                    <a class="tellfriend" href="#inline_tellafriends" onClick="loadPopup('.tellfriend', '800', '550', 'tellafriends');
-                    showTellafriendForm();">                  
-                  
-                <img src="https://static.orangebuddies.nl/templates/www.cashbackdeals.de/march16/assets/refer-mail-small.png" alt="Teilen:" /></a> 
-                    <a href="#" onClick="javascript: NewWinScrolls('http://twitter.com/share?url=https://www.cashbackdeals.de/u/481925/cashback/brunotti.php&text=' + encodeURIComponent('Bekomme genau wie ich (bis zu) 6,25% CashCoins bei Brunotti. Verdiene extra Geld und bekomme direkt 7,50 CashCoins.'), 'Share on Twitter', 600, 450);
-                return false;">
-            <img src="https://static.orangebuddies.nl/templates/www.cashbackdeals.de/march16/assets/refer-twitter-small.png" alt="Auf Twitter teilen" />
-        </a> 
-        <a href="#" onClick="javascript: NewWinScrolls('https://www.facebook.com/dialog/feed?app_id=354800814617179&link=https://www.cashbackdeals.de/u/481925/cashback/brunotti.php&name=' + encodeURIComponent('Bekomme genau wie ich (bis zu) 6,25% CashCoins bei Brunotti.') + '&picture=https://static.orangebuddies.nl/image/stores/8164.jpg&description=Verdiene extra Geld und bekomme direkt 7,50 CashCoins.&redirect_uri=https://www.cashbackdeals.de/', 'Share on Facebook', 600, 450);
-                return false;">
-            <img src="https://static.orangebuddies.nl/templates/www.cashbackdeals.de/march16/assets/refer-facebook-small.png" alt="Auf Facebook teilen" />
-        </a>
-
-        
-
-    </div>
-                        <div class="shareButtonToggle share-deal-icon" onclick="toggleShare(this)">
-                <img width="25px" height="auto" src="https://static.orangebuddies.nl/templates/www.cashbackdeals.de/march16/assets/share.png" alt="Share-icon" title="Share"> 
-            </div>
-             
-                                </div>
-                            </div>
-                        </li>
-                                                                                                                                                
-                                                                                                                            <li>
-                            <div class="dailydeal_box ">
-                                <a class="various" href="#inline_store_visit" onclick="loginFancyPopUP({cashback: '1,25%', storeName: 'Bax-shop.de', urlKey: 'bax-shop-de', imgUrl: 'https://static.orangebuddies.nl/image/stores/30280.jpg', itemId: '6866006', itemType: 'dailydeal', isCbkDay: '0'})" >
-                                    <span class="dailydeal"> 
-                                        <img src="https://orangebuddies.vault.ecloud.co.uk/dailydeals/6866006.jpg" alt="dagdeal" /> 
-                                    </span> 
-                                </a>
-                                <div class="price-bg"> 
-                                    <span> 
-                                         
-                                    </span> 
-                                    <strong > 
-                                        €13,95 
-                                    </strong> 
-                                </div>
-                                <span class="store-logo">
-                                    <img src="https://static.orangebuddies.nl/image/stores/30280.jpg" alt="Bax-shop.de" width="120" height="60" />
-                                </span>
-                                <p>KAT Percussion Tennisball Beater</p>
-
-                                <a class="various button" href="#inline_store_visit" onclick="loginFancyPopUP({cashback: '1,25%', storeName: 'Bax-shop.de', urlKey: 'bax-shop-de', imgUrl: 'https://static.orangebuddies.nl/image/stores/30280.jpg', itemId: '6866006', itemType: 'dailydeal', isCbkDay: '0'})" >
-                                    <span>1,25% extra CashCoins</span>
-                                </a>
-                                <div class="shareWraperToggle">
-                                                                         
-                                                                         
-                                                                                                                            <div class="shareIconsToggle">
-                    <a class="tellfriend" href="#inline_tellafriends" onClick="loadPopup('.tellfriend', '800', '550', 'tellafriends');
-                    showTellafriendForm();">                  
-                  
-                <img src="https://static.orangebuddies.nl/templates/www.cashbackdeals.de/march16/assets/refer-mail-small.png" alt="Teilen:" /></a> 
-                    <a href="#" onClick="javascript: NewWinScrolls('http://twitter.com/share?url=https://www.cashbackdeals.de/u/481925/cashback/bax-shop-de.php&text=' + encodeURIComponent('Bekomme genau wie ich (bis zu) 1,25% CashCoins bei Bax-shop.de. Verdiene extra Geld und bekomme direkt 7,50 CashCoins.'), 'Share on Twitter', 600, 450);
-                return false;">
-            <img src="https://static.orangebuddies.nl/templates/www.cashbackdeals.de/march16/assets/refer-twitter-small.png" alt="Auf Twitter teilen" />
-        </a> 
-        <a href="#" onClick="javascript: NewWinScrolls('https://www.facebook.com/dialog/feed?app_id=354800814617179&link=https://www.cashbackdeals.de/u/481925/cashback/bax-shop-de.php&name=' + encodeURIComponent('Bekomme genau wie ich (bis zu) 1,25% CashCoins bei Bax-shop.de.') + '&picture=https://static.orangebuddies.nl/image/stores/8164.jpg&description=Verdiene extra Geld und bekomme direkt 7,50 CashCoins.&redirect_uri=https://www.cashbackdeals.de/', 'Share on Facebook', 600, 450);
-                return false;">
-            <img src="https://static.orangebuddies.nl/templates/www.cashbackdeals.de/march16/assets/refer-facebook-small.png" alt="Auf Facebook teilen" />
-        </a>
-
-        
-
-    </div>
-                        <div class="shareButtonToggle share-deal-icon" onclick="toggleShare(this)">
-                <img width="25px" height="auto" src="https://static.orangebuddies.nl/templates/www.cashbackdeals.de/march16/assets/share.png" alt="Share-icon" title="Share"> 
-            </div>
-             
-                                </div>
-                            </div>
-                        </li>
-                                                                                                                                                
-                                                                                                                            <li>
-                            <div class="dailydeal_box ">
-                                <a class="various" href="#inline_store_visit" onclick="loginFancyPopUP({cashback: '3,25%', storeName: 'Bianco', urlKey: 'bianco', imgUrl: 'https://static.orangebuddies.nl/image/stores/30542.jpg', itemId: '6916974', itemType: 'dailydeal', isCbkDay: '0'})" >
-                                    <span class="dailydeal"> 
-                                        <img src="https://orangebuddies.vault.ecloud.co.uk/dailydeals/6916974.jpeg" alt="dagdeal" /> 
-                                    </span> 
-                                </a>
-                                <div class="price-bg"> 
-                                    <span> 
-                                                                                    €99,99
-                                         
-                                    </span> 
-                                    <strong > 
-                                        €99,99 
-                                    </strong> 
-                                </div>
-                                <span class="store-logo">
-                                    <img src="https://static.orangebuddies.nl/image/stores/30542.jpg" alt="Bianco" width="120" height="60" />
-                                </span>
-                                <p>BIANCO Leder Schnür Stiefeletten Damen Schwarz</p>
-
-                                <a class="various button" href="#inline_store_visit" onclick="loginFancyPopUP({cashback: '3,25%', storeName: 'Bianco', urlKey: 'bianco', imgUrl: 'https://static.orangebuddies.nl/image/stores/30542.jpg', itemId: '6916974', itemType: 'dailydeal', isCbkDay: '0'})" >
-                                    <span>3,25% extra CashCoins</span>
-                                </a>
-                                <div class="shareWraperToggle">
-                                                                         
-                                                                         
-                                                                                                                            <div class="shareIconsToggle">
-                    <a class="tellfriend" href="#inline_tellafriends" onClick="loadPopup('.tellfriend', '800', '550', 'tellafriends');
-                    showTellafriendForm();">                  
-                  
-                <img src="https://static.orangebuddies.nl/templates/www.cashbackdeals.de/march16/assets/refer-mail-small.png" alt="Teilen:" /></a> 
-                    <a href="#" onClick="javascript: NewWinScrolls('http://twitter.com/share?url=https://www.cashbackdeals.de/u/481925/cashback/bianco.php&text=' + encodeURIComponent('Bekomme genau wie ich (bis zu) 3,25% CashCoins bei Bianco. Verdiene extra Geld und bekomme direkt 7,50 CashCoins.'), 'Share on Twitter', 600, 450);
-                return false;">
-            <img src="https://static.orangebuddies.nl/templates/www.cashbackdeals.de/march16/assets/refer-twitter-small.png" alt="Auf Twitter teilen" />
-        </a> 
-        <a href="#" onClick="javascript: NewWinScrolls('https://www.facebook.com/dialog/feed?app_id=354800814617179&link=https://www.cashbackdeals.de/u/481925/cashback/bianco.php&name=' + encodeURIComponent('Bekomme genau wie ich (bis zu) 3,25% CashCoins bei Bianco.') + '&picture=https://static.orangebuddies.nl/image/stores/8164.jpg&description=Verdiene extra Geld und bekomme direkt 7,50 CashCoins.&redirect_uri=https://www.cashbackdeals.de/', 'Share on Facebook', 600, 450);
-                return false;">
-            <img src="https://static.orangebuddies.nl/templates/www.cashbackdeals.de/march16/assets/refer-facebook-small.png" alt="Auf Facebook teilen" />
-        </a>
-
-        
-
-    </div>
-                        <div class="shareButtonToggle share-deal-icon" onclick="toggleShare(this)">
-                <img width="25px" height="auto" src="https://static.orangebuddies.nl/templates/www.cashbackdeals.de/march16/assets/share.png" alt="Share-icon" title="Share"> 
-            </div>
-             
-                                </div>
-                            </div>
-                        </li>
-                                                                                                                                                
-                                                                                                                            <li>
-                            <div class="dailydeal_box ">
-                                <a class="various" href="#inline_store_visit" onclick="loginFancyPopUP({cashback: '0,50%', storeName: 'GearBest', urlKey: 'gearbest', imgUrl: 'https://static.orangebuddies.nl/image/stores/31493.jpg', itemId: '5587964', itemType: 'dailydeal', isCbkDay: '0'})" >
-                                    <span class="dailydeal"> 
-                                        <img src="https://orangebuddies.vault.ecloud.co.uk/dailydeals/5587964.jpg" alt="dagdeal" /> 
-                                    </span> 
-                                </a>
-                                <div class="price-bg"> 
-                                    <span> 
-                                         
-                                    </span> 
-                                    <strong > 
-                                        €19,99 
-                                    </strong> 
-                                </div>
-                                <span class="store-logo">
-                                    <img src="https://static.orangebuddies.nl/image/stores/31493.jpg" alt="GearBest" width="120" height="60" />
-                                </span>
-                                <p>Original Xiaomi Mi Band 2 Smart Watch for Android iOS</p>
-
-                                <a class="various button" href="#inline_store_visit" onclick="loginFancyPopUP({cashback: '0,50%', storeName: 'GearBest', urlKey: 'gearbest', imgUrl: 'https://static.orangebuddies.nl/image/stores/31493.jpg', itemId: '5587964', itemType: 'dailydeal', isCbkDay: '0'})" >
-                                    <span>0,50% extra CashCoins</span>
-                                </a>
-                                <div class="shareWraperToggle">
-                                                                         
-                                                                         
-                                                                                                                            <div class="shareIconsToggle">
-                    <a class="tellfriend" href="#inline_tellafriends" onClick="loadPopup('.tellfriend', '800', '550', 'tellafriends');
-                    showTellafriendForm();">                  
-                  
-                <img src="https://static.orangebuddies.nl/templates/www.cashbackdeals.de/march16/assets/refer-mail-small.png" alt="Teilen:" /></a> 
-                    <a href="#" onClick="javascript: NewWinScrolls('http://twitter.com/share?url=https://www.cashbackdeals.de/u/481925/cashback/gearbest.php&text=' + encodeURIComponent('Bekomme genau wie ich (bis zu) 0,50% CashCoins bei GearBest. Verdiene extra Geld und bekomme direkt 7,50 CashCoins.'), 'Share on Twitter', 600, 450);
-                return false;">
-            <img src="https://static.orangebuddies.nl/templates/www.cashbackdeals.de/march16/assets/refer-twitter-small.png" alt="Auf Twitter teilen" />
-        </a> 
-        <a href="#" onClick="javascript: NewWinScrolls('https://www.facebook.com/dialog/feed?app_id=354800814617179&link=https://www.cashbackdeals.de/u/481925/cashback/gearbest.php&name=' + encodeURIComponent('Bekomme genau wie ich (bis zu) 0,50% CashCoins bei GearBest.') + '&picture=https://static.orangebuddies.nl/image/stores/8164.jpg&description=Verdiene extra Geld und bekomme direkt 7,50 CashCoins.&redirect_uri=https://www.cashbackdeals.de/', 'Share on Facebook', 600, 450);
-                return false;">
-            <img src="https://static.orangebuddies.nl/templates/www.cashbackdeals.de/march16/assets/refer-facebook-small.png" alt="Auf Facebook teilen" />
-        </a>
-
-        
-
-    </div>
-                        <div class="shareButtonToggle share-deal-icon" onclick="toggleShare(this)">
-                <img width="25px" height="auto" src="https://static.orangebuddies.nl/templates/www.cashbackdeals.de/march16/assets/share.png" alt="Share-icon" title="Share"> 
-            </div>
-             
-                                </div>
-                            </div>
-                        </li>
-                                    </ul>
-             <span class="home-readmore"><a href="/shops/dailydeals-service.php">Weitere Tagesangebote</a></span>
-        </div>
-        <!-- start shops -->
-        <div class="shop-category-shops">
-            <div id="brands-popular" class="clearfix">
-                <h2 class="new-heading">Neue Shops</h2>
-                <div class="home-shopbanners  clearfix">
-                    <div class="bx-wrapper">
-                        <ul class="new_stores popular_stores">
-                                                                                                                                                                            
-                                    <li> <a href='/cashback/supershop.php'> <img src="https://static.orangebuddies.nl/image/stores/98516.jpg" alt="SUPERSHOP" />
-                                            <div class="popular_store-name">SUPERSHOP</div>
-                                            <div class="popular_store_cashback"> 2,13 CashCoins</div>
-                                        </a> </li>
-                                                                                                                                                    
-                                    <li> <a href='/cashback/oxfamunverpackt.php'> <img src="https://static.orangebuddies.nl/image/stores/98352.jpg" alt="OxfamUnverpackt" />
-                                            <div class="popular_store-name">OxfamUnverpackt</div>
-                                            <div class="popular_store_cashback"> 1,75 CashCoins</div>
-                                        </a> </li>
-                                                                         
-                                                                            
-                                    <li> <a href='/cashback/holi-concept.php'> <img src="https://static.orangebuddies.nl/image/stores/98353.jpg" alt="Holi Concept" />
-                                            <div class="popular_store-name">Holi Concept</div>
-                                            <div class="popular_store_cashback"> 4,50 % CashCoins</div>
-                                        </a> </li>
-                                                                                                                                                    
-                                    <li> <a href='/cashback/germania-de.php'> <img src="https://static.orangebuddies.nl/image/stores/98357.jpg" alt="Germania" />
-                                            <div class="popular_store-name">Germania</div>
-                                            <div class="popular_store_cashback"> 5,00 CashCoins</div>
-                                        </a> </li>
-                                                                         
-                                                                            
-                                    <li> <a href='/cashback/kosmetikfuchsde.php'> <img src="https://static.orangebuddies.nl/image/stores/98335.jpg" alt="kosmetikfuchs.de" />
-                                            <div class="popular_store-name">kosmetikfuchs.de</div>
-                                            <div class="popular_store_cashback"> bis zu 7,50 % CashCoins</div>
-                                        </a> </li>
-                                                                         
-                                                                            
-                                    <li> <a href='/cashback/pati-versand-de.php'> <img src="https://static.orangebuddies.nl/image/stores/98336.jpg" alt="Pati-Versand.de" />
-                                            <div class="popular_store-name">Pati-Versand.de</div>
-                                            <div class="popular_store_cashback"> bis zu 3,00 % CashCoins</div>
-                                        </a> </li>
-                                                                         
-                                                                            
-                                    <li> <a href='/cashback/ego-ist.php'> <img src="https://static.orangebuddies.nl/image/stores/98338.gif" alt="EGO_IST" />
-                                            <div class="popular_store-name">EGO_IST</div>
-                                            <div class="popular_store_cashback"> 2,50 % CashCoins</div>
-                                        </a> </li>
-                                                                         
-                                                                            
-                                    <li> <a href='/cashback/hitseller-de.php'> <img src="https://static.orangebuddies.nl/image/stores/98339.jpg" alt="hitseller.de" />
-                                            <div class="popular_store-name">hitseller.de</div>
-                                            <div class="popular_store_cashback"> bis zu 1,50 % CashCoins</div>
-                                        </a> </li>
-                                                                         
-                                                                            
-                                    <li> <a href='/cashback/masters-de.php'> <img src="https://static.orangebuddies.nl/image/stores/98343.jpg" alt="Master's" />
-                                            <div class="popular_store-name">Master's</div>
-                                            <div class="popular_store_cashback"> bis zu 1,50 % CashCoins</div>
-                                        </a> </li>
-                                                                                                                                                    
-                                    <li> <a href='/cashback/multilotto-de.php'> <img src="https://static.orangebuddies.nl/image/stores/98176.jpg" alt="Multilotto" />
-                                            <div class="popular_store-name">Multilotto</div>
-                                            <div class="popular_store_cashback"> 7,00 CashCoins</div>
-                                        </a> </li>
-                                                                                                                                                    
-                                    <li> <a href='/cashback/eurojackpot-de.php'> <img src="https://static.orangebuddies.nl/image/stores/98177.jpg" alt="EuroJackpot" />
-                                            <div class="popular_store-name">EuroJackpot</div>
-                                            <div class="popular_store_cashback"> 7,00 CashCoins</div>
-                                        </a> </li>
-                                                                                                                                                    
-                                    <li> <a href='/cashback/megamillions-de.php'> <img src="https://static.orangebuddies.nl/image/stores/98179.jpg" alt="MegaMillions" />
-                                            <div class="popular_store-name">MegaMillions</div>
-                                            <div class="popular_store_cashback"> 7,00 CashCoins</div>
-                                        </a> </li>
-                                                                                                                                                    
-                                    <li> <a href='/cashback/cosmosdirekt-kfz-2.php'> <img src="https://static.orangebuddies.nl/image/stores/98169.jpg" alt="CosmosDirekt Kfz-Versicherung" />
-                                            <div class="popular_store-name">CosmosDirekt Kfz-Versicherung</div>
-                                            <div class="popular_store_cashback"> 10,00 CashCoins</div>
-                                        </a> </li>
-                                                                         
-                                                                            
-                                    <li> <a href='/cashback/s-oliver-de.php'> <img src="https://static.orangebuddies.nl/image/stores/98157.jpg" alt="s.Oliver" />
-                                            <div class="popular_store-name">s.Oliver</div>
-                                            <div class="popular_store_cashback"> 2,50 % CashCoins</div>
-                                        </a> </li>
-                                                                         
-                                                                            
-                                    <li> <a href='/cashback/we-park-app.php'> <img src="https://static.orangebuddies.nl/image/stores/98071.jpg" alt="We Park App" />
-                                            <div class="popular_store-name">We Park App</div>
-                                            <div class="popular_store_cashback"> 5,00 % CashCoins</div>
-                                        </a> </li>
-                                                                    
-                        </ul>
-                    </div>
-                </div>
-                <span class="home-readmore"><a href="/shops/newshops.php">Alle neuen Shops ansehen</a></span>
-                <h2 class="new-heading">Exklusives Cashback</h2>
-                <div class="home-shopbanners  clearfix">
-                    <div class="bx-wrapper">
-                        <ul class="new_stores popular_stores">
-                                                                                                 
-                                                                            
-                                    <li> <a href='/cashback/bodum.php'> <img src="https://static.orangebuddies.nl/image/stores/96927.jpg" alt="BODUM" />
-                                            <div class="popular_store-name">BODUM</div>
-                                            <div class="popular_store_cashback">7,00 % CashCoins</div>
-                                        </a> </li>
-                                                                         
-                                                                            
-                                    <li> <a href='/cashback/babauba.php'> <img src="https://static.orangebuddies.nl/image/stores/94868.jpg" alt="Babauba" />
-                                            <div class="popular_store-name">Babauba</div>
-                                            <div class="popular_store_cashback">10,00 % CashCoins</div>
-                                        </a> </li>
-                                                                         
-                                                                            
-                                    <li> <a href='/cashback/gripgate-de.php'> <img src="https://static.orangebuddies.nl/image/stores/89076.jpg" alt="Gripgate" />
-                                            <div class="popular_store-name">Gripgate</div>
-                                            <div class="popular_store_cashback">1,75 % CashCoins</div>
-                                        </a> </li>
-                                                                         
-                                                                            
-                                    <li> <a href='/cashback/artdeco.php'> <img src="https://static.orangebuddies.nl/image/stores/71431.jpg" alt="ARTDECO" />
-                                            <div class="popular_store-name">ARTDECO</div>
-                                            <div class="popular_store_cashback">9,00 % CashCoins</div>
-                                        </a> </li>
-                                                                         
-                                                                            
-                                    <li> <a href='/cashback/na-kd-com.php'> <img src="https://static.orangebuddies.nl/image/stores/78132.jpg" alt="NA-KD.com" />
-                                            <div class="popular_store-name">NA-KD.com</div>
-                                            <div class="popular_store_cashback">5,00 % CashCoins</div>
-                                        </a> </li>
-                                                                                                                                                    
-                                    <li> <a href='/cashback/vodafone-dsl.php'> <img src="https://static.orangebuddies.nl/image/stores/7710.jpg" alt="Vodafone (DSL, LTE & TV)" />
-                                            <div class="popular_store-name">Vodafone (DSL, LTE & TV)</div>
-                                            <div class="popular_store_cashback">bis zu 91,00 CashCoins</div>
-                                        </a> </li>
-                                                                                                                                                    
-                                    <li> <a href='/cashback/blau-mobilfunk-de.php'> <img src="https://static.orangebuddies.nl/image/stores/90634.jpg" alt="blau Mobilfunk" />
-                                            <div class="popular_store-name">blau Mobilfunk</div>
-                                            <div class="popular_store_cashback">bis zu 37,50 CashCoins</div>
-                                        </a> </li>
-                                                                         
-                                                                            
-                                    <li> <a href='/cashback/nord-vpn-de.php'> <img src="https://static.orangebuddies.nl/image/stores/95118.jpg" alt="NordVPN" />
-                                            <div class="popular_store-name">NordVPN</div>
-                                            <div class="popular_store_cashback">20,00 % CashCoins</div>
-                                        </a> </li>
-                                                                                                                                                    
-                                    <li> <a href='/cashback/agila.php'> <img src="https://static.orangebuddies.nl/image/stores/79546.gif" alt="AGILA" />
-                                            <div class="popular_store-name">AGILA</div>
-                                            <div class="popular_store_cashback">bis zu 17,50 CashCoins</div>
-                                        </a> </li>
-                                                                         
-                                                                            
-                                    <li> <a href='/cashback/groupon-shopping.php'> <img src="https://static.orangebuddies.nl/image/stores/7245.jpg" alt="Groupon Shopping" />
-                                            <div class="popular_store-name">Groupon Shopping</div>
-                                            <div class="popular_store_cashback">bis zu 7,50 % CashCoins</div>
-                                        </a> </li>
-                                                                                                                                                    
-                                    <li> <a href='/cashback/o2-de.php'> <img src="https://static.orangebuddies.nl/image/stores/90640.jpg" alt="O2" />
-                                            <div class="popular_store-name">O2</div>
-                                            <div class="popular_store_cashback">bis zu 90,00 CashCoins</div>
-                                        </a> </li>
-                                                                                                                                                    
-                                    <li> <a href='/cashback/tarifcheck24.php'> <img src="https://static.orangebuddies.nl/image/stores/8021.jpg" alt="TARIFCHECK" />
-                                            <div class="popular_store-name">TARIFCHECK</div>
-                                            <div class="popular_store_cashback">bis zu 37,50 CashCoins</div>
-                                        </a> </li>
-                                                                         
-                                                                            
-                                    <li> <a href='/cashback/saturn.php'> <img src="https://static.orangebuddies.nl/image/stores/10414.jpg" alt="SATURN" />
-                                            <div class="popular_store-name">SATURN</div>
-                                            <div class="popular_store_cashback">1,00 % CashCoins</div>
-                                        </a> </li>
-                                                                                                                                                    
-                                    <li> <a href='/cashback/vodafone-mobilfunk.php'> <img src="https://static.orangebuddies.nl/image/stores/7701.jpg" alt="Vodafone (Mobilfunk & Data)" />
-                                            <div class="popular_store-name">Vodafone (Mobilfunk & Data)</div>
-                                            <div class="popular_store_cashback">bis zu 91,00 CashCoins</div>
-                                        </a> </li>
-                                                                    
-                        </ul>
-                    </div>
-                </div>
-                <h2 class="new-heading">Exklusive Rabattcodes</h2>
-                <div class="home-shopbanners  clearfix">
-                    <div class="bx-wrapper">
-                        <ul class="new_stores popular_stores">
-                                                                                                
-    <li> 
-        <a href='/cashback/expedia-de.php'> <img src="https://static.orangebuddies.nl/image/stores/71042.jpg" alt="Expedia.de" />
-                                                <a href="#inline_store_visit" class="button code various" style="float: none;" data-vcode="357001"
-                        onclick="loginFancyPopUP({cashback: '6,00 %', storeName: 'Expedia.de', urlKey: 'expedia-de', imgUrl: 'https://static.orangebuddies.nl/image/stores/71042.jpg', itemId: '357001', itemType: 'voucher', code: 'Afgencmq1',isCbkDay: '0', voucher_url_key : 'Expedia-de-20-Gutschein-de'})">
-                        <span>Gutschein-Code anzeigen</span>
-                    </a>
-                                <div class="code_box_wrap" style="display: none; clear: both; float: none; margin-top: 5px;" data-vcode-show="357001">
-                    <div class="code-box" style="width:auto; height:auto;">
-                        Afgencmq1
-                    </div>
-                </div>
-                                        <div class="popular_store_cashback">bis zu 6,00 % CashCoins</div>
-                    </a> 
-    </li>                          
-                                    
-    <li> 
-        <a href='/cashback/ezigaretten-zubehoer-de.php'> <img src="https://static.orangebuddies.nl/image/stores/50107.jpg" alt="ezigaretten-zubehoer.de" />
-                                                <a href="#inline_store_visit" class="button code various" style="float: none;" data-vcode="307996"
-                        onclick="loginFancyPopUP({cashback: '10,00 %', storeName: 'ezigaretten-zubehoer.de', urlKey: 'ezigaretten-zubehoer-de', imgUrl: 'https://static.orangebuddies.nl/image/stores/50107.jpg', itemId: '307996', itemType: 'voucher', code: 'ORANGE',isCbkDay: '0', voucher_url_key : 'ezigaretten-zubehoer-10-rabatt'})">
-                        <span>Gutschein-Code anzeigen</span>
-                    </a>
-                                <div class="code_box_wrap" style="display: none; clear: both; float: none; margin-top: 5px;" data-vcode-show="307996">
-                    <div class="code-box" style="width:auto; height:auto;">
-                        ORANGE
-                    </div>
-                </div>
-                                        <div class="popular_store_cashback">10,00 % CashCoins</div>
-                    </a> 
-    </li>                          
-                                    
-    <li> 
-        <a href='/cashback/xxl-sizes-de.php'> <img src="https://static.orangebuddies.nl/image/stores/37559.jpg" alt="XXL-Sizes.de" />
-                                                <a href="#inline_store_visit" class="button code various" style="float: none;" data-vcode="129498"
-                        onclick="loginFancyPopUP({cashback: '7,50 %', storeName: 'XXL-Sizes.de', urlKey: 'xxl-sizes-de', imgUrl: 'https://static.orangebuddies.nl/image/stores/37559.jpg', itemId: '129498', itemType: 'voucher', code: 'NEUKUNDE',isCbkDay: '0', voucher_url_key : 'xxl-sizes-neukunden-gutschein'})">
-                        <span>Gutschein-Code anzeigen</span>
-                    </a>
-                                <div class="code_box_wrap" style="display: none; clear: both; float: none; margin-top: 5px;" data-vcode-show="129498">
-                    <div class="code-box" style="width:auto; height:auto;">
-                        NEUKUNDE
-                    </div>
-                </div>
-                                        <div class="popular_store_cashback">7,50 % CashCoins</div>
-                    </a> 
-    </li>                          
-                                    
-    <li> 
-        <a href='/cashback/meinelampe-de.php'> <img src="https://static.orangebuddies.nl/image/stores/24523.gif" alt="MeineLampe.de" />
-                                                <a href="#inline_store_visit" class="button code various" style="float: none;" data-vcode="47560"
-                        onclick="loginFancyPopUP({cashback: '3,00 %', storeName: 'MeineLampe.de', urlKey: 'meinelampe-de', imgUrl: 'https://static.orangebuddies.nl/image/stores/24523.gif', itemId: '47560', itemType: 'voucher', code: 'etcnews',isCbkDay: '0', voucher_url_key : 'meinelampe-gutschein-5'})">
-                        <span>Gutschein-Code anzeigen</span>
-                    </a>
-                                <div class="code_box_wrap" style="display: none; clear: both; float: none; margin-top: 5px;" data-vcode-show="47560">
-                    <div class="code-box" style="width:auto; height:auto;">
-                        etcnews
-                    </div>
-                </div>
-                                        <div class="popular_store_cashback">3,00 % CashCoins</div>
-                    </a> 
-    </li>                          
-
-                                                    </ul>
-                    </div>
-                </div>
-
-                <div class="blog-overview">
-                    <h2 class="new-heading">In unserem Blog</h2>
-                                            <div class="BlogPosts">
-                            <ul class="blogslider">
-                                                                    <li>
-                                        <div class="BlogBox">
-                                            <div class="BolgPic">
-                                                <div id="block-imgRes"><a href="/news/verreisen-in-deutschland"><img src="https://static.orangebuddies.nl/image/blogs/thumb_blog_4372.jpg"  id="image1" class= "image"  alt="verreisen-in-deutschland"/></a></div>
-                                                <div class="ImgTxt"><a href="/news/verreisen-in-deutschland">Verreisen in Deutschland</a></div>
-                                            </div>
-                                            <div class="blogPostDes">
-                                                <div class="PostDes">
-                                                    <p>Warum in die Ferne, wenn das Gute doch so nahe liegt?
-
-	Auch im Sommer lohnt  es sich innerhalb Deutschland zu verreisen....</p>
-                                                    <p><a href="/news/verreisen-in-deutschland">Hier mehr lesen</a></p>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </li>
-                                                                    <li>
-                                        <div class="BlogBox">
-                                            <div class="BolgPic">
-                                                <div id="block-imgRes"><a href="/news/schaurige-angebote-zu-halloween"><img src="https://static.orangebuddies.nl/image/blogs/thumb_blog_5114.jpg"  id="image1" class= "image"  alt="schaurige-angebote-zu-halloween"/></a></div>
-                                                <div class="ImgTxt"><a href="/news/schaurige-angebote-zu-halloween">Süßes, sonst gibt's Saures!</a></div>
-                                            </div>
-                                            <div class="blogPostDes">
-                                                <div class="PostDes">
-                                                    <p>Süßes, sonst gibt's Saures!
+				 <tr>
+            <td align="left" data-title="Art">Online Panel / Umfragen</td>  
+            <td align="left" data-title="Anzahl Transaktionen">1<strong>x</strong></td>  
+            <td align="left" data-title="CashCoins">0,100</td>  
+            <td align="left" data-title="Haben/Soll">Haben</td>  
+                        </tr>
+                                
+                                
+                                <tr>
+            <td align="left" data-title="Art">WhatsApp Transaktionen</td>  
+            <td align="left" data-title="Anzahl Transaktionen">6<strong>x</strong></td>  
+            <td align="left" data-title="CashCoins">0,300</td>  
+            <td align="left" data-title="Haben/Soll">Haben</td>  
+                        </tr> 
+                                <tr>
+            <td align="left" data-title="Art">Bestellungen bestätigt</td>  
+            <td align="left" data-title="Anzahl Transaktionen">26<strong>x</strong></td>  
+            <td align="left" data-title="CashCoins">46,350</td>  
+            <td align="left" data-title="Haben/Soll">Haben</td>  
+                        </tr> 
+				 <tr>
+            <td align="left" data-title="Art">Bestellungen storniert</td>  
+            <td align="left" data-title="Anzahl Transaktionen">8<strong>x</strong></td>  
+            <td align="left" data-title="CashCoins">8,180</td>  
+            <td align="left" data-title="Haben/Soll">-</td>  
+                        </tr> 
+				<tr>
+            <td align="left" data-title="Art">Bestellungen vorgemerkt</td>  
+            <td align="left" data-title="Anzahl Transaktionen">0<strong>x</strong></td>  
+            <td align="left" data-title="CashCoins">0,000</td>  
+            <td align="left" data-title="Haben/Soll">Haben</td>  
+                        </tr> 
 				
-					Sobald die Tage wieder kälter werden und der Nebel nicht nur über Draculas Grab...</p>
-                                                    <p><a href="/news/schaurige-angebote-zu-halloween">Hier mehr lesen</a></p>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </li>
-                                                                    <li>
-                                        <div class="BlogBox">
-                                            <div class="BolgPic">
-                                                <div id="block-imgRes"><a href="/news/und-der-gewinner-ist-cafe-royal"><img src="https://static.orangebuddies.nl/image/blogs/thumb_blog_5084.jpg"  id="image1" class= "image"  alt="und-der-gewinner-ist-cafe-royal"/></a></div>
-                                                <div class="ImgTxt"><a href="/news/und-der-gewinner-ist-cafe-royal">Und der Gewinner ist...</a></div>
-                                            </div>
-                                            <div class="blogPostDes">
-                                                <div class="PostDes">
-                                                    <p>Unser Gewinnspiel ist beendet und wir haben den glücklichen Gewinner gezogen! 
-
-	Hast du auch teilgenommen? Dann schau hier...</p>
-                                                    <p><a href="/news/und-der-gewinner-ist-cafe-royal">Hier mehr lesen</a></p>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </li>
-                                                                    <li>
-                                        <div class="BlogBox">
-                                            <div class="BolgPic">
-                                                <div id="block-imgRes"><a href="/news/nur-fuer-kurze-zeit-doppelte-cashcoins"><img src="https://static.orangebuddies.nl/image/blogs/thumb_blog_5028.jpg"  id="image1" class= "image"  alt="nur-fuer-kurze-zeit-doppelte-cashcoins"/></a></div>
-                                                <div class="ImgTxt"><a href="/news/nur-fuer-kurze-zeit-doppelte-cashcoins">Nur für kurze Zeit: Doppelte CashCoins!</a></div>
-                                            </div>
-                                            <div class="blogPostDes">
-                                                <div class="PostDes">
-                                                    <p>Lade deine Freunde ein und verdiene 10,00 CashCoins + 10% aller Umsätze deiner Freunde!
-
-	Vom 01.10.2018 bis zum 17.10.2018...</p>
-                                                    <p><a href="/news/nur-fuer-kurze-zeit-doppelte-cashcoins">Hier mehr lesen</a></p>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </li>
-                                                                    <li>
-                                        <div class="BlogBox">
-                                            <div class="BolgPic">
-                                                <div id="block-imgRes"><a href="/news/gewinner-des-40-jeanswelt-gutscheines"><img src="https://static.orangebuddies.nl/image/blogs/thumb_blog_4988.jpg"  id="image1" class= "image"  alt="gewinner-des-40-jeanswelt-gutscheines"/></a></div>
-                                                <div class="ImgTxt"><a href="/news/gewinner-des-40-jeanswelt-gutscheines">Gewinner des 40,-€ JeansWelt Gutscheines</a></div>
-                                            </div>
-                                            <div class="blogPostDes">
-                                                <div class="PostDes">
-                                                    <p>Unser Gewinnspiel ist beendet und wir haben den glücklichen Gewinner gezogen! 
-
-	Hast du auch teilgenommen? Dann schau hier...</p>
-                                                    <p><a href="/news/gewinner-des-40-jeanswelt-gutscheines">Hier mehr lesen</a></p>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </li>
-                                                                    <li>
-                                        <div class="BlogBox">
-                                            <div class="BolgPic">
-                                                <div id="block-imgRes"><a href="/news/immer-den-richtigen-tarif-mit-blau-mobil"><img src="https://static.orangebuddies.nl/image/blogs/thumb_blog_4977.jpg"  id="image1" class= "image"  alt="immer-den-richtigen-tarif-mit-blau-mobil"/></a></div>
-                                                <div class="ImgTxt"><a href="/news/immer-den-richtigen-tarif-mit-blau-mobil">Immer den richtigen Tarif mit blau Mobil</a></div>
-                                            </div>
-                                            <div class="blogPostDes">
-                                                <div class="PostDes">
-                                                    <p>Fraire Preise und Tarife mit Blau
-
-	Wenn du auf der Suche nach einen coolen Mobilfunkanbieter mit fairen Preisen bist, dann...</p>
-                                                    <p><a href="/news/immer-den-richtigen-tarif-mit-blau-mobil">Hier mehr lesen</a></p>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </li>
-                                                            </ul>
-                        </div>
-                                    </div>
+				 <tr>
+            <td align="left" data-title="Art">Geworbene Freunde bestätigt</td>  
+            <td align="left" data-title="Anzahl Transaktionen">0<strong>x</strong></td>  
+            <td align="left" data-title="CashCoins">0,000</td>  
+            <td align="left" data-title="Haben/Soll">Haben</td>  
+                        </tr> 
+				<tr>
+            <td align="left" data-title="Art">Geworbene Freunde vorgemerkt</td>  
+            <td align="left" data-title="Anzahl Transaktionen">0<strong>x</strong></td>  
+            <td align="left" data-title="CashCoins">0,000</td>  
+            <td align="left" data-title="Haben/Soll">Haben</td>  
+                        </tr> 
+				<tr>
+            <td align="left" data-title="Art">10% Freunde Bonus</td>  
+            <td align="left" data-title="Anzahl Transaktionen">0<strong>x</strong></td>  
+            <td align="left" data-title="CashCoins">0,000</td>  
+            <td align="left" data-title="Haben/Soll">Haben</td>  
+                        </tr>
+				
+				<tr>
+            <td align="left" data-title="Art">Sonstige Transaktionen</td>  
+            <td align="left" data-title="Anzahl Transaktionen">1<strong>x</strong></td>  
+            <td align="left" data-title="CashCoins">0,100</td>  
+            <td align="left" data-title="Haben/Soll">Soll/Haben</td>  
+                        </tr>
+				<tr>
+            <td align="left" data-title="Art">Auszahlungen</td>  
+            <td align="left" data-title="Anzahl Transaktionen">1<strong>x</strong></td>  
+            <td align="left" data-title="CashCoins">25,000</td>  
+            <td align="left" data-title="Haben/Soll">Soll</td>  
+                        </tr>
+		<!--<div class="account_category" >
+					<span style="border-bottom: 1px ;" class="cashback_name">Auszahlungen in Geschenken</span>
+					<span style="border-bottom: 1px ;" class="cashback_transactions">0<strong>x</strong></span>
+					<span style="border-bottom: 1px ;" class="cashback">0,000</span>
+					<span style="border-bottom: 1px ;" class="cashback_type">Soll</span>
+				</div>
+				<div class="account_category">
+                    <span class="cashback_name">Auszahlungen in Geschenk-Gutscheinen</span>
+                    <span class="cashback_transactions">0<strong>x</strong></span>
+                    <span class="cashback">0,000</span>
+                    <span class="cashback_type">Soll</span>
+                </div>
+               <div class="account_category" >
+                    <span style="border-bottom: 1px ;"></span>
+                    <span style="border-bottom: 1px ;"></span>
+                    <span style="border-bottom: 1px ;"></span>
+                    <span style="border-bottom: 1px ;"></span>
+                </div>
+                <div class="account_category">
+                    <span class="cashback_name">Gebruiker heeft zich aangemeld op Fashion door SSO</span>
+                    <span class="cashback_transactions"><strong>x</strong></span>
+                    <span class="cashback"></span>
+                    <span class="cashback_type">Soll</span>
+                </div>--->
+			
+			
+			 </tbody>
+                   </table>	
+		</div>
+	   </div>	
+               </div>
+               <!-----------------LATEST CASHBACK---------------------->
+               
+                  <div id="tab-2" class="cashback-tab-content current">
+                                            
+                       <div class="NewTable">  
+                      <div id="no-more-tables" class="TableStyle01">
+                       <table class="TabColFull table-condensed cf">
+                          <thead class="cf">    
+                              <tr  class="TableSap">
+                     <th align="left" class="TableSap">Date</th>
+                     <th align="left" class="TableSap">#</th>
+                     <th align="left" class="TableSap">Art</th>
+                     <th align="left" class="TableSap">CashCoins</th>
+                     <th align="left" class="TableSap">Status</th>
+                     <th align="left" class="TableSap">Haben/Soll</th>
+                                </tr>
+                          </thead>
+                       <tbody>
+                               <tr>
+                   <td align="left" data-title="Date">  03-11-2018</td>
+                   <td align="left" data-title="#"> 24820698</td>
+                   <td align="left" data-title="Art">Weihnachten bei Bader + 3,50% CashCoins</td>
+                   <td align="left" data-title="CashCoins">  0,010</td>
+                   <td align="left" data-title="Status">  
+                                                    Bestätigt 
+                                           </td>
+                   <td align="left" data-title="Haben/Soll">
+                                                   Haben
+                                           </td>
+                 </tr>
+                               <tr>
+                   <td align="left" data-title="Date">  21-10-2018</td>
+                   <td align="left" data-title="#"> 24521587</td>
+                   <td align="left" data-title="Art">Deal teilen</td>
+                   <td align="left" data-title="CashCoins">  0,010</td>
+                   <td align="left" data-title="Status">  
+                                                    Bestätigt 
+                                           </td>
+                   <td align="left" data-title="Haben/Soll">
+                                                   Haben
+                                           </td>
+                 </tr>
+                 
+                         </tbody> 
+                       </table>
+                  </div>
+                          </div>
+                      
+                                          </div> 
+              
+               <!---------------------LATEST CASHBACK END----->
+               </div> <!--/// column 8 end-->
+            </div> <!------cashback tabs end--------------->
+            <!--- ////////////////////div column 8 end///////////--->
+         </div>   
+       <!--- <div class="contentbox">
+            <div class="account_heading_cashback">
+                <span style="width: 500px;">Saldo Total </span>
+                <span style="width: 150px;">Betrag</span>
             </div>
-        </div>
-    </div>
+            <div class="account_category" >
+                <span style="border-bottom: 1px ;" class="cashback_total_lable" >Total exkl. Auszahlungen</span>
+                <span style="border-bottom: 1px ;" class="cashback_saldo">21,690</span>
+            </div>
+            <div class="account_category" >
+                <span style="border-bottom: 1px ; "  class="cashback_total_lable" >Total inkl. Auszahlungen</span>
+                <span style="border-bottom: 1px ; " class="cashback_saldo">46,690</span>
+            </div>
+        </div>--->
+
+        <p style="text-align: center"><img src="https://static.orangebuddies.nl/templates/www.cashbackdeals.de/march16/assets/what_is_cashcoin.jpg" width="350" height="100" alt="" /></p>
     
-        <script>
-            $(document).ready(function () {
-                $('.popular_stores2').bxSlider({
-                    slideWidth: 125,
-                    preloadImages: 'visible',
-                    slideMargin: 10,
-                    minSlides: 1,
-                    pager: false,
-                    controls: false,
-                    auto: true,
-                    autoHover: true,
-                    infiniteLoop: true,
-                    moveSlides: 1,
-                    speed: 500,
-                    autoDelay: 1000,
-                    maxSlides: 7
-                });
-                storeSlider('.new_stores', 125, 0, 7, 15);
-                $('.bxslider-cbkslider').bxSlider({
-                    preloadImages: 'visible',
-                    controls: true,
-                    auto: true,
-                    autoHover: true,
-                    pager: false,
-                    autoDelay: 3000,
-                    infiniteLoop: true,
-                    onSliderLoad: function () {
-                        $('.bxslider-cbkslider div').css('visibility', 'visible');
+</div>
+
+<script>
+       function toggleTabs(tabid, className) {
+                for (var i in tabArray) {
+                    if (tabArray[i] == tabid) {
+                        $('#' + tabArray[i]).slideDown('slow');
+                        $('a#li-' + tabArray[i]).addClass(className);
+                    } else {
+                        $('#' + tabArray[i]).slideUp('slow');
+                        $('a#li-' + tabArray[i]).removeClass();
                     }
-                });
-                $('.dblCashback').bxSlider({
-                    slideWidth: 200,
-                    preloadImages: 'visible',
-                    minSlides: 1,
-                    pager: false,
-                    controls: true,
-                    moveSlides: 1,
-                    maxSlides: 1,
-                    infiniteLoop: true,
-                });
-                $('.dealsslider').bxSlider({
-                    infiniteLoop: true,
-                    hideControlOnEnd: false,
-                    minSlides: 1,
-                    maxSlides: 4,
-                });
-                $('.blogslider').bxSlider({
-                    autoControls: true,
-                    minSlides: 3,
-                    maxSlides: 3,
-                    moveSlides: 1
-                            // slideWidth: 300
-                });
-                $('.bx-loading').css("display", "none");
-            });
-            /*** Dashboard JS Code****/
-            $('#lottery_timer').countdown("", function (event) {
-                if (event.type == 'stoped') {
-                    $("#lottery_timer").hide();
-                } else {
-                    var $this = $(this).html(event.strftime('' + '%D:' + '%H:' + '%M:' + '%S'
-                            ));
-                }
-            });
-
-            $('#pred_timer').countdown("", function (event) {
-                if (event.type == 'stoped') {
-                    $("#pred_timer").hide();
-                } else {
-                    var $this = $(this).html(event.strftime('' + '%D:' + '%H:' + '%M:' + '%S'
-                            ));
-                }
-            });
-
-            $('#time2').countdown("2018-11-06 07:19:42", function (event) {
-                if (event.type == 'stoped') {
-                    $("#time2").hide();
-                } else {
-                    var $this = $(this).html(event.strftime('' + '%D:' + '%H:' + '%M:' + '%S'
-                            ));
-                }
-            });
-
-            var elems = $(".random");
-            var keys = [], x, total = 0;
-            if ($(elems).length <= 3) {
-                $(elems[randnums]).show();
-            } else {
-                while (total < 2) {
-                    x = Math.floor(Math.random() * 5);
-                    if (keys[x] == undefined) {
-                        keys[x] = 1;
-                        var randnums = x;
-                        $(elems[randnums]).hide();
-                        total++;
+                    if (tabid != 'first-content') {
+                        $('li#li-first-content').removeClass('active');
+                        $('li#li-first-content').addClass('wtab');
+                    } else {
+                        $('li#li-first-content').addClass('active');
+                        $('li#li-first-content').removeClass('wtab');
                     }
                 }
             }
+            
+            
+                function openHomeTabs(evt, tabName) {
+                var i, tabcontent, tablinks;
+                tabcontent = document.getElementsByClassName("tabcontent");
+                for (i = 0; i < tabcontent.length; i++) {
+                    tabcontent[i].style.display = "none";
+                }
+                tablinks = document.getElementsByClassName("tablinks");
+                for (i = 0; i < tablinks.length; i++) {
+                    tablinks[i].className = tablinks[i].className.replace(" active", "");
+                }
+                document.getElementById(tabName).style.display = "block";
+                evt.currentTarget.className += " active";
+            }
+            
+            function getNextPage(url,pageNum){
+                $.ajax({
+                                   url: '/ajax/get_transactions.php',
+                                   data: { val : url, page : pageNum },
+                                   type: 'POST',
+                                   success: function (resp) {
+                                       console.log("function working");
+                                       console.log(resp);
+                                       $('#cashback_DATA').html(resp);
+                                       $('#cashback_DATA').show();
+                                   }
+                                });
+            }
+            
+    </script>
 
-            /**End**/
-        </script>
-        <div class="footerbanner 
+
+    <div class="footerbanner 
          "> &nbsp;
 
-                 
-            <a href="/visit/drivango.php">
-                <img src="https://static.orangebuddies.nl/image/banners/33181-Normal.jpg" alt="Footer-Banner" />
-            </a> 
-         
+                                                                                                                         
+                <a class="various" href="#inline_store_visit" onclick="loginFancyPopUP({cashback: '37,50 ', storeName: 'blau Mobilfunk', urlKey: 'blau-mobilfunk-de', imgUrl: 'https://static.orangebuddies.nl/image/stores/90634.jpg', itemId: '0', bannerId: '34550', isCbkDay: '1'})"> 
+                      
+                        <img src="https://static.orangebuddies.nl/image/banners/34550-Normal.jpg" alt="blau Mobilfunk">
+                                    </a> 
+                     
 
          
     </div>
@@ -2480,7 +1396,7 @@
            <!-- Takeover different banner code end -->
      
 <div class="rightBanner main_banner">
-                                                                                                                                    <a class="various" href="#inline_store_visit" onclick="loginFancyPopUP({cashback: '17,50 ', storeName: 'Santander Consumer Bank', urlKey: 'santander-consumer-bank-de', imgUrl: 'https://static.orangebuddies.nl/image/stores/96620.jpg', itemId: '0', bannerId: '35649', isCbkDay: '1'})" title="Santander Consumer Bank"><img class="main_sidebanner"  width="120" height="400" src="https://static.orangebuddies.nl/image/banners/35649-SkyScraperWrapper.jpg" alt="Santander Consumer Bank" /></a> 
+                                                                                                        <a class="various" href="#inline_store_visit" onclick="loginFancyPopUP({cashback: '4,00%', storeName: 'Under Armour', urlKey: 'under-armour-de', imgUrl: 'https://static.orangebuddies.nl/image/stores/85175.gif', itemId: '0', bannerId: '35626', isCbkDay: '0'})" title="Under Armour"><img class="main_sidebanner"  width="120" height="400" src="https://static.orangebuddies.nl/image/banners/35626-SkyScraperWrapper.jpg" alt="Under Armour" /></a> 
                                     <img src="" width="0" height="0" style="display:none"/>
         </div>
 </section> <!-- bodyWrapper section end -->
@@ -3912,8 +2828,8 @@
                 });
                 $('form').each(function (index, value) { 
                     if(value.name != 'sort-shopsForm' && value.name != 'itune-form'  && value.name != 'cadeous-cards' ) {
-                        token = '12dc08c818447cfe5615bbc015c7bba6faa0e04c';
-                        $(this).append('<input type="hidden" name="csrf_token" value="' + token + '"><input type="hidden" name="csrf_page" value="index">');
+                        token = 'd7ebae0a975328fc6326006d90e1de68d36bbd68';
+                        $(this).append('<input type="hidden" name="csrf_token" value="' + token + '"><input type="hidden" name="csrf_page" value="cashback">');
                     }
                 });
                 if ($.adblock === undefined) {
@@ -4728,7 +3644,7 @@
                                     </span>
                                     <input name="submitted" type="hidden" id="submittedReg" value="1" />
                                     <input name="country" type="hidden" id="countryReg" value="select" />
-                                    <input name="ReturnUrl" type="hidden" id="ReturnUrlReg" class="ReturnUrl" value="/" />
+                                    <input name="ReturnUrl" type="hidden" id="ReturnUrlReg" class="ReturnUrl" value="/user/cashback.php" />
                                 </form>
                                 <span class="popup-facebook-button">
                                     <a data-type="login" href="#"  onclick="fb_login();">
@@ -4762,7 +3678,7 @@
                                     <span class="popup-login-button"><button class="popbtn" type="submit" value="Einloggen"><span>Einloggen</span></button></span>
                                     <span class="popup-pass"><a href ="/user/forgot-password.php" > Passwort vergessen? </a> </span>
                                     <input name="submitted" type="hidden" id="submittedLoginPopup" value="1" />
-                                    <input name="ReturnUrl" type="hidden" id="ReturnUrlLoginPopup" class="ReturnUrl" value="/" />
+                                    <input name="ReturnUrl" type="hidden" id="ReturnUrlLoginPopup" class="ReturnUrl" value="/user/cashback.php" />
                                 </form>
 
                                 <span class="popup-facebook-button">
