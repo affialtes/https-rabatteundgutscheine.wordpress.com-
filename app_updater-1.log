@@ -1,0 +1,91 @@
+﻿
+------------------------------------- Start Module: app_updater 07/10/18 -------------------------------------
+[23:31:19.50][0fe8][ERR][dvsupdatehelper] Failed to get  WorkPath from the Registry
+[23:31:19.69][0fe8][ERR][dvsupdatehelper] CRegApi::regRead(int64_t) , Error RegOpenKeyExA : path='SOFTWARE\DVDVideoSoft\DVSService' , val ='LastUploadTime', result = 19
+[23:31:19.69][0fe8][ERR][dvsupdatehelper] Error getTime , name = LastUploadTime
+[23:31:19.69][0fe8][ERR][dvsupdatehelper] CRegApi::regRead(int64_t) , Error RegOpenKeyExA : path='SOFTWARE\DVDVideoSoft\DVSService' , val ='LastCollectLogTime', result = 19
+[23:31:19.92][0fe8][ERR][dvsupdatehelper] Error getTime , name = LastCollectLogTime
+[23:31:19.92][0fe8][ERR][dvsupdatehelper] CRegApi::regRead(int64_t) , Error RegOpenKeyExA : path='SOFTWARE\DVDVideoSoft\DVSService' , val ='LastDownloadCfgTime', result = 19
+[23:31:19.92][0fe8][ERR][dvsupdatehelper] Error getTime , name = LastDownloadCfgTime
+[23:31:20.00][0fe8][INF][dvsupdatehelper] isNeedDownloadCfg = 1
+[23:31:20.52][0fe8][INF][dlmgr] --> dlmgr_download | http://tools.dvdvideosoft.com/updates/versions.gz
+[23:31:20.52][0fe8][INF][CEngineDownloader] --> start
+[23:31:20.52][0fe8][INF][CEngineDownloader] ==> wait
+[23:31:20.52][5448][INF][DownloadThread] ==> workerThread
+[23:31:20.52][0fe8][INF][DownloadThread] --> wait
+[23:31:21.06][5448][INF][DownloadThread] id=20 | nAttemptCount = 1
+[23:31:21.50][5448][INF][DownloadThread] id=20 download thread finished
+[23:31:21.50][0fe8][INF][CEngineDownloader] <== wait
+[23:31:21.50][0fe8][INF][CEngineDownloader] ==> stop
+[23:31:21.50][0fe8][INF][CEngineDownloader] --> ~CEngineDownloader
+[23:31:21.50][0fe8][INF][CEngineDownloader] ==> close
+[23:31:21.50][0fe8][INF][CEngineDownloader] ==> wait
+[23:31:21.50][0fe8][INF][DownloadThread] --> wait
+[23:31:21.50][0fe8][INF][CEngineDownloader] <== wait
+[23:31:21.50][0fe8][INF][DownloadThread] --> ~DownloadThread
+[23:31:21.50][0fe8][INF][CEngineDownloader] <== close
+[23:31:21.50][0fe8][INF][CEngineDownloader] <== ~CEngineDownloader
+[23:31:21.50][0fe8][ERR][dvsupdatehelper] Unable download configuration , use old configuration
+[23:31:21.58][0fe8][INF][dvsupdatehelper] XML ["C:\WINDOWS\system32\config\systemprofile\AppData\Roaming\DVDVideoSoft\Stat\cfg\versions.xml"] parsed without errors
+[23:31:21.58][0fe8][INF][dvsupdatehelper] Correct read old configuration
+﻿
+------------------------------------- Start Module: app_updater 07/15/18 -------------------------------------
+[15:32:32.00][0f38][ERR][dvsupdatehelper] Failed to get  WorkPath from the Registry
+[15:32:32.10][0f38][ERR][dvsupdatehelper] CRegApi::regRead(int64_t) , Error RegOpenKeyExA : path='SOFTWARE\DVDVideoSoft\DVSService' , val ='LastUploadTime', result = 19
+[15:32:32.10][0f38][ERR][dvsupdatehelper] Error getTime , name = LastUploadTime
+[15:32:32.10][0f38][ERR][dvsupdatehelper] CRegApi::regRead(int64_t) , Error RegOpenKeyExA : path='SOFTWARE\DVDVideoSoft\DVSService' , val ='LastCollectLogTime', result = 19
+[15:32:32.10][0f38][ERR][dvsupdatehelper] Error getTime , name = LastCollectLogTime
+[15:32:32.12][0f38][ERR][dvsupdatehelper] CRegApi::regRead(int64_t) , Error RegOpenKeyExA : path='SOFTWARE\DVDVideoSoft\DVSService' , val ='LastDownloadCfgTime', result = 19
+[15:32:32.12][0f38][ERR][dvsupdatehelper] Error getTime , name = LastDownloadCfgTime
+[15:32:32.14][0f38][INF][dvsupdatehelper] isNeedDownloadCfg = 1
+[15:32:32.37][0f38][INF][dlmgr] --> dlmgr_download | http://tools.dvdvideosoft.com/updates/versions.gz
+[15:32:32.39][0f38][INF][CEngineDownloader] --> start
+[15:32:32.39][0f38][INF][CEngineDownloader] ==> wait
+[15:32:32.39][0f38][INF][DownloadThread] --> wait
+[15:32:32.39][05f8][INF][DownloadThread] ==> workerThread
+[15:32:33.76][05f8][INF][DownloadThread] id=20 | nAttemptCount = 1
+﻿
+------------------------------------- Start Module: app_updater 07/18/18 -------------------------------------
+[22:18:55.25][0e20][ERR][dvsupdatehelper] Failed to get  WorkPath from the Registry
+[22:18:55.50][0e20][ERR][dvsupdatehelper] CRegApi::regRead(int64_t) , Error RegOpenKeyExA : path='SOFTWARE\DVDVideoSoft\DVSService' , val ='LastUploadTime', result = 19
+[22:18:55.50][0e20][ERR][dvsupdatehelper] Error getTime , name = LastUploadTime
+[22:18:55.50][0e20][ERR][dvsupdatehelper] CRegApi::regRead(int64_t) , Error RegOpenKeyExA : path='SOFTWARE\DVDVideoSoft\DVSService' , val ='LastCollectLogTime', result = 19
+[22:18:55.50][0e20][ERR][dvsupdatehelper] Error getTime , name = LastCollectLogTime
+[22:18:55.50][0e20][ERR][dvsupdatehelper] CRegApi::regRead(int64_t) , Error RegOpenKeyExA : path='SOFTWARE\DVDVideoSoft\DVSService' , val ='LastDownloadCfgTime', result = 19
+[22:18:55.50][0e20][ERR][dvsupdatehelper] Error getTime , name = LastDownloadCfgTime
+[22:18:55.51][0e20][INF][dvsupdatehelper] isNeedDownloadCfg = 1
+[22:18:55.75][0e20][INF][dlmgr] --> dlmgr_download | http://tools.dvdvideosoft.com/updates/versions.gz
+[22:18:55.75][0e20][INF][CEngineDownloader] --> start
+[22:18:55.75][38ac][INF][DownloadThread] ==> workerThread
+[22:18:55.75][0e20][INF][CEngineDownloader] ==> wait
+[22:18:55.78][0e20][INF][DownloadThread] --> wait
+[22:18:57.18][38ac][INF][DownloadThread] id=20 | nAttemptCount = 1
+[22:18:59.06][38ac][INF][DownloadThread] id=20 download thread finished
+[22:18:59.06][0e20][INF][CEngineDownloader] <== wait
+[22:18:59.06][0e20][INF][CEngineDownloader] ==> stop
+[22:18:59.06][0e20][INF][CEngineDownloader] --> ~CEngineDownloader
+[22:18:59.06][0e20][INF][CEngineDownloader] ==> close
+[22:18:59.06][0e20][INF][CEngineDownloader] ==> wait
+[22:18:59.06][0e20][INF][DownloadThread] --> wait
+[22:18:59.06][0e20][INF][CEngineDownloader] <== wait
+[22:18:59.06][0e20][INF][DownloadThread] --> ~DownloadThread
+[22:18:59.06][0e20][INF][CEngineDownloader] <== close
+[22:18:59.06][0e20][INF][CEngineDownloader] <== ~CEngineDownloader
+[22:18:59.06][0e20][ERR][dvsupdatehelper] Unable download configuration , use old configuration
+[22:19:00.11][0e20][INF][dvsupdatehelper] XML ["C:\WINDOWS\system32\config\systemprofile\AppData\Roaming\DVDVideoSoft\Stat\cfg\versions.xml"] parsed without errors
+[22:19:00.11][0e20][INF][dvsupdatehelper] Correct read old configuration
+﻿
+------------------------------------- Start Module: app_updater 08/01/18 -------------------------------------
+[14:18:42.78][14f4][ERR][dvsupdatehelper] Failed to get  WorkPath from the Registry
+[14:18:42.85][14f4][ERR][dvsupdatehelper] CRegApi::regRead(int64_t) , Error RegOpenKeyExA : path='SOFTWARE\DVDVideoSoft\DVSService' , val ='LastUploadTime', result = 19
+[14:18:42.85][14f4][ERR][dvsupdatehelper] Error getTime , name = LastUploadTime
+[14:18:42.85][14f4][ERR][dvsupdatehelper] CRegApi::regRead(int64_t) , Error RegOpenKeyExA : path='SOFTWARE\DVDVideoSoft\DVSService' , val ='LastCollectLogTime', result = 19
+[14:18:42.85][14f4][ERR][dvsupdatehelper] Error getTime , name = LastCollectLogTime
+[14:18:42.85][14f4][ERR][dvsupdatehelper] CRegApi::regRead(int64_t) , Error RegOpenKeyExA : path='SOFTWARE\DVDVideoSoft\DVSService' , val ='LastDownloadCfgTime', result = 19
+[14:18:42.85][14f4][ERR][dvsupdatehelper] Error getTime , name = LastDownloadCfgTime
+[14:18:42.85][14f4][INF][dvsupdatehelper] isNeedDownloadCfg = 1
+[14:18:43.17][14f4][INF][dlmgr] --> dlmgr_download | http://tools.dvdvideosoft.com/updates/versions.gz
+[14:18:43.22][14f4][INF][CEngineDownloader] --> start
+[14:18:43.22][2094][INF][DownloadThread] ==> workerThread
+[14:18:43.22][14f4][INF][CEngineDownloader] ==> wait
+[14:18:43.25][14f4][INF][DownloadThread] --> wait
