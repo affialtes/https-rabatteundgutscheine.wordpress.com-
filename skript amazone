@@ -1,0 +1,13 @@
+<script type='text/javascript'>
+var amzn_wdgt={widget:'Carousel'};
+amzn_wdgt.tag='92385-9261-c7c25349ba-21';
+amzn_wdgt.widgetType='Bestsellers';
+amzn_wdgt.searchIndex='VideoGames';
+amzn_wdgt.browseNode='51550011';
+amzn_wdgt.title=' Neueste Videospiele bei Amazon';
+amzn_wdgt.width='600';
+amzn_wdgt.height='200';
+amzn_wdgt.marketPlace='DE';
+</script>
+<script type='text/javascript' src='http://wms-eu.amazon-adsystem.com/20070822/DE/js/swfobject_1_5.js'>
+</script>
