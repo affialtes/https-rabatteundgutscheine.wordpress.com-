@@ -1,0 +1,59 @@
+[00:00:00] Build started
+[00:00:00] git clone -q --depth=10 --branch=master https://github.com/atom/autocomplete-plus.git C:\projects\autocomplete-plus
+[00:00:01] git checkout -qf 61020df5a01b296c187216780d581eb9db370019
+[00:00:01] Running Install scripts
+[00:00:01] Install-Product node 4
+[00:00:02] Uninstalling node 8.12.0 (x86)...
+[00:00:02] Installing node 4.9.1 (x86)...
+[00:00:02] iex ((new-object net.webclient).DownloadString('https://raw.githubusercontent.com/atom/ci/master/build-package.ps1'))
+[00:00:02] Downloading latest Atom release...
+[00:00:03] 
+[00:00:04] Downloading atom.zip (137,763,771 bytes)...1%
+[00:00:04] Downloading atom.zip (137,763,771 bytes)...10%
+[00:00:04] Downloading atom.zip (137,763,771 bytes)...20%
+[00:00:05] Downloading atom.zip (137,763,771 bytes)...30%
+[00:00:05] Downloading atom.zip (137,763,771 bytes)...40%
+[00:00:05] Downloading atom.zip (137,763,771 bytes)...50%
+[00:00:05] Downloading atom.zip (137,763,771 bytes)...60%
+[00:00:05] Downloading atom.zip (137,763,771 bytes)...70%
+[00:00:06] Downloading atom.zip (137,763,771 bytes)...80%
+[00:00:06] Downloading atom.zip (137,763,771 bytes)...90%
+[00:00:06] Downloading atom.zip (137,763,771 bytes)...100%
+[00:00:15] Using Atom version: 
+[00:00:15] Atom    : 1.33.0-beta2
+[00:00:15] Electron: 2.0.11
+[00:00:15] Chrome  : 61.0.3163.100
+[00:00:15] Node    : 8.9.3
+[00:00:15] 
+[00:00:15] Using APM version: 
+[00:00:17] apm  2.1.2
+[00:00:17] npm  6.2.0
+[00:00:17] node 8.9.3 ia32
+[00:00:17] atom 1.33.0-beta2
+[00:00:17] python 2.7.15
+[00:00:17] git 2.17.1.windows.2
+[00:00:17] visual studio 2013
+[00:00:17] Downloading package dependencies...
+[00:00:19] Removing extraneous modules done
+[00:00:19] 
+[00:00:31] Installing modules done
+[00:00:31] 
+[00:00:35] Linting package...
+[00:00:35] 
+[00:00:35] Γ£ô Ok! ┬╗ 0 errors and 0 warnings in 0 files
+[00:00:35] 
+[00:00:37] Linting package specs...
+[00:00:37] 
+[00:00:37] Γ£ô Ok! ┬╗ 0 errors and 0 warnings in 0 files
+[00:00:37] 
+[00:00:39] Running specs...
+[00:00:39] 
+[00:01:05] [2080:1115/223933.985:INFO:CONSOLE(258)] "Provider SampleProvider is not valid", source: C:\projects\autocomplete-plus\lib\provider-manager.js (258)
+[00:01:10] [2080:1115/223938.378:INFO:CONSOLE(258)] "Provider Object is not valid", source: C:\projects\autocomplete-plus\lib\provider-manager.js (258)
+[00:01:10] 
+[00:01:17] .........................................................................................................................................................................................................................................
+[00:01:17] 
+[00:01:17] Finished in 33.018 seconds
+[00:01:17] 233 tests, 887 assertions, 0 failures, 0 skipped
+[00:01:17] 
+[00:01:18] Build success
