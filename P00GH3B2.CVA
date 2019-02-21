@@ -1,0 +1,378 @@
+﻿[CVA File Information]
+CVATimeStamp=20150702T020413
+CVASyntaxVersion=2.1A1
+
+[Software Title]
+US=WT Games for HP-LITE
+
+[US.Software Description]
+'WildTangent Games for HP' console only.
+This is for SSD sku or any special builds that required a smaller footprint.
+
+
+[General]
+PN=P00GH3-B2W
+Version=4.1.0.5
+Revision=A
+Pass=2
+Type=Application
+Category=Application - General
+TargetPartition=
+SystemMustBeRebooted=0
+VendorName=WildTangent
+VendorVersion=4.1.0.5
+
+[SupportedLanguages]
+Languages=GLOBAL
+Countries=GBL
+
+[DetailFileInformation]
+
+
+[Softpaq]
+SoftpaqNumber=
+SupersededSoftpaqNumber=
+SoftPaqMD5=
+
+[Operating Systems]
+W10P32=OEM
+W732EN=OEM
+W732HB=OEM
+W732HP=OEM
+W732PR=OEM
+W732SE=OEM
+W732UL=OEM
+W764EN=OEM
+W764HB=OEM
+W764HP=OEM
+W764PR=OEM
+W764UL=OEM
+W8.132=OEM
+W8.164=OEM
+WT64=OEM
+
+
+[System Information]
+SysId01=0x2294
+SysName01=HP Pavilion 17
+SysId02=0x2297
+SysName02=HP Pavilion 17
+SysId03=0x227C
+SysName03=HP Pavilion 17
+SysId04=0x22E0
+SysName04=HP ENVY x2 Detachable PC 13
+SysId05=0x80A0
+SysName05=
+SysId06=0x80A3
+SysName06=
+SysId07=0x80A6
+SysName07=
+SysId08=0x80A1
+SysName08=
+SysId09=0x80A4
+SysName09=
+SysId10=0x80A7
+SysName10=
+SysId11=0x80A9
+SysName11=;HP Pavilion Gaming
+SysId12=0x8119
+SysName12=
+SysId13=0x815D
+SysName13=HP Pavilion x2 Detachable
+SysId14=0x813E
+SysName14=HP Pavilion x2 Detachable
+SysId15=0x806E
+SysName15=HP Pavilion x360 Convertible;HP Pavilion x360 m3 Convertible
+SysId16=0x80D1
+SysName16=HP Pavilion x360 Convertible;HP Pavilion x360 m3 Convertible
+SysId17=0x8160
+SysName17=HP Envy 8 Note 5000 Tablet
+SysId18=0x80A2
+SysName18=
+SysId19=0x80A5
+SysName19=
+SysId20=0x80A8
+SysName20=
+SysId21=0x811A
+SysName21=
+SysId22=0x80C3
+SysName22=ac000~15-ac099;ac500~15-ac599;aj000~15g-ad099;ad000~15q-aj099;HP 250 G4;HP 256 G4
+SysId23=0x80C4
+SysName23=ac000~15-ac099;ac500~15-ac599;aj000~15g-ad099;ad000~15q-aj099;HP 250 G4;HP 256 G4
+SysId24=0x80C1
+SysName24=ac000~15-ac099;ac500~15-ac599;aj000~15g-ad099;ad000~15q-aj099;HP Notebook 15g;HP Notebook 15q;HP 250 G4;HP 256 G4
+SysId25=0x80C2
+SysName25=ac000~15-ac099;ac500~15-ac599;aj000~15g-ad099;ad000~15q-aj099;HP Notebook 15g;HP Notebook 15q;HP 250 G4;HP 256 G4
+SysId26=0x80C5
+SysName26=ac000~15-ac099;ac500~15-ac599;aj000~15g-ad099;ad000~15q-aj099;HP Notebook 15g;HP Notebook 15q;HP 250 G4;HP 256 G4
+SysId27=0x80C6
+SysName27=ac000~15-ac099;ac500~15-ac599;aj000~15g-ad099;ad000~15q-aj099;HP Notebook 15g;HP Notebook 15q
+SysId28=0x8135
+SysName28=HP Notebook 15g;HP Notebook 15q
+SysId29=0x8136
+SysName29=HP Notebook 15g;HP Notebook 15q;HP 250 G4;HP 256 G4
+SysId30=0x8075
+SysName30=HP Pavilion x360
+SysId31=0x8074
+SysName31=HP Pavilion x360
+SysId32=0x21F7
+SysName32=Compaq 15;Compaq 15 TouchSmart;HP Notebook 15;HP Notebook 15 TouchSmart
+SysId33=0x21F8
+SysName33=Compaq 15;Compaq 15 TouchSmart;HP Notebook 15;HP Notebook 15 TouchSmart
+SysId34=0x22CD
+SysName34=Compaq 15;Compaq 15 TouchSmart;HP Notebook 15;HP Notebook 15 TouchSmart
+SysId35=0x22CE
+SysName35=Compaq 15;Compaq 15 TouchSmart;HP Notebook 15;HP Notebook 15 TouchSmart
+SysId36=0x80CF
+SysName36=HP ENVY x360 Convertible;HP ENVY x360 m6 Convertible
+SysId37=0x80D0
+SysName37=HP ENVY x360 Convertible;HP ENVY x360 m6 Convertible
+SysId38=0x2289
+SysName38=HP ENVY 14
+SysId39=0x228C
+SysName39=HP ENVY 14
+SysId40=0x2298
+SysName40=HP ENVY 14
+SysId41=0x229B
+SysName41=HP ENVY 14
+SysId42=0x80E0
+SysName42=HP ENVY Notebook
+SysId43=0x80E4
+SysName43=HP ENVY Notebook
+SysId44=0x80EC
+SysName44=HP ENVY Notebook
+SysId45=0x8133
+SysName45=af000~14-af099;af000~14z-af099;HP 245 G4
+SysId46=0x80C7
+SysName46=af000~14-af099;af000~14z-af099;HP 245 G4
+SysId47=0x80C8
+SysName47=af000~14-af099;af000~14z-af099
+SysId48=0x2292
+SysName48=HP Pavilion 14
+SysId49=0x2295
+SysName49=HP Pavilion 14
+SysId50=0x227A
+SysName50=HP Pavilion 14
+SysId51=0x22B3
+SysName51=HP Pavilion x360 Convertible
+SysId52=0x2299
+SysName52=HP ENVY 15
+SysId53=0x229C
+SysName53=HP ENVY 15
+SysId54=0x228A
+SysName54=HP ENVY 15
+SysId55=0x228D
+SysName55=HP ENVY 15
+SysId56=0x2290
+SysName56=HP ENVY 15
+SysId57=0x226E
+SysName57=Compaq 15;Compaq 15 TouchSmart;HP Notebook 15;HP Notebook 15 TouchSmart
+SysId58=0x226F
+SysName58=Compaq 15;Compaq 15 TouchSmart;HP Notebook 15;HP Notebook 15 TouchSmart
+SysId59=0x2211
+SysName59=Compaq 15;Compaq 15 TouchSmart;HP Notebook 15;HP Notebook 15 TouchSmart
+SysId60=0x2212
+SysName60=Compaq 15;Compaq 15 TouchSmart;HP Notebook 15;HP Notebook 15 TouchSmart
+SysId61=0x2213
+SysName61=Compaq 15;Compaq 15 TouchSmart;HP Notebook 15;HP Notebook 15 TouchSmart
+SysId62=0x80E1
+SysName62=HP ENVY Notebook;HP ENVY m6 Notebook
+SysId63=0x80E5
+SysName63=HP ENVY Notebook;HP ENVY m6 Notebook
+SysId64=0x80E9
+SysName64=HP ENVY Notebook;HP ENVY m6 Notebook
+SysId65=0x229A
+SysName65=HP ENVY 17
+SysId66=0x2291
+SysName66=HP ENVY 17
+SysId67=0x229D
+SysName67=
+SysId68=0x22B5
+SysName68=HP Pavilion x360 Convertible;HP Pavilion 13
+SysId69=0x22B6
+SysName69=HP Pavilion x360 Convertible;HP Pavilion 13
+SysId70=0x80BF
+SysName70=ac000~14-ac099;ad000~14g-ad099;aj000~14q-aj099;HP Notebook 14g;HP Notebook 14q;HP 240 G4;HP 246 G4
+SysId71=0x80BD
+SysName71=ac000~14-ac099;ad000~14g-ad099;aj000~14q-aj099;HP 240 G4;HP 246 G4
+SysId72=0x80BE
+SysName72=ac000~14-ac099;ad000~14g-ad099;aj000~14q-aj099;HP 240 G4;HP 246 G4
+SysId73=0x80BB
+SysName73=ac000~14-ac099;ad000~14g-ad099;aj000~14q-aj099;HP Notebook 14g;HP Notebook 14q;HP 240 G4;HP 246 G4
+SysId74=0x80BC
+SysName74=ac000~14-ac099;ad000~14g-ad099;aj000~14q-aj099;HP Notebook 14g;HP Notebook 14q;HP 240 G4;HP 246 G4
+SysId75=0x8131
+SysName75=HP Notebook 14g;HP Notebook 14q
+SysId76=0x8132
+SysName76=HP Notebook 14g;HP Notebook 14q;HP 240 G4;HP 246 G4
+SysId77=0x8114
+SysName77=HP ENVY x360 Convertible
+SysId78=0x2293
+SysName78=HP Pavilion 15
+SysId79=0x2296
+SysName79=HP Pavilion 15
+SysId80=0x227B
+SysName80=HP Pavilion 15
+SysId81=0x233A
+SysName81=HP Pavilion 15
+SysId82=0x220D
+SysName82=Compaq 14;Compaq 14 TouchSmart;HP Notebook 14;HP Notebook 14 TouchSmart
+SysId83=0x220E
+SysName83=Compaq 14;Compaq 14 TouchSmart;HP Notebook 14;HP Notebook 14 TouchSmart
+SysId84=0x220F
+SysName84=Compaq 14;Compaq 14 TouchSmart;HP Notebook 14;HP Notebook 14 TouchSmart
+SysId85=0x226C
+SysName85=Compaq 14;Compaq 14 TouchSmart;HP Notebook 14;HP Notebook 14 TouchSmart
+SysId86=0x226D
+SysName86=Compaq 14;Compaq 14 TouchSmart;HP Notebook 14;HP Notebook 14 TouchSmart
+SysId87=0x8137
+SysName87=af0XX~15-af099;af000~15z-af099;HP 255 G4
+SysId88=0x80CB
+SysName88=af0XX~15-af099;af000~15z-af099;HP 255 G4
+SysId89=0x80CC
+SysName89=af0XX~15-af099;af000~15z-af099
+SysId90=0x2B06
+SysName90=HP 23-g0xx PC
+SysId91=0x2B08
+SysName91=HP 23-g0xx PC
+SysId92=0x2B2E
+SysName92=HP 23-g0xx PC
+SysId93=0x2B2E
+SysName93=HP 23-g0xx PC
+SysId94=0x2B21
+SysName94=HP 23-g0xx PC
+SysId95=0x
+SysName95=HP 23-g0xx PC
+SysId96=0x2B0D
+SysName96=HP 23-g0xx PC
+SysId97=0x2B09
+SysName97=HP 23-h0xx PC
+SysId98=0x2B0B
+SysName98=HP 23-h0xx PC
+SysId99=0x2B0F
+SysName99=HP 23-h0xx PC
+SysId100=0x2B0F
+SysName100=HP 23-h0xx PC
+SysId101=0x2179
+SysName101=HP ProOne 400 G1 23-inch Non-Touch AiO
+SysId102=0x
+SysName102=CQ 100-0xx Desktop PC
+SysId103=0x2B18
+SysName103=CQ 100-0xx Desktop PC
+SysId104=0x2B07
+SysName104=CQ 18-40xx PC
+SysId105=0x2B2F
+SysName105=CQ 18-40xx PC
+SysId106=0x2B0C
+SysName106=CQ 18-40xx PC
+SysId107=0x2B0C
+SysName107=CQ 18-50xx PC
+SysId108=0x2B0A
+SysName108=Compaq 19-10xx PC
+SysId109=0x2B15
+SysName109=Compaq 19-20xx PC
+SysId110=0x2B05
+SysName110=HP 110-0xx Desktop PC
+SysId111=0x2B29
+SysName111=HP 110-0xx Desktop PC
+SysId112=0x
+SysName112=HP 110-0xx Desktop PC
+SysId113=0x2B18
+SysName113=HP 110-0xx Desktop PC
+SysId114=0x2B29
+SysName114=HP 110-0xx Desktop PC
+SysId115=0x2B28
+SysName115=HP 110-0xx Desktop PC
+SysId116=0x2B28
+SysName116=HP 110-0xx Desktop PC
+SysId117=0x2B17
+SysName117=HP Envy 700-0xx PC
+SysId118=0x2B07
+SysName118=HP 18-50xx PC
+SysId119=0x2B2F
+SysName119=HP 18-50xx PC
+SysId120=0x2B0C
+SysName120=HP 18-50xx PC
+SysId121=0x2B0C
+SysName121=HP 18-50xx PC
+SysId122=0x2B0A
+SysName122=HP 19-20xx PC
+SysId123=0x2B0A
+SysName123=HP 20-20xx PC
+SysId124=0x2B1F
+SysName124=HP 20-20xx PC
+SysId125=0x2B1F
+SysName125=HP 20-20xx PC
+SysId126=0x2B1F
+SysName126=HP 20-20xx PC
+SysId127=0x
+SysName127=HP 20-20xx PC
+SysId128=0x2B23
+SysName128=HP 20-20xx PC
+SysId129=0x2B12
+SysName129=HP 20-20xx PC
+SysId130=0x2B15
+SysName130=HP 19-20xx PC
+SysId131=0x2B15
+SysName131=HP 20-20xx PC
+SysId132=0x2B15
+SysName132=HP 19-20xx PC
+SysId133=0x2B15
+SysName133=HP 20-20xx PC
+SysId134=0x
+SysName134=HP 20-20xx PC
+SysId135=0x213D
+SysName135=HP t620 PLUS Quad Core TC
+SysId136=0x2187
+SysName136=HP t620 Dual Core TC
+SysId137=0x2124
+SysName137=HP t620 PLUS Dual Core TC
+SysId138=0x2124
+SysName138=HP t620 Dual Core TC
+SysId139=0x21B4
+SysName139=HP t620 Quad Core TC
+SysId140=0x21EF
+SysName140=HP t520 Flexible Series Thin Client
+SysId141=0x2B13
+SysName141=HP 21-h0xx PC
+SysId142=0x2B0D
+SysName142=HP 21-h0xx PC
+SysId143=0x2B20
+SysName143=HP Pavilion 21 AiO PC
+SysId144=0x2B20
+SysName144=HP Pavilion 21 AiO PC
+SysId145=0x2B20
+SysName145=HP Pavilion 21 AiO PC
+SysId146=0x2AFE
+SysName146=HP Pavilion Slimline 400-0xx PC
+SysId147=0x
+SysName147=HP Pavilion Slimline 400-0xx PC
+SysId148=0x2B18
+SysName148=HP Pavilion Slimline 400-0xx PC
+SysId149=0x2B29
+SysName149=HP Pavilion Slimline 400-0xx PC
+SysId150=0x2B17
+SysName150=HP Pavilion 500-axx PC
+SysId151=0x
+SysName151=HP Pavilion 500-axx PC
+SysId152=0x2B29
+SysName152=HP Pavilion 500-axx PC
+
+[Install Execution]
+Install=install.cmd
+SilentInstall="install.cmd"
+
+[Private]
+Private_SSMCompliant=1
+DPB_Compliant=0
+
+[Private_SoftpaqInstall]
+1. Download the file by clicking the "Download" or "Obtain Software" button and
+saving the file to a folder on your hard drive (make a note of the folder where
+the downloaded file is saved).
+2. Double-click the downloaded file and follow the on-screen instructions.
+
+
+[CVAToolDocumentStamp]
+Generated by Excalibur using Syntax Version 2.1 A1 on 07/02/2015
+Copyright © 2015 HP Development Company, L.P. 

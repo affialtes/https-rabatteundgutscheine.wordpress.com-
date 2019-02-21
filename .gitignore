@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /secret/
 /.dependencies/
 *.tfstate
@@ -13,3 +14,9 @@ terraform.tfvars
 terraform.tfvars*
 /.terraform
 .DS_Store
+=======
+_site
+.sass-cache
+Gemfile.lock
+*.gem
+>>>>>>> master

@@ -1,0 +1,145 @@
+﻿[CVA File Information]
+CVATimeStamp=20150726T114101
+CVASyntaxVersion=2.1A1
+
+[Software Title]
+US=Intel WLAN Driver for Microsoft Windows 10
+
+[US.Software Description]
+This package contains drivers for the Intel Stone Peak/ Snowfield Peak/ Wilkins Peak  Wireless LAN adapters listed in Dependencies for each release in Win10.
+
+[General]
+PN=P00KW2-B2M
+Version=18.12.0.3
+Revision=P
+Pass=2
+Type=Driver
+Category=Driver - Network
+TargetPartition=
+SystemMustBeRebooted=0
+VendorName=Intel
+VendorVersion=18.12.0.3
+
+[SupportedLanguages]
+Languages=GLOBAL
+Countries=GBL
+
+[DetailFileInformation]
+
+
+[Softpaq]
+SoftpaqNumber=
+SupersededSoftpaqNumber=
+SoftPaqMD5=
+
+[Operating Systems]
+WT32=OEM
+WT64=OEM
+
+
+[Devices]
+PCI\VEN_8086&DEV_095A&SUBSYS_50208086="Intel(R) Dual Band Wireless 7265"
+PCI\VEN_8086&DEV_095A&SUBSYS_50008086="Intel(R) Dual Band Wireless-AN 7265"
+PCI\VEN_8086&DEV_095A&SUBSYS_50108086="Intel(R) Dual Band Wireless-AC 7265"
+PCI\VEN_8086&DEV_08B3&SUBSYS_00708086="Intel(R) Dual Band Wireless-AC 3160"
+PCI\VEN_8086&DEV_08B3&SUBSYS_00608086="Intel(R) Dual Band Wireless-N 3160"
+PCI\VEN_8086&DEV_08B3&SUBSYS_00628086="Intel(R) Wireless-N 3160"
+PCI\VEN_8086&DEV_08B3&SUBSYS_80708086="Intel(R) Dual Band Wireless-AC 3160"
+PCI\VEN_8086&DEV_08B3&SUBSYS_80608086="Intel(R) Dual Band Wireless-N 3160"
+PCI\VEN_8086&DEV_08B3&SUBSYS_80628086="Intel(R) Wireless-N 3160"
+PCI\VEN_8086&DEV_08B1&SUBSYS_40708086="Intel(R) Dual Band Wireless-AC 7260"
+PCI\VEN_8086&DEV_08B1&SUBSYS_40608086="Intel(R) Dual Band Wireless-N 7260"
+PCI\VEN_8086&DEV_08B1&SUBSYS_40628086="Intel(R) Wireless-N 7260"
+PCI\VEN_8086&DEV_08B1&SUBSYS_40208086="Intel(R) Dual Band Wireless-N 7260"
+PCI\VEN_8086&DEV_08B1&SUBSYS_C0708086="Intel(R) Dual Band Wireless-AC 7260"
+PCI\VEN_8086&DEV_08B1&SUBSYS_C0608086="Intel(R) Dual Band Wireless-N 7260"
+PCI\VEN_8086&DEV_08B1&SUBSYS_C0628086="Intel(R) Wireless-N 7260"
+PCI\VEN_8086&DEV_08B1&SUBSYS_C0208086="Intel(R) Dual Band Wireless-N 7260"
+PCI\VEN_8086&DEV_08B1&SUBSYS_40728086="Intel(R) Dual Band Wireless-AC 7260"
+PCI\VEN_8086&DEV_08B1&SUBSYS_406A8086="Intel(R) Dual Band Wireless-N 7260"
+PCI\VEN_8086&DEV_08B1&SUBSYS_402A8086="Intel(R) Dual Band Wireless-N 7260"
+PCI\VEN_8086&DEV_08B1&SUBSYS_C0728086="Intel(R) Dual Band Wireless-AC 7260"
+PCI\VEN_8086&DEV_08B1&SUBSYS_C06A8086="Intel(R) Dual Band Wireless-N 7260"
+PCI\VEN_8086&DEV_08B1&SUBSYS_C02A8086="Intel(R) Dual Band Wireless-N 7260"
+PCI\VEN_8086&DEV_095A&SUBSYS_50028086="Intel(R) Dual Band Wireless-N 7265"
+PCI\VEN_8086&DEV_095A&SUBSYS_50128086="Intel(R) Dual Band Wireless-AC 7265"
+PCI\VEN_8086&DEV_095A&SUBSYS_50908086="Intel(R) Dual Band Wireless-N 7265"
+PCI\VEN_8086&DEV_095A&SUBSYS_90108086="Intel(R) Dual Band Wireless 7265"
+PCI\VEN_8086&DEV_095A&SUBSYS_91108086="Intel(R) Dual Band Wireless 7265"
+PCI\VEN_8086&DEV_095A&SUBSYS_807E8086="Intel(R) Dual Band Wireless 7265"
+PCI\VEN_8086&DEV_3165&SUBSYS_0A2A8086="Intel Dual Band Wireless NGW 3165"
+PCI\VEN_8086&DEV_3165&SUBSYS_40108086="Intel(R) Dual Band Wireless-AC 3165"
+PCI\VEN_8086&DEV_24F3&SUBSYS_00048086="Intel(R) Dual Band Wireless 8260"
+PCI\VEN_8086&DEV_24F3&SUBSYS_00108086="Intel(R) Dual Band Wireless 8260"
+PCI\VEN_8086&DEV_24F3&SUBSYS_01108086="Intel(R) Dual Band Wireless 8260"
+PCI\VEN_8086&DEV_24F3&SUBSYS_08108086="Intel(R) Dual Band Wireless 8260"
+PCI\VEN_8086&DEV_24F3&SUBSYS_09108086="Intel(R) Dual Band Wireless 8260"
+PCI\VEN_8086&DEV_24F3&SUBSYS_10108086="Intel(R) Dual Band Wireless 8260"
+PCI\VEN_8086&DEV_24F3&SUBSYS_11108086="Intel(R) Dual Band Wireless 8260"
+PCI\VEN_8086&DEV_24F3&SUBSYS_40108086="Intel(R) Dual Band Wireless 8260"
+PCI\VEN_8086&DEV_24F3&SUBSYS_80108086="Intel(R) Dual Band Wireless 8260"
+PCI\VEN_8086&DEV_24F3&SUBSYS_90108086="Intel(R) Dual Band Wireless 8260"
+PCI\VEN_8086&DEV_24F3&SUBSYS_C0108086="Intel(R) Dual Band Wireless 8260"
+PCI\VEN_8086&DEV_24F3&SUBSYS_C1108086="Intel(R) Dual Band Wireless 8260"
+PCI\VEN_8086&DEV_24F3&SUBSYS_D0108086="Intel(R) Dual Band Wireless 8260"
+[Devices_INFPath]
+WT64_INFPath=Win7Plus\Win64\Drivers\WinT
+WT32_INFPath=Win7Plus\Win32\Drivers\WinT
+[System Information]
+SysId01=0x2255
+SysName01=HP ZBook 17 G2 Mobile Workstation
+SysId02=0x80FA
+SysName02=HP EliteBook Folio 1040 G3
+SysId03=0x80FB
+SysName03=HP EliteBook Folio 1020 G2;HP EliteBook Folio 1020 G2 Special Edition
+SysId04=0x8079
+SysName04=HP EliteBook 840 G3;HP EliteBook 740 G3;HP EliteBook 850 G3;HP EliteBook 750 G3;HP ZBook 15u G3 Mobile Workstation
+SysId05=0x80FD
+SysName05=HP ProBook 640 G2;HP ProBook 650 G2
+SysId06=0x8125
+SysName06=HP ProBook 650 G2
+SysId07=0x808F
+SysName07=HP ProBook 11 G1 Education Edition
+SysId08=0x8078
+SysName08=HP ProBook 11 Education Edition
+SysId09=0x8042
+SysName09=HP Pro Tablet 608 G1
+SysId10=0x8170
+SysName10=HP EliteBook Folio 1020 G3
+SysId11=0x8084
+SysName11=HP EliteBook 725 G3
+SysId12=0x80FC
+SysName12=HP Elite x2 1012 G1 Tablet;HP Elite x2 1012 G1 with Travel Keyboard;HP Elite x2 1012 G1 Advanced Keyboard
+SysId13=0x8101
+SysName13=HP ProBook 450 G3
+SysId14=0x8100
+SysName14=HP ProBook 440 G3
+SysId15=0x8102
+SysName15=HP ProBook 470 G3
+SysId16=0x80FF
+SysName16=HP ProBook 430 G3
+SysId17=0x807C
+SysName17=HP EliteBook 820 G3
+SysId18=0x807E
+SysName18=HP EliteBook 745 G3;HP EliteBook 755 G3
+SysId19=0x80FE
+SysName19=HP ProBook 645 G2;HP ProBook 655 G2
+SysId20=0x80D5
+SysName20=HP ZBook 15 G3 Mobile Workstation
+SysId21=0x80D4
+SysName21=HP ZBook Studio G3 Mobile Workstation
+
+[Install Execution]
+Install="InstMultiPkg.exe"
+SilentInstall="install.cmd"
+
+[Private]
+Private_SSMCompliant=1
+DPB_Compliant=1
+
+[Private_SoftpaqInstall]
+
+
+[CVAToolDocumentStamp]
+Generated by Excalibur using Syntax Version 2.1 A1 on 07/26/2015
+Copyright © 2015 HP Development Company, L.P. 

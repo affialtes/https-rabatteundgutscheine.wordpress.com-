@@ -1,0 +1,9 @@
+# pack-refs with: peeled fully-peeled sorted 
+42d9ea951673f24c2932ffe67493b19abfce2a91 refs/remotes/origin/eobrain-autowipeout-storage
+7d1f6550315c5010ff70026334fd5d83016c24aa refs/remotes/origin/eslint-fix
+34a7141e0f762be9d6ccc4deeb3b8ed4bbab6ac2 refs/remotes/origin/eslint-testing
+3c280b26785b8ca8717514517b3ad598f219d86e refs/remotes/origin/katowulf-pr-tpl
+0e032649c88da825b193830bb7704377b78c8ac6 refs/remotes/origin/ll-addtest
+f7135abccbec5be2383b4482227dc958ed36e5db refs/remotes/origin/master
+ae7dec30d8e00ae3034bfa3597077c086f2b7be8 refs/remotes/origin/revert-205-decrypt
+c6612f4aeba19d74797f9773a2f4aea51d3b9631 refs/remotes/origin/revert-306-eslintcompliant

@@ -1,0 +1,902 @@
+﻿[CVA File Information]
+CVATimeStamp=20150711T104507
+CVASyntaxVersion=2.1A1
+
+[Software Title]
+US=HP Support Assistant
+AR=HP Support Assistant
+BR=HP Support Assistant
+BG=HP Support Assistant
+CH=HP Support Assistant
+HR=HP Support Assistant
+CS=HP Support Assistant
+DK=HP Support Assistant
+NL=HP Support Assistant
+EI=HP Support Assistant
+FI=HP Support Assistant
+FR=HP Support Assistant
+GR=HP Support Assistant
+GK=HP Support Assistant
+IL=HP Support Assistant
+TZ=HP Support Assistant
+HU=HP Support Assistant
+IT=HP Support Assistant
+JP=HP Support Assistant
+KR=HP Support Assistant
+LV=HP Support Assistant
+LT=HP Support Assistant
+NO=HP Support Assistant
+PL=HP Support Assistant
+PT=HP Support Assistant
+RO=HP Support Assistant
+RU=HP Support Assistant
+SR=HP Support Assistant
+SK=HP Support Assistant
+SL=HP Support Assistant
+SP=HP Support Assistant
+SE=HP Support Assistant
+TW=HP Support Assistant
+TH=HP Support Assistant
+TR=HP Support Assistant
+
+[US.Software Description]
+"HP Support Assistant" allows HP customers to discover, maintain, and troubleshoot their machine. It also allows them to contact HP to receive assistance.
+
+[AR.Software Description]
+يُعد HP Support Assistant المكان الرئيسي للتنفيذ التلقائي وجدولة صيانة جهاز الكمبيوتر الشخصي الخاص بك، واستكشاف المشاكل وإصلاحها بنفسك في حالة رغبتك في ذلك والعثور على معلومات حول جهاز الكمبيوتر ومواضيع أخرى والحصول على المساعدة من فني الدعم.
+
+[BR.Software Description]
+O HP Support Assistant é um centro para a automação e agendamento da manutenção do seu PC, solução de problemas pelo próprio usuário, se desejado, busca de informações sobre o seu computador e outros tópicos, e obtenção de assistência de um técnico de suporte.
+
+[BG.Software Description]
+HP Support Assistant е централно място за автоматизиране и насрочване на поддръжката на компютъра, самостоятелно отстраняване на проблеми, ако желаете, намиране на информация за компютъра и други теми и получаване на помощ от специалист по поддръжката.
+
+[CH.Software Description]
+HP Support Assistant 提供了一个集中位置，以自动完成和计划 PC 维护，自行解决问题(如果需要)，查找有关您的计算机和其它主题的信息以及从技术支持人员获得帮助。
+
+[HR.Software Description]
+HP Support Assistant središnje je mjesto za automatiziranje i zakazivanje zadataka održavanja računala, mogućnost samostalnog rješavanja zadataka, pronalaženje informacija o računalu i drugim temama te dobivanje pomoći od tehničara za podršku.
+
+[CS.Software Description]
+Nástroj HP Support Assistant je ústředním prvkem procesu automatizace a plánování údržby počítače, samostatného řešení problémů, hledání informací (např. o počítači) a získání pomoci pracovníka technické podpory.
+
+[DK.Software Description]
+HP Support Assistant er det centrale sted til automatisering og planlægning af din computervedligeholdelse, fejlfinding af problemer på egen hånd, hvis du vil, søgning efter oplysninger om din computer og andre emner samt få hjælp fra en supporttekniker.
+
+[NL.Software Description]
+HP Support Assistant is de centrale locatie voor het automatiseren en plannen van pc-onderhoud, het zelfstandig oplossen van problemen, het opzoeken van informatie over uw computer en andere onderwerpen, en het aanvragen van ondersteuning door een ondersteuningsmedewerker.
+
+[EI.Software Description]
+HP Support Assistant on koht, kus saate automatiseerida ja ajastada personaalarvuti haldust, viia soovi korral ise läbi tõrkeotsinguid, otsida teavet arvuti ja muude teemade kohta ning küsida abi tugitehnikult.
+
+[FI.Software Description]
+HP Support Assistant -ohjelma on keskeinen työkalu tietokoneen huollon automatisointiin ja ajastukseen, ongelmien itsenäiseen vianmääritykseen, tietokoneeseen ja muihin aiheisiin liittyvien tietojen etsimiseen sekä tuen hakemiseen tekniseltä tukihenkilöltä.
+
+[FR.Software Description]
+HP Support Assistant est la place centrale pour automatiser et planifier la maintenance de votre ordinateur, résoudre les problèmes vous-mêmes si vous le souhaitez, trouver des informations sur votre ordinateur et d'autres sujets, et pour obtenir une assistance de la part d'un technicien de support.
+
+[GR.Software Description]
+HP Support Assistant ist eine zentrale Ressource, mit der Sie Ihre PC-Wartung automatisieren und planen können, Probleme selbstständig beheben können, Information über Ihren Computer und zu anderen Themen suchen können, und mit der Sie auch Hilfe von einem Support-Mitarbeiter anfordern können.
+
+[GK.Software Description]
+Το HP Support Assistant είναι το κεντρικό σημείο για τον αυτοματισμό και τον προγραμματισμό της συντήρησης του υπολογιστή, την αντιμετώπιση προβλημάτων από εσάς τους ίδιους, εάν το θέλετε, την εύρεση πληροφοριών σχετικά με τον υπολογιστή και άλλα θέματα και τη λήψη βοήθειας από τεχνικό υποστήριξης.
+
+[IL.Software Description]
+HP Support Assistant הוא המקום המרכזי למיכון ותזמון של תחזוקת המחשב, לפתרון עצמאי של בעיות אם אתה מעוניין בכך, לאיתור מידע אודות המחשב ונושאים אחרים ולקבלת סיוע מטכנאי תמיכה.
+
+[TZ.Software Description]
+HP Support Assistant 是一個重要的管理中心，在此可以自動化並排程電腦維護、自行疑難排解問題、尋找電腦相關資訊和其他主題，以及取得技術支援人員協助。
+
+[HU.Software Description]
+A HP Support Assistant egy olyan központi hely, amelyen automatizálhatja és ütemezheti a számítógép karbantartását, igény szerin önállóan elháríthatja a számítógépes problémákat, információkat kereshet a számítógépről és más témakörökről, valamint segítséget kérhet egy támogatási szakembertől.
+
+[IT.Software Description]
+HP Support Assistant è la posizione centrale da cui automatizzare e pianificare le operazioni di manutenzione del computer in uso, risolvere i problemi in modo autonomo se lo si desidera, reperire informazioni sul computer e altri argomenti, nonché ottenere assistenza da un tecnico del supporto.
+
+[JP.Software Description]
+[HP Support Assistant]は、コンピューターのメンテナンスの自動化やスケジュールを設定したり、必要に応じて自分で問題のトラブルシューティングを行ったり、コンピューターやその他のトピックに関する情報を検索したり、サポート担当者によるサポートを利用したりするための中心となる場所です。
+
+[KR.Software Description]
+HP Support Assistant는 PC 유지 관리를 자동 수행 및 예약하고, 원하는 경우 직접 문제를 해결하고, 컴퓨터 및 기타 주제에 대한 정보를 검색하고, 기술 지원 전문가의 도움을 받는 등 다양한 작업을 수행할 수 있는 핵심 소프트웨어입니다.
+
+[LV.Software Description]
+HP Support Assistant ir galvenā vieta datora apkopes automatizēšanai un plānošanai, pašrocīgai problēmu novēršanai, ja vēlaties, informācijas atrašanai par jūsu datoru un citām tēmām, kā arī atbalsta saņemšanai no atbalsta speciālista.
+
+[LT.Software Description]
+„HP Support Assistant“ yra pagrindinė vieta, kurioje automatizuojamas ir nustatomas jūsų kompiuterio techninės priežiūros, pačių atliekamo, jei to norite, trikčių šalinimo, informacijos apie kompiuterį ir kitomis temomis radimo bei pagalbos iš techninės priežiūros specialisto gavimo grafikas.
+
+[NO.Software Description]
+Med HP Support Assistant kan du automatisere og planlegge PC-vedlikehold, feilsøke problemer på egen hånd dersom du ønsker det, finne informasjon om datamaskinen og andre emner og be om hjelp fra teknisk kundestøtte.
+
+[PL.Software Description]
+Program HP Support Assistant umożliwa planowanie i automatyczne przeprowadzanie konserwacji systemu lub samodzielne rozwiązywanie problemów. Możliwe jest również znajdowanie informacji dotyczących komputera lub innych zagadnień oraz uzyskanie wsparcia od pracownika pomocy technicznej.
+
+[PT.Software Description]
+O HP Support Assistant é um centro para a automação e agendamento da manutenção do seu PC, solução de problemas pelo próprio usuário, se desejado, busca de informações sobre o seu computador e outros tópicos, e obtenção de assistência de um técnico de suporte.
+
+[RO.Software Description]
+HP Support Assistant este sediul central pentru automatizarea şi programarea întreţinerii PC-ului, depanarea voluntară a problemelor – când se doreşte acest lucru, găsirea informaţiilor despre computer şi a altor subiecte, precum şi obţinerea asistenţei de la un tehnician specializat.
+
+[RU.Software Description]
+Программа HP Support Assistant — это центральное место для автоматизации обслуживания компьютера по расписанию, при желании самостоятельного устранения неполадок, поиска сведений о компьютере и по другим темам и получения помощи от специалиста службы технической поддержки.
+
+[SR.Software Description]
+HP Support Assistant je centralno mesto za automatizaciju i planiranje održavanja računara, rešavanje problema bez ičije pomoći ako tako želite, pronalaženje informacija o računaru i ostalim temama, kao i dobijanje pomoći tehničke podrške.
+
+[SK.Software Description]
+Program HP Support Assistant je ústredným miestom automatizácie a plánovania údržby počítača, prípadného riešenia problémov vlastnými silami, vyhľadávania informácií o počítači a ďalších tém a získavania pomoci od pracovníka technickej podpory.
+
+[SL.Software Description]
+Orodje HP Support Assistant je osrednja točka za avtomatiziranje in načrtovanje vzdrževanja računalnika, ročno odpravljanje težav, kadar to želite, iskanje informacij o računalniku in drugih temah ter pridobivanje tehnične pomoči in podpore.
+
+[SP.Software Description]
+HP Support Assistant es el principal lugar para automatizar y programar el mantenimiento de su PC, resolver problemas en forma independiente si así lo desea, encontrar información sobre su equipo y otros temas y obtener la asistencia de un técnico de soporte.
+
+[SE.Software Description]
+HP Support Assistant är den centrala punkt där du kan schemalägga och ställa in automatiskt underhåll av datorn, felsöka problem på egen hand, hitta information om datorn och andra ämnen och få hjälp av en supporttekniker.
+
+[TW.Software Description]
+在 HP Support Assistant 這個中央位置，可進行電腦維護的自動化作業和排程，需要時也可自行解決問題，尋找電腦和其他主題的相關資訊，以及獲取技術支援人員的協助。
+
+[TH.Software Description]
+HP Support Assistant เป็นศูนย์กลางสำหรับการทำงานแบบอัตโนมัติและการจัดตารางเวลาสำหรับการบำรุงรักษาคอมพิวเตอร์ของคุณ การแก้ไขปัญหาด้วยตัวคุณเอง การค้นหาข้อมูลเกี่ยวกับคอมพิวเตอร์ของคุณและหัวข้ออื่นๆ และการขอความช่วยเหลือจากช่างเทคนิคฝ่ายบริการสนับสนุน
+
+[TR.Software Description]
+HP Support Assistant bilgisayarınızın bakımını planlamanız, dilerseniz sorunları kendi başınıza gidermeniz, bilgisayarınız ve diğer konular ile ilgili bilgiler bulmanız ve destek teknisyeninden yardım almanız için merkezi bir konumdur.
+
+[General]
+PN=P00GXS-B2P
+Version=8.0.29.6
+Revision=A
+Pass=1
+Type=Application
+Category=PreReq1
+TargetPartition=
+SystemMustBeRebooted=0
+VendorName=HP
+VendorVersion=8.0.29.6
+
+[SupportedLanguages]
+Languages=GLOBAL
+Countries=GBL
+
+[DetailFileInformation]
+HPSF.exe=<PROGRAMFILESDIR>\Hewlett-Packard\HP Support Framework,0x0008,0x0000,0x001D,0x0006,W732UL
+HPSF.exe=<PROGRAMFILESDIR>\Hewlett-Packard\HP Support Framework,0x0008,0x0000,0x001D,0x0006,W732SE
+HPSF.exe=<PROGRAMFILESDIR>\Hewlett-Packard\HP Support Framework,0x0008,0x0000,0x001D,0x0006,W732PR
+HPSF.exe=<PROGRAMFILESDIR>\Hewlett-Packard\HP Support Framework,0x0008,0x0000,0x001D,0x0006,W732HP
+HPSF.exe=<PROGRAMFILESDIR>\Hewlett-Packard\HP Support Framework,0x0008,0x0000,0x001D,0x0006,W732HB
+HPSF.exe=<PROGRAMFILESDIR>\Hewlett-Packard\HP Support Framework,0x0008,0x0000,0x001D,0x0006,W732EN
+HPSF.exe=<PROGRAMFILESDIRX86>\Hewlett-Packard\HP Support Framework,0x0008,0x0000,0x001D,0x0006,W764UL
+HPSF.exe=<PROGRAMFILESDIRX86>\Hewlett-Packard\HP Support Framework,0x0008,0x0000,0x001D,0x0006,W764PR
+HPSF.exe=<PROGRAMFILESDIRX86>\Hewlett-Packard\HP Support Framework,0x0008,0x0000,0x001D,0x0006,W764HP
+HPSF.exe=<PROGRAMFILESDIRX86>\Hewlett-Packard\HP Support Framework,0x0008,0x0000,0x001D,0x0006,W764HB
+HPSF.exe=<PROGRAMFILESDIRX86>\Hewlett-Packard\HP Support Framework,0x0008,0x0000,0x001D,0x0006,W764EN
+HPSF.exe=<PROGRAMFILESDIR>\Hewlett-Packard\HP Support Framework,0x0008,0x0000,0x001D,0x0006,W832
+HPSF.exe=<PROGRAMFILESDIRX86>\Hewlett-Packard\HP Support Framework,0x0008,0x0000,0x001D,0x0006,W864
+HPSF.exe=<PROGRAMFILESDIR>\Hewlett-Packard\HP Support Framework,0x0008,0x0000,0x001D,0x0006,W8.132
+HPSF.exe=<PROGRAMFILESDIRX86>\Hewlett-Packard\HP Support Framework,0x0008,0x0000,0x001D,0x0006,W8.164
+HPSF.exe=<PROGRAMFILESDIR>\Hewlett-Packard\HP Support Framework,0x0008,0x0000,0x001D,0x0006,WT32
+HPSF.exe=<PROGRAMFILESDIRX86>\Hewlett-Packard\HP Support Framework,0x0008,0x0000,0x001D,0x0006,WT64
+
+[Softpaq]
+SoftpaqNumber=
+SupersededSoftpaqNumber=
+SoftPaqMD5=
+
+[Operating Systems]
+W10P32=OEM
+W732EN=OEM
+W732HB=OEM
+W732HP=OEM
+W732PR=OEM
+W732SE=OEM
+W732UL=OEM
+W764EN=OEM
+W764HB=OEM
+W764HP=OEM
+W764PR=OEM
+W764UL=OEM
+W8.132=OEM
+W8.164=OEM
+W832=OEM
+W864=OEM
+WT32=OEM
+WT64=OEM
+WTIOT32=OEM
+WTIOT64=OEM
+
+
+[System Information]
+SysId01=0x2255
+SysName01=HP ZBook 17 G2 Mobile Workstation
+SysId02=0x227C
+SysName02=HP Pavilion 17
+SysId03=0x227F
+SysName03=HP Pavilion 17
+SysId04=0x2282
+SysName04=HP Pavilion 17
+SysId05=0x2294
+SysName05=HP Pavilion 17
+SysId06=0x2297
+SysName06=HP Pavilion 17
+SysId07=0x80D6
+SysName07=HP ZBook 17 G3 Mobile Workstation
+SysId08=0x2157
+SysName08=HP ElitePad 1000 G2;HP ElitePad 1000 G2 Healthcare;HP ElitePad 1000 G2 Rugged
+SysId09=0x22A4
+SysName09=HP Split x2 Detachable PC;HP Pavilion x2 Detachable
+SysId10=0x18DF
+SysName10=HP EliteBook Folio 9470m
+SysId11=0x22DA
+SysName11=HP EliteBook Folio 9480m
+SysId12=0x8060
+SysName12=HP ProDesk 480 PC
+SysId13=0x2270
+SysName13=HP EliteBook 1040 G2
+SysId14=0x2271
+SysName14=HP EliteBook Folio 1020 G1;HP EliteBook Folio 1020 G1 Special Edition
+SysId15=0x18F9
+SysName15=HP Pavilion Sleekbook 14;HP Pavilion Ultrabook 14
+SysId16=0x18FB
+SysName16=HP Pavilion Sleekbook 14;HP Pavilion Ultrabook 14
+SysId17=0x18FA
+SysName17=HP Pavilion Sleekbook 14;HP Pavilion Ultrabook 14
+SysId18=0x18FC
+SysName18=HP Pavilion Sleekbook 14;HP Pavilion Ultrabook 14
+SysId19=0x80FA
+SysName19=HP EliteBook Folio 1040 G3
+SysId20=0x22E0
+SysName20=HP ENVY x2 Detachable PC 13
+SysId21=0x805F
+SysName21=HP ProDesk 490 PC;HP ProDesk 498 PC
+SysId22=0x805A
+SysName22=HP EliteDesk 705 PC
+SysId23=0x80FB
+SysName23=HP EliteBook Folio 1020 G2;HP EliteBook Folio 1020 G2 Special Edition
+SysId24=0x2262
+SysName24=HP Pavilion 15;HP Pavilion Beats Special Edition
+SysId25=0x2263
+SysName25=HP Pavilion 15;HP Pavilion Beats Special Edition
+SysId26=0x2268
+SysName26=HP Pavilion 15;HP Pavilion Beats Special Edition
+SysId27=0x2269
+SysName27=HP Pavilion 15;HP Pavilion Beats Special Edition
+SysId28=0x22C5
+SysName28=HP Pavilion 15;HP Pavilion Beats Special Edition
+SysId29=0x22C6
+SysName29=HP Pavilion 15;HP Pavilion Beats Special Edition
+SysId30=0x22A8
+SysName30=HP Pavilion 15;HP Pavilion Beats Special Edition
+SysId31=0x22A9
+SysName31=HP Pavilion Beats Special Edition
+SysId32=0x233F
+SysName32=HP Notebook 15;Compaq 15
+SysId33=0x8014
+SysName33=HP Notebook 15;Compaq 15
+SysId34=0x2163
+SysName34=
+SysId35=0x21DE
+SysName35=
+SysId36=0x8175
+SysName36=
+SysId37=0x213E
+SysName37=HP EliteBook Folio 1040 G1
+SysId38=0x18D4
+SysName38=HP 3125
+SysId39=0x8092
+SysName39=
+SysId40=0x8095
+SysName40=
+SysId41=0x8098
+SysName41=
+SysId42=0x809B
+SysName42=
+SysId43=0x80A0
+SysName43=
+SysId44=0x80A3
+SysName44=
+SysId45=0x80A6
+SysName45=
+SysId46=0x8079
+SysName46=HP EliteBook 840 G3;HP EliteBook 740 G3;HP EliteBook 850 G3;HP EliteBook 750 G3;HP ZBook 15u G3 Mobile Workstation
+SysId47=0x179B
+SysName47=HP ProBook 6470b;HP EliteBook 8470p;HP EliteBook 8470w Mobile Workstation
+SysId48=0x179C
+SysName48=HP ProBook 6470b;HP EliteBook 8470p;HP EliteBook 8470w Mobile Workstation
+SysId49=0x812F
+SysName49=;
+SysId50=0x8130
+SysName50=;
+SysId51=0x2177
+SysName51=HP Omni 10
+SysId52=0x22B9
+SysName52=HP Pro Tablet 610 G1
+SysId53=0x22B8
+SysName53=HP Pro Tablet 610 G1
+SysId54=0x2216
+SysName54=HP EliteBook 840 G2;HP EliteBook 740 G2;HP EliteBook 850 G2;HP EliteBook 750 G2;HP ZBook 14 G2 Mobile Workstation;HP ZBook 15u G2 Mobile Workstation
+SysId55=0x1984
+SysName55=HP Pavilion 17
+SysId56=0x1985
+SysName56=HP Pavilion 17
+SysId57=0x213B
+SysName57=HP Pavilion 17
+SysId58=0x213C
+SysName58=HP Pavilion 17
+SysId59=0x80FD
+SysName59=HP ProBook 640 G2;HP ProBook 650 G2
+SysId60=0x8125
+SysName60=HP ProBook 650 G2
+SysId61=0x8032
+SysName61=HP Stream 8 Tablet
+SysId62=0x198F
+SysName62=HP EliteBook 840 G1;HP EliteBook 740 G1;HP ZBook 14 Mobile Workstation;HP EliteBook 850 G1;HP EliteBook 750 G1
+SysId63=0x8063
+SysName63=HP ProOne 400 PC
+SysId64=0x8093
+SysName64=
+SysId65=0x8096
+SysName65=
+SysId66=0x8099
+SysName66=
+SysId67=0x809C
+SysName67=
+SysId68=0x809E
+SysName68=
+SysId69=0x80A1
+SysName69=
+SysId70=0x80A4
+SysName70=
+SysId71=0x80A7
+SysName71=
+SysId72=0x80A9
+SysName72=;HP Pavilion Gaming
+SysId73=0x8119
+SysName73=
+SysId74=0x1993
+SysName74=HP ProBook 640 G1;HP ProBook 650 G1
+SysId75=0x2101
+SysName75=HP ProBook 640 G1;HP ProBook 650 G1
+SysId76=0x1994
+SysName76=HP ProBook 640 G1
+SysId77=0x2102
+SysName77=HP ProBook 640 G1
+SysId78=0x2155
+SysName78=HP mt41 Mobile Thin Client
+SysId79=0x8058
+SysName79=HP EliteOne 800 PC;HP EliteOne 800G2
+SysId80=0x806A
+SysName80=HP ProDesk 400 PC
+SysId81=0x8056
+SysName81=HP EliteDesk 800 PC
+SysId82=0x815D
+SysName82=HP Pavilion x2 Detachable
+SysId83=0x813E
+SysName83=HP Pavilion x2 Detachable
+SysId84=0x8173
+SysName84=HP x2 210 G1 Tablet
+SysId85=0x808F
+SysName85=HP ProBook 11 G1 Education Edition
+SysId86=0x8042
+SysName86=HP Pro Tablet 608 G1
+SysId87=0x805E
+SysName87=HP ProOne 600 PC
+SysId88=0x8170
+SysName88=HP EliteBook Folio 1020 G3
+SysId89=0x8062
+SysName89=HP ProDesk 400 PC
+SysId90=0x806E
+SysName90=HP Pavilion x360 Convertible;HP Pavilion x360 m3 Convertible
+SysId91=0x80D1
+SysName91=HP Pavilion x360 Convertible;HP Pavilion x360 m3 Convertible
+SysId92=0x222D
+SysName92=HP ENVY m6
+SysId93=0x222C
+SysName93=HP ENVY m6
+SysId94=0x8160
+SysName94=HP Envy 8 Note 5000 Tablet
+SysId95=0x8057
+SysName95=HP EliteOne 800 PC
+SysId96=0x8046
+SysName96=HP Pro Tablet 10 EE G1
+SysId97=0x8031
+SysName97=HP Stream 7 Tablet
+SysId98=0x805C
+SysName98=HP EliteOne 705 PC
+SysId99=0x8071
+SysName99=HP 247 G1
+SysId100=0x8094
+SysName100=
+SysId101=0x8097
+SysName101=
+SysId102=0x809A
+SysName102=
+SysId103=0x809D
+SysName103=
+SysId104=0x80A2
+SysName104=
+SysId105=0x80A5
+SysName105=
+SysId106=0x80A8
+SysName106=
+SysId107=0x811A
+SysName107=
+SysId108=0x1888
+SysName108=b000 Ultrabook PC
+SysId109=0x80C3
+SysName109=HP Notebook 15g;HP Notebook 15q;HP 250 G4;HP 256 G4
+SysId110=0x80C4
+SysName110=HP Notebook 15g;HP Notebook 15q;HP 250 G4;HP 256 G4
+SysId111=0x80C1
+SysName111=HP Notebook 15g;HP Notebook 15q;HP 250 G4;HP 256 G4
+SysId112=0x80C2
+SysName112=HP Notebook 15g;HP Notebook 15q;HP 250 G4;HP 256 G4
+SysId113=0x80C5
+SysName113=HP Notebook 15g;HP Notebook 15q;HP 250 G4;HP 256 G4
+SysId114=0x80C6
+SysName114=HP Notebook 15g;HP Notebook 15q
+SysId115=0x8135
+SysName115=HP Notebook 15g;HP Notebook 15q
+SysId116=0x8136
+SysName116=HP Notebook 15g;HP Notebook 15q;HP 250 G4;HP 256 G4
+SysId117=0x1854
+SysName117=Compaq CQ45;HP Notebook 1000
+SysId118=0x1855
+SysName118=Compaq CQ45;HP Notebook 1000
+SysId119=0x21E8
+SysName119=HP 246
+SysId120=0x8073
+SysName120=HP Pavilion x360
+SysId121=0x8074
+SysName121=HP Pavilion x360
+SysId122=0x8075
+SysName122=HP Pavilion x360
+SysId123=0x22C0
+SysName123=HP 345 G2
+SysId124=0x22C2
+SysName124=HP 355 G2
+SysId125=0x22C1
+SysName125=HP 355 G2
+SysId126=0x8070
+SysName126=HP 243 G1
+SysId127=0x21F7
+SysName127=Compaq 15;Compaq 15 TouchSmart;HP Notebook 15;HP Notebook 15 TouchSmart;HP 255 G3
+SysId128=0x21F8
+SysName128=Compaq 15;Compaq 15 TouchSmart;HP Notebook 15;HP Notebook 15 TouchSmart;HP 255 G3
+SysId129=0x22CD
+SysName129=Compaq 15;Compaq 15 TouchSmart;HP Notebook 15;HP Notebook 15 TouchSmart;HP 255 G3
+SysId130=0x22CE
+SysName130=Compaq 15;Compaq 15 TouchSmart;HP Notebook 15;HP Notebook 15 TouchSmart;HP 255 G3
+SysId131=0x22CF
+SysName131=Compaq 15;Compaq 15 TouchSmart;HP Notebook 15;HP Notebook 15 TouchSmart;Compaq 14;Compaq 14 TouchSmart;HP Notebook 14;HP Notebook 14 TouchSmart;HP 245 G3
+SysId132=0x22D0
+SysName132=Compaq 15;Compaq 15 TouchSmart;HP Notebook 15;HP Notebook 15 TouchSmart;Compaq 14;Compaq 14 TouchSmart;HP Notebook 14;HP Notebook 14 TouchSmart;HP 245 G3
+SysId133=0x80AF
+SysName133=
+SysId134=0x80B2
+SysName134=
+SysId135=0x80B5
+SysName135=
+SysId136=0x80B8
+SysName136=
+SysId137=0x221B
+SysName137=HP Pro x2 612 G1 Power Keyboard;HP Pro x2 612 G1 Tablet;HP Pro x2 612 G1 Tablet with Power Keyboard
+SysId138=0x2178
+SysName138=HP 215 G1 Ultrabook PC
+SysId139=0x2257
+SysName139=HP 210 G1
+SysId140=0x229E
+SysName140=HP ENVY TouchSmart 15
+SysId141=0x22A0
+SysName141=HP ENVY TouchSmart 15;HP ENVY HP ENVY
+SysId142=0x8110
+SysName142=HP ENVY 15
+SysId143=0x8154
+SysName143=HP ENVY 15
+SysId144=0x8155
+SysName144=HP ENVY 15
+SysId145=0x21F9
+SysName145=Compaq 14;Compaq 14 TouchSmart;HP Notebook 14;HP Notebook 14 TouchSmart;HP 245 G3
+SysId146=0x21FA
+SysName146=Compaq 14;Compaq 14 TouchSmart;HP Notebook 14;HP Notebook 14 TouchSmart;HP 245 G3
+SysId147=0x806C
+SysName147=HP ENVY x360 Convertible;HP ENVY x360 m6 Convertible
+SysId148=0x806D
+SysName148=HP ENVY x360 Convertible;HP ENVY x360 m6 Convertible
+SysId149=0x80CF
+SysName149=HP ENVY x360 Convertible;HP ENVY x360 m6 Convertible
+SysId150=0x80D0
+SysName150=HP ENVY x360 Convertible;HP ENVY x360 m6 Convertible
+SysId151=0x8084
+SysName151=HP EliteBook 725 G3
+SysId152=0x2289
+SysName152=HP ENVY 14 Notebook
+SysId153=0x228C
+SysName153=HP ENVY 14 Notebook
+SysId154=0x228F
+SysName154=HP ENVY 14 Notebook
+SysId155=0x2298
+SysName155=HP ENVY 14
+SysId156=0x229B
+SysName156=HP ENVY 14
+SysId157=0x221D
+SysName157=HP EliteBook 725 G2
+SysId158=0x80D8
+SysName158=HP ENVY Notebook
+SysId159=0x80DC
+SysName159=HP ENVY Notebook
+SysId160=0x8055
+SysName160=HP EliteDesk 800G2;HP EliteDesk 800 PC
+SysId161=0x80DE
+SysName161=HP ENVY Notebook;HP ENVY m7 Notebook
+SysId162=0x8061
+SysName162=HP ProDesk 400 PC
+SysId163=0x8133
+SysName163=;;HP 245 G4
+SysId164=0x80C7
+SysName164=;;HP 245 G4
+SysId165=0x80C8
+SysName165=;
+SysId166=0x80FC
+SysName166=HP Elite x2 1012 G2 Tablet;HP Elite x2 1012 G2 with Travel Keyboard;HP Elite x2 1012 G2 Advanced Keyboard
+SysId167=0x80AE
+SysName167=
+SysId168=0x80B1
+SysName168=
+SysId169=0x80B4
+SysName169=
+SysId170=0x80B7
+SysName170=
+SysId171=0x8146
+SysName171=HP Spectre x2 Detachable Ultrabook PC
+SysId172=0x22EA
+SysName172=HP Stream  14
+SysId173=0x227A
+SysName173=HP Pavilion 14
+SysId174=0x227D
+SysName174=HP Pavilion 14
+SysId175=0x2280
+SysName175=HP Pavilion 14
+SysId176=0x2292
+SysName176=HP Pavilion 14
+SysId177=0x2295
+SysName177=HP Pavilion 14
+SysId178=0x2293
+SysName178=HP Pavilion 14;HP Pavilion 15
+SysId179=0x22B3
+SysName179=HP Pavilion x360 Convertible
+SysId180=0x1086
+SysName180=HP Classmate 1 Notebook
+SysId181=0x80BA
+SysName181=HP ENVY m6 Notebook;HP ENVY Notebook
+SysId182=0x2009
+SysName182=HP Elite x2 1011 G1 Tablet;HP Elite x2 1011 G1 Tablet with Power Keyboard;HP Elite x2 1011 G1 Power Keyboard
+SysId183=0x21B3
+SysName183=HP EliteBook Revolve 810 G2 G1
+SysId184=0x8048
+SysName184=HP Pro Tablet 408 G1
+SysId185=0x8049
+SysName185=HP Pro Tablet 408 G1
+SysId186=0x22FB
+SysName186=HP EliteBook Revolve 810 G3 G1
+SysId187=0x80EF
+SysName187=HP ProBook 455 G3
+SysId188=0x80F0
+SysName188=HP ProBook 455 G3
+SysId189=0x802B
+SysName189=HP Stream x360 Convertible PC 11
+SysId190=0x2235
+SysName190=HP ProBook 455 G2;HP 240 G3;HP 246 G3
+SysId191=0x2236
+SysName191=HP ProBook 455 G2;HP ProBook 445 G2;HP 250 G3;HP 256 G3
+SysId192=0x228D
+SysName192=HP ENVY 15
+SysId193=0x228A
+SysName193=HP ENVY 15
+SysId194=0x2290
+SysName194=HP ENVY 15
+SysId195=0x2299
+SysName195=HP ENVY 15
+SysId196=0x229C
+SysName196=HP ENVY 15
+SysId197=0x233C
+SysName197=HP ENVY 15
+SysId198=0x2234
+SysName198=HP ProBook 445 G2;HP 240 G3;HP 246 G3
+SysId199=0x2209
+SysName199=HP Pavilion x360;HP x360 310 G1 PC
+SysId200=0x8050
+SysName200=HP Pavilion x360
+SysId201=0x802D
+SysName201=HP Spectre x360 Convertible Ultrabook PC;HP Spectre Pro x360 G1 Convertible PC
+SysId202=0x8035
+SysName202=HP Spectre x360 Convertible Ultrabook PC;HP Spectre Pro x360 G1 Convertible PC
+SysId203=0x804E
+SysName203=HP Spectre x360 Convertible Ultrabook PC
+SysId204=0x804F
+SysName204=HP Spectre x360 Convertible Ultrabook PC
+SysId205=0x2211
+SysName205=Compaq 15;Compaq 15 TouchSmart;HP Notebook 15;HP Notebook 15 TouchSmart;HP 250 G3;HP 256 G3
+SysId206=0x2212
+SysName206=Compaq 15;Compaq 15 TouchSmart;HP Notebook 15;HP Notebook 15 TouchSmart;HP 250 G3;HP 256 G3
+SysId207=0x2213
+SysName207=Compaq 15;Compaq 15 TouchSmart;HP Notebook 15;HP Notebook 15 TouchSmart;HP 250 G3;HP 256 G3
+SysId208=0x226E
+SysName208=Compaq 15;Compaq 15 TouchSmart;HP Notebook 15;HP Notebook 15 TouchSmart;HP 250 G3;HP 256 G3
+SysId209=0x226F
+SysName209=Compaq 15;Compaq 15 TouchSmart;HP Notebook 15;HP Notebook 15 TouchSmart;HP 250 G3;HP 256 G3
+SysId210=0x2337
+SysName210=Compaq 15;Compaq 15 TouchSmart;HP Notebook 15;HP Notebook 15 TouchSmart
+SysId211=0x2336
+SysName211=Compaq 15;Compaq 15 TouchSmart;HP Notebook 15;HP Notebook 15 TouchSmart
+SysId212=0x2214
+SysName212=Compaq 15;Compaq 15 TouchSmart;HP Notebook 15;HP Notebook 15 TouchSmart
+SysId213=0x2237
+SysName213=HP 250 G3;HP 256 G3
+SysId214=0x1965
+SysName214=
+SysId215=0x219C
+SysName215=
+SysId216=0x219D
+SysName216=
+SysId217=0x1966
+SysName217=
+SysId218=0x1968
+SysName218=
+SysId219=0x21A1
+SysName219=
+SysId220=0x80D9
+SysName220=HP ENVY Notebook 15;HP ENVY m6 Notebook
+SysId221=0x80DD
+SysName221=HP ENVY Notebook 15;HP ENVY m6 Notebook
+SysId222=0x80E1
+SysName222=HP ENVY Notebook;HP ENVY m6 Notebook
+SysId223=0x80E5
+SysName223=HP ENVY Notebook;HP ENVY m6 Notebook
+SysId224=0x80E9
+SysName224=HP ENVY Notebook;HP ENVY m6 Notebook
+SysId225=0x2249
+SysName225=HP ProBook 470 G2
+SysId226=0x224A
+SysName226=HP ProBook 470 G2;HP ProBook 450 G2;HP ProBook 440 G2
+SysId227=0x1982
+SysName227=HP Pavilion 15
+SysId228=0x1983
+SysName228=HP Pavilion 15
+SysId229=0x2139
+SysName229=HP Pavilion 15
+SysId230=0x213A
+SysName230=HP Pavilion 15
+SysId231=0x2333
+SysName231=HP OMEN  15
+SysId232=0x2332
+SysName232=HP OMEN  15
+SysId233=0x8179
+SysName233=
+SysId234=0x8104
+SysName234=HP OMEN Pro 15 Notebook
+SysId235=0x2248
+SysName235=HP ProBook 450 G2
+SysId236=0x8101
+SysName236=HP ProBook 450 G3
+SysId237=0x8100
+SysName237=HP ProBook 440 G3
+SysId238=0x8102
+SysName238=HP ProBook 470 G3
+SysId239=0x8090
+SysName239=HP Notebook 14
+SysId240=0x810F
+SysName240=HP Notebook 11
+SysId241=0x2247
+SysName241=HP ProBook 440 G2
+SysId242=0x228B
+SysName242=HP ENVY 17
+SysId243=0x228E
+SysName243=HP ENVY 17
+SysId244=0x2291
+SysName244=HP ENVY 17
+SysId245=0x229A
+SysName245=HP ENVY 17
+SysId246=0x229D
+SysName246=HP ENVY 17
+SysId247=0x2141
+SysName247=HP ENVY Rove
+SysId248=0x80FF
+SysName248=HP ProBook 430 G3
+SysId249=0x80B0
+SysName249=
+SysId250=0x80B3
+SysName250=
+SysId251=0x80B6
+SysName251=
+SysId252=0x80B9
+SysName252=
+SysId253=0x2246
+SysName253=HP ProBook 430 G2
+SysId254=0x22A2
+SysName254=HP Pavilion 10
+SysId255=0x22F9
+SysName255=HP Pavilion 10
+SysId256=0x807C
+SysName256=HP EliteBook 820 G3
+SysId257=0x22B5
+SysName257=HP Pavilion x360 Convertible;HP Pavilion 13
+SysId258=0x22B6
+SysName258=HP Pavilion x360 Convertible;HP Pavilion 13
+SysId259=0x2340
+SysName259=HP Pavilion x360 Convertible;HP Pavilion 13
+SysId260=0x2341
+SysName260=HP Pavilion x360 Convertible;HP Pavilion 13
+SysId261=0x18FD
+SysName261=HP Pavilion Sleekbook 15;HP Pavilion Ultrabook 15
+SysId262=0x18FF
+SysName262=HP Pavilion Sleekbook 15;HP Pavilion Ultrabook 15
+SysId263=0x18FE
+SysName263=HP Pavilion Sleekbook 15;HP Pavilion Ultrabook 15
+SysId264=0x1900
+SysName264=HP Pavilion Sleekbook 15;HP Pavilion Ultrabook 15
+SysId265=0x8054
+SysName265=HP EliteDesk 800 PC
+SysId266=0x8016
+SysName266=HP Notebook 14
+SysId267=0x1995
+SysName267=HP ENVY m6 Sleekbook
+SysId268=0x80BF
+SysName268=HP Notebook 14g;HP Notebook 14q;HP 240 G4;HP 246 G4
+SysId269=0x80BD
+SysName269=HP Notebook 14g;HP Notebook 14q;HP 240 G4;HP 246 G4
+SysId270=0x80BE
+SysName270=HP Notebook 14g;HP Notebook 14q;HP 240 G4;HP 246 G4
+SysId271=0x80BB
+SysName271=HP Notebook 14g;HP Notebook 14q;HP 240 G4;HP 246 G4
+SysId272=0x80BC
+SysName272=HP Notebook 14g;HP Notebook 14q;HP 240 G4;HP 246 G4
+SysId273=0x8131
+SysName273=HP Notebook 14g;HP Notebook 14q
+SysId274=0x8132
+SysName274=HP Notebook 14g;HP Notebook 14q;HP 240 G4;HP 246 G4
+SysId275=0x22E1
+SysName275=HP ENVY x2 Detachable PC 15
+SysId276=0x225A
+SysName276=HP EliteBook 820 G2;HP EliteBook 720 G2
+SysId277=0x21B7
+SysName277=HP 248 G1;HP 340 G1
+SysId278=0x21B8
+SysName278=HP 248 G1;HP 340 G1
+SysId279=0x8036
+SysName279=HP 340 G2
+SysId280=0x8037
+SysName280=HP 340 G2
+SysId281=0x8038
+SysName281=HP 340 G2
+SysId282=0x8039
+SysName282=HP 340 G2
+SysId283=0x8007
+SysName283=HP 340 G2
+SysId284=0x8008
+SysName284=HP 340 G2
+SysId285=0x8009
+SysName285=HP 340 G2
+SysId286=0x800A
+SysName286=HP 340 G2
+SysId287=0x803A
+SysName287=HP 350 G2
+SysId288=0x803B
+SysName288=HP 350 G2
+SysId289=0x803C
+SysName289=HP 350 G2
+SysId290=0x803D
+SysName290=HP 350 G2
+SysId291=0x800B
+SysName291=HP 350 G2
+SysId292=0x800C
+SysName292=HP 350 G2
+SysId293=0x800D
+SysName293=HP 350 G2
+SysId294=0x800E
+SysName294=HP 350 G2
+SysId295=0x8053
+SysName295=HP EliteDesk 800 PC
+SysId296=0x2342
+SysName296=HP ENVY x360 Convertible
+SysId297=0x8113
+SysName297=HP ENVY x360 Convertible
+SysId298=0x8114
+SysName298=HP ENVY x360 Convertible
+SysId299=0x227B
+SysName299=HP Pavilion 15
+SysId300=0x227E
+SysName300=HP Pavilion 15
+SysId301=0x2281
+SysName301=HP Pavilion 15
+SysId302=0x2296
+SysName302=HP Pavilion 15
+SysId303=0x233A
+SysName303=HP Pavilion 15
+SysId304=0x8011
+SysName304=HP Pavilion X2 Detachable
+SysId305=0x8021
+SysName305=HP Pavilion X2 Detachable
+SysId306=0x1991
+SysName306=HP EliteBook 820 G1;HP EliteBook 720 G1
+SysId307=0x220F
+SysName307=Compaq 14;Compaq 14 TouchSmart;HP Notebook 14;HP Notebook 14 TouchSmart;HP 240 G3;HP 246 G3
+SysId308=0x226C
+SysName308=Compaq 14;Compaq 14 TouchSmart;HP Notebook 14;HP Notebook 14 TouchSmart;HP 240 G3;HP 246 G3
+SysId309=0x226D
+SysName309=Compaq 14;Compaq 14 TouchSmart;HP Notebook 14;HP Notebook 14 TouchSmart;HP 240 G3;HP 246 G3
+SysId310=0x220D
+SysName310=Compaq 14;Compaq 14 TouchSmart;HP Notebook 14;HP Notebook 14 TouchSmart;HP 240 G3;HP 246 G3
+SysId311=0x220E
+SysName311=Compaq 14;Compaq 14 TouchSmart;HP Notebook 14;HP Notebook 14 TouchSmart;HP 240 G3;HP 246 G3
+SysId312=0x2210
+SysName312=Compaq 14;Compaq 14 TouchSmart;HP Notebook 14;HP Notebook 14 TouchSmart
+SysId313=0x2334
+SysName313=Compaq 14;Compaq 14 TouchSmart;HP Notebook 14;HP Notebook 14 TouchSmart
+SysId314=0x2335
+SysName314=Compaq 14;Compaq 14 TouchSmart;HP Notebook 14;HP Notebook 14 TouchSmart
+SysId315=0x07F4
+SysName315=;Consumer Brand Placeholder 14;HP Classmate 123 Notebook;HP ProBook Odie Test;HP ProBook 33333;HP 210 G1;HP Chromebook 14 Ultrabook PC;HP Split 13 x2 PC PC;HP ZBook 15u G2 Mobile Workstation;HP ZBook 22222 Mobile Workstation;HP Notebook 15;HP Pro x2 410 G1 PC
+SysId316=0x07F3
+SysName316=;Consumer Brand Placeholder 14;HP Classmate 123 Notebook;HP ProBook Odie Test;HP ProBook 33333;HP 210 G1;HP Chromebook 14 Ultrabook PC;HP Split 13 x2 PC PC;HP ZBook 15u G2 Mobile Workstation;HP ZBook 22222 Mobile Workstation;HP Notebook 15;HP Pro x2 410 G1 PC
+SysId317=0x2198
+SysName317=HP Pavilion 13 x2
+SysId318=0x2199
+SysName318=HP Pavilion 13 x2
+SysId319=0x1992
+SysName319=HP ProBook 645 G1;HP ProBook 655 G1
+SysId320=0x2330
+SysName320=HP Notebook 15
+SysId321=0x8015
+SysName321=HP Notebook 15
+SysId322=0x807E
+SysName322=HP EliteBook 745 G3;HP EliteBook 755 G3
+SysId323=0x8137
+SysName323=;;HP 255 G4
+SysId324=0x80CB
+SysName324=;;HP 255 G4
+SysId325=0x80CC
+SysName325=;
+SysId326=0x805D
+SysName326=HP EliteDesk 600 PC
+SysId327=0x221C
+SysName327=HP EliteBook 745 G2;HP EliteBook 755 G2
+SysId328=0x80FE
+SysName328=HP ProBook 645 G2;HP ProBook 655 G2
+SysId329=0x2253
+SysName329=HP ZBook 15 G2 Mobile Workstation
+SysId330=0x80DF
+SysName330=HP ENVY Notebook
+SysId331=0x80D5
+SysName331=HP ZBook 15 G3 Mobile Workstation
+SysId332=0x805B
+SysName332=HP EliteDesk 705 PC
+SysId333=0x215B
+SysName333=HP Split 13 x2 PC
+SysId334=0x217A
+SysName334=HP 242 G2
+SysId335=0x217B
+SysName335=HP 242 G2
+SysId336=0x80D4
+SysName336=HP ZBook Studio G3 Mobile Workstation
+
+[Install Execution]
+Install=setup.exe
+SilentInstall="install.cmd"
+
+[ReturnCode]
+0:SUCCESS:NOREBOOT=The action completed successfully.
+1603:FAILURE:NOREBOOT=An error occurred during installation.
+3010:SUCCESS:REBOOT=Reboot is required to complete installation
+
+[Private]
+Private_SSMCompliant=1
+DPB_Compliant=0
+
+[Private_SoftpaqInstall]
+
+
+[CVAToolDocumentStamp]
+Generated by Excalibur using Syntax Version 2.1 A1 on 07/11/2015
+Copyright © 2015 HP Development Company, L.P. 
