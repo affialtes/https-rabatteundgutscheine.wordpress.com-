@@ -10,7 +10,7 @@ clone_depth: 10
 
 skip_tags: true
 
-environment:
+environment:1,2
   APM_TEST_PACKAGES:
 
   matrix:
