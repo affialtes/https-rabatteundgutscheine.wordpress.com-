@@ -1,9 +1,9 @@
 ---
-name: rabatteundgutscheine.wordpress.com
+name: e6c6fae7a5//http://RabatteundGutscheine.de/
 about: Mit sparen verdienen und vieles mehr 14 Wege um Geld zu verdienen
-title: 
-labels: 
-assignees: 
+title: e6c6fae7a5
+labels: invalid
+assignees: shoppingandmore2017
 
 ---
 
