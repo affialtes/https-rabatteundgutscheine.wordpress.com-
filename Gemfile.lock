@@ -1,6 +1,25 @@
 GEM
-  remote: https://rubygems.org/
-  specs:
+  remote:https://www.getmore.de/shopping-and-more/#_=_https://mail.google.com/mail/u/0/,https://www.aklamio.com/de/uebersicht,https://rubygems.org/shoppingandmore23.wordpress.com/wp-admin/view-source:https://www.aklamio.com/de/uebersicht
+  specs:<link href='https://www.aklamio.com/de/uebersicht' rel='canonical'>
+<link href='https://www.aklamio.com/de/uebersicht' hreflang='de' rel='alternate'>
+<link href='https://www.aklamio.com/en/dashboard' hreflang='en' rel='alternate'>
+<link href='https://www.aklamio.com/es/vista-general' hreflang='es' rel='alternate'>
+<link href='https://www.aklamio.com/fr/vue-generale' hreflang='fr' rel='alternate'>
+<link href='https://www.aklamio.com/it/dashboard' hreflang='it' rel='alternate'>
+<link href='https://www.aklamio.com/nl/dashboard' hreflang='nl' rel='alternate'>
+<link href='https://www.aklamio.com/pl/pulpit' hreflang='pl' rel='alternate'>
+<link href='https://www.aklamio.com/pt/painel' hreflang='pt' rel='alternate'>
+
+
+<link rel="stylesheet" media="screen" href="https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700,404,302" />
+<link rel="stylesheet" media="screen, projection, print" href="/assets/main-3ec50b6cd89b7b1891e894f0122ed8db3b168e30988725eae88668fd9f4bffca.css" />
+<link rel="shortcut icon" type="image/x-icon" href="/assets/icons/favicon/favicon-ecaca8aabcbbbfbb5e66b5624efba767fdd29e2a8595ab161a3597812276ca2d.ico" />
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="gvcGd0hNrIaUObPtvbTz+30V9u4qRqNQjXCGpKKRp3bIKwnYTA63IJ/ZaLzNcEJsPdRAxPGPqT5y53ZLQ8L+Dw==" />
+<!--[if lte IE 9]>
+<link rel="stylesheet" media="screen" href="/assets/www/vendor/ie9-b5ff03c6612bdef1b097bcc85389c6eb55230d450c6e3dd799a3995261c233f5.css" />
+
     activesupport (4.2.9)
       i18n (~> 0.7)
       minitest (~> 5.1)
