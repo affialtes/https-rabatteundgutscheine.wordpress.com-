@@ -1,50 +1,11 @@
-# stackedit.js
+# ACF Content Analysis for Yoast SEO
+WordPress plugin that adds the content of all ACF fields to the Yoast SEO score analysis.
 
-[![Build Status](https://img.shields.io/travis/benweet/stackedit.js.svg?style=flat)](https://travis-ci.org/benweet/stackedit.js) [![NPM version](https://img.shields.io/npm/v/stackedit-js.svg?style=flat)](https://www.npmjs.org/package/stackedit-js)
+##Description
+[Yoast WordPress SEO's](https://yoast.com/wordpress/plugins/) score analysis does not take in to account the content of a post's [Advanced Custom Fields](http://www.advancedcustomfields.com/). This plugin uses Yoast WordPress SEO 3.1's plugin system to hook into the analyser in order to add ACF content to the SEO analysis.
 
-> Add StackEdit to any website
+This had previously been done by the [WordPress SEO ACF Content Analysis](https://wordpress.org/plugins/wp-seo-acf-content-analysis/) plugin but that no longer works with Yoast 3.0. Kudos to [ryuheixys](https://profiles.wordpress.org/ryuheixys/), the author of that plugin, for the original idea.
 
-### Build setup
+This Plugin is compatible with the free ACF 4 Version as well as with the PRO Version 5. Please be aware that it ignores Pro Add-Ons for Version 4. In that case please upgrade to ACF PRO Version 5.
 
-``` bash
-# install dependencies
-npm install
-
-# watch and build for dev
-npm run dev
-
-# build for production
-npm run build
-```
-
-### Quick start
-
-Bind StackEdit to a `textarea`:
-
-```js
-// Import the lib.
-import Stackedit from 'stackedit-js';
-
-// Get the textarea.
-const el = document.querySelector('textarea');
-
-// Create the Stackedit object.
-const stackedit = new Stackedit();
-
-// Open the iframe
-stackedit.openFile({
-  name: 'Filename', // with a filename
-  content: {
-    text: el.value // and the Markdown content.
-  }
-});
-
-// Listen to StackEdit events and apply the changes to the textarea.
-stackedit.on('fileChange', (file) => {
-  el.value = file.content.text;
-});
-```
-
-### Documentation
-
-Full documentation can be found at https://benweet.github.io/stackedit.js/.
+> If you have issues, please [submit them on GitHub](https://github.com/Yoast/yoast-acf-analysis/issues)

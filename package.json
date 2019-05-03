@@ -1,203 +1,50 @@
 {
-  "name": "renovate",
-  "description": "Automated dependency updates. Flexible so you don't need to be.",
-  "version": "0.0.0-semantic-release",
-  "bin": {
-    "renovate": "lib/renovate.js",
-    "renovate-config-validator": "bin/config-validator.js"
-  },
-  "scripts": {
-    "clean-cache": "node bin/clean-cache.js",
-    "debug": "node --inspect-brk lib/renovate",
-    "heroku-push": "git push heroku master",
-    "heroku-scheduler": "heroku addons:open scheduler",
-    "jest": "yarn clean-cache && cross-env NODE_ENV=test LOG_LEVEL=fatal jest",
-    "jest-silent": "yarn jest --reporters jest-silent-reporter",
-    "lint-fix": "eslint --fix lib test",
-    "lint": "eslint lib test",
-    "prettier": "prettier \"**/*.{js,json,md}\" --write",
-    "start": "node lib/renovate",
-    "test-dirty": "git diff --exit-code",
-    "test": "yarn prettier --list-different && yarn lint && yarn jest"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/renovatebot/renovate.git"
-  },
+  "name": "yoast-acf-analysis",
+  "version": "2.0.1",
+  "description": "WordPress plugin that adds the content of all ACF fields to the Yoast SEO score analysis.",
   "keywords": [
-    "automated",
-    "dependency",
-    "docker",
-    "management",
-    "meteor",
-    "node",
-    "npm",
-    "outdated",
-    "update",
-    "yarn"
+    "yoast",
+    "seo",
+    "acf",
+    "advanced",
+    "custom",
+    "fields",
+    "analysis",
+    "search",
+    "engine",
+    "optimization",
+    "seo",
+    "score"
   ],
-  "author": "Rhys Arkins <rhys@arkins.net>",
-  "contributors": [
-    "Hutson Betts <hutson@hyper-expanse.net>",
-    "Ayoub Kaanich <kayoub5@live.com>",
-    "Dragomir Țurcanu <dragomirt22@gmail.com>",
-    "Sam Neirinck <sam@samneirinck.com>",
-    "Nicolas Byl <nico@nicolas-byl.eu>",
-    "Maximilian Gaß <mxey@mxey.net>",
-    "Vladimir Starkov <iamstarkov@gmail.com>",
-    "Filip Stenbeck <filip.stenbeck@gmail.com>",
-    "Andreas Bexelius <andreas.brostrom@nordnet.se>",
-    "Klaus Meinhardt <klaus.meinhardt1@gmail.com>",
-    "James King <james@jamesking56.uk>",
-    "Israel Bethencourt <ieb.core@gmail.com>",
-    "Jean-Yves Couët <jycouet@gmail.com>"
-  ],
-  "license": "AGPL-3.0",
+  "homepage": "https://wordpress.org/plugins/yoast-seo-acf-analysis/",
   "bugs": {
-    "url": "https://github.com/renovatebot/renovate/issues"
+    "url": "https://github.com/Yoast/yoast-acf-analysis/issues",
+    "email": "support@yoast.com"
   },
-  "homepage": "https://renovatebot.com",
-  "engines": {
-    "node": ">= 8.11.0"
+  "license": "GPL-3.0",
+  "repository": "Yoast/yoast-acf-analysis",
+  "scripts": {
+    "build": "browserify js/src/main.js -o js/yoast-acf-analysis.js",
+    "watch": "watchify js/src/main.js -o js/yoast-acf-analysis.js --poll --verbose --debug",
+    "test": "(cd tests/js/system/ && exec ../../../node_modules/.bin/nightwatch)",
+    "test-acf4": "(cd tests/js/system/ && exec ../../../node_modules/.bin/nightwatch  --group general --group acf4)",
+    "test-acf5": "(cd tests/js/system/ && exec ../../../node_modules/.bin/nightwatch   --group general --group acf5 --skiptags pro)",
+    "test-acf5pro": "(cd tests/js/system/ && exec ../../../node_modules/.bin/nightwatch   --group general --group acf5)"
   },
-  "dependencies": {
-    "@renovate/pep440": "0.4.0",
-    "@sindresorhus/is": "0.13.0",
-    "@yarnpkg/lockfile": "1.1.0",
-    "bunyan": "1.8.12",
-    "cacache": "11.3.1",
-    "chalk": "2.4.1",
-    "changelog-filename-regex": "2.0.1",
-    "child-process-promise": "2.2.1",
-    "clean-git-ref": "1.0.3",
-    "commander": "2.19.0",
-    "compare-versions": "3.4.0",
-    "conventional-commits-detector": "1.0.2",
-    "convert-hrtime": "2.0.0",
-    "deepcopy": "1.0.0",
-    "delay": "4.1.0",
-    "detect-indent": "5.0.0",
-    "docker-registry-client": "3.3.0",
-    "email-addresses": "3.0.3",
-    "fast-clone": "1.5.3",
-    "fast-xml-parser": "3.12.7",
-    "form-data": "2.3.3",
-    "fs-extra": "7.0.1",
-    "get-installed-path": "4.0.8",
-    "gh-got": "8.0.1",
-    "github-url-from-git": "1.5.0",
-    "gl-got": "9.0.2",
-    "got": "9.3.2",
-    "handlebars": "4.0.12",
-    "ini": "1.3.5",
-    "js-yaml": "3.12.0",
-    "json-dup-key-validator": "1.0.2",
-    "json-stringify-pretty-compact": "1.2.0",
-    "later": "1.2.0",
-    "linkify-markdown": "1.0.0",
-    "lodash": "4.17.11",
-    "luxon": "1.6.2",
-    "markdown-it": "8.4.2",
-    "minimatch": "3.0.4",
-    "moment": "2.22.2",
-    "moment-timezone": "0.5.23",
-    "npm": "6.4.1",
-    "openpgp": "2.6.2",
-    "p-all": "1.0.0",
-    "parse-diff": "0.5.1",
-    "parse-link-header": "1.0.1",
-    "pnpm": "2.18.2",
-    "registry-auth-token": "3.3.2",
-    "root-require": "0.3.1",
-    "safe-regex": "2.0.1",
-    "semver": "5.6.0",
-    "semver-stable": "2.0.4",
-    "semver-utils": "1.1.4",
-    "simple-git": "1.107.0",
-    "slugify": "1.3.3",
-    "traverse": "0.6.6",
-    "upath": "1.1.0",
-    "validator": "10.9.0",
-    "vso-node-api": "6.5.0",
-    "www-authenticate": "0.6.2",
-    "yarn": "1.9.4"
-  },
+  "dependencies": {},
   "devDependencies": {
-    "babel-plugin-transform-object-rest-spread": "6.26.0",
-    "chai": "4.2.0",
-    "codecov": "3.1.0",
-    "cross-env": "5.2.0",
-    "eslint": "5.8.0",
-    "eslint-config-airbnb-base": "13.1.0",
-    "eslint-config-prettier": "3.1.0",
-    "eslint-plugin-import": "2.14.0",
-    "eslint-plugin-promise": "4.0.1",
-    "jest": "23.6.0",
-    "jest-silent-reporter": "0.1.1",
-    "mockdate": "2.0.2",
-    "nock": "10.0.2",
-    "prettier": "1.14.3",
-    "semantic-release": "15.10.8",
-    "tmp-promise": "1.0.5"
-  },
-  "files": [
-    "bin/config-validator.js",
-    "bin/yarn-1.10.1.js",
-    "lib"
-  ],
-  "babel": {
-    "plugins": [
-      "transform-object-rest-spread"
-    ]
-  },
-  "jest": {
-    "cacheDirectory": ".cache/jest",
-    "coverageDirectory": "./coverage",
-    "collectCoverage": true,
-    "collectCoverageFrom": [
-      "lib/**/*.js"
-    ],
-    "coverageReporters": [
-      "html",
-      "json",
-      "lcov",
-      "text-summary"
-    ],
-    "setupFiles": [
-      "./test/globals.js"
-    ],
-    "setupTestFrameworkScriptFile": "./test/chai.js",
-    "snapshotSerializers": [
-      "./test/newline-snapshot-serializer.js"
-    ]
-  },
-  "prettier": {
-    "singleQuote": true,
-    "trailingComma": "es5"
-  },
-  "publishConfig": {
-    "tag": "latest"
-  },
-  "release": {
-    "branch": "master",
-    "tagFormat": "${version}",
-    "analyzeCommits": {
-      "preset": "angular",
-      "releaseRules": [
-        {
-          "type": "docs",
-          "scope": "readme.md",
-          "release": "patch"
-        },
-        {
-          "type": "refactor",
-          "release": "patch"
-        },
-        {
-          "type": "build",
-          "release": "patch"
-        }
-      ]
-    }
+    "browserify": "^15.0.0",
+    "chromedriver": "^2.38.3",
+    "eslint-browserify": "^1.4.4",
+    "eslint-config-yoast": "^3.0.0",
+    "eslint-plugin-react": "^7.4.0",
+    "eslint-plugin-yoast": "^1.0.1",
+    "grunt": "^1.0.1",
+    "grunt-eslint": "^20.1.0",
+    "load-grunt-config": "^1.0.0",
+    "nightwatch": "^0.9.15",
+    "ps-tree": "^1.1.0",
+    "time-grunt": "^1.4.0",
+    "watchify": "^3.9.0"
   }
 }
