@@ -1,4 +1,5 @@
 [00:00:00] Build started
+<<<<<<< HEAD
 [00:00:00] git clone -q --depth=10 --branch=master https://github.com/atom/autocomplete-plus.git C:\projects\autocomplete-plus
 [00:00:01] git checkout -qf c38402ccda9ada485e0b87e51bb5473d946155d7
 [00:00:02] Running Install scripts
@@ -57,3 +58,67 @@
 [00:01:20] 232 tests, 886 assertions, 0 failures, 0 skipped
 [00:01:20] 
 [00:01:21] Build success
+=======
+[00:00:00] git clone -q --branch=as-use-on-did-update-cursors https://github.com/atom/autocomplete-plus.git C:\projects\autocomplete-plus
+[00:00:04] git checkout -qf f5a2212d6f8408ffb92a36add867e3cf939d98eb
+[00:00:04] Running Install scripts
+[00:00:04] choco install atom -y
+[00:00:04] Installing the following packages:
+[00:00:04] atom
+[00:00:04] By installing you accept licenses for the packages.
+[00:00:07] 
+[00:00:07] Atom v1.0.7
+[00:00:09]  Downloading Atom 32 bit
+[00:00:09]    from 'https://atom.io/download/windows'
+[00:00:15]  Installing Atom...
+[00:00:41]  Atom has been installed.
+[00:00:42]  The install of atom was successful.
+[00:00:42] 
+[00:00:42] Chocolatey installed 1/1 package(s). 0 package(s) failed.
+[00:00:42]  See the log for details (C:\ProgramData\chocolatey\logs\chocolatey.log).
+[00:00:42] cd %APPVEYOR_BUILD_FOLDER%
+[00:00:42] %LOCALAPPDATA%/atom/bin/apm clean
+[00:00:42] %LOCALAPPDATA%/atom/bin/apm install
+[00:00:53] Installing modules 
+[00:00:57] [32mdone
+[00:00:57] [39m
+[00:00:58] cd %APPVEYOR_BUILD_FOLDER%
+[00:00:58] %LOCALAPPDATA%/atom/bin/apm test --path %LOCALAPPDATA%/atom/bin/atom.cmd
+[00:02:07] ..........................................................FF.........................F......................F................................................................................................................
+[00:02:07] 
+[00:02:07] Autocomplete Manager
+[00:02:07]   when an external provider is registered
+[00:02:07]     when autocomplete-plus.suggestionListFollows is 'Word'
+[00:02:07]       it keeps the suggestion list planted at the beginning of the prefix when typing
+[00:02:07]         Expected '175px' to be '147px'.
+[00:02:07]           at [object Object].<anonymous> (file:///C:/projects/autocomplete-plus/spec/autocomplete-manager-integration-spec.coffee:1008:45)
+[00:02:07]           at Immediate._onImmediate (file:///C:/projects/autocomplete-plus/spec/spec-helper.coffee:26:9)
+[00:02:07]       it when broken by a non-word character, the suggestion list is positioned at the beginning of the new word
+[00:02:07]         Expected '204px' to be '156px'.
+[00:02:07]           at [object Object].<anonymous> (file:///C:/projects/autocomplete-plus/spec/autocomplete-manager-integration-spec.coffee:1046:45)
+[00:02:07]           at Imme
+[00:02:07] diate._onImmediate (file:///C:/projects/autocomplete-plus/spec/spec-helper.coffee:26:9)
+[00:02:07]     select-previous event
+[00:02:07]       it does not close the autocomplete when up arrow pressed with multiple items displayed but triggered on one item
+[00:02:07]         Expected null to exist.
+[00:02:07]           at [object Object].<anonymous> (file:///C:/projects/autocomplete-plus/spec/autocomplete-manager-integration-spec.coffee:1476:32)
+[00:02:07]           at Immediate._onImmediate (file:///C:/projects/autocomplete-plus/spec/spec-helper.coffee:26:9)
+[00:02:07]         Expected null to exist.
+[00:02:07]           at [object Object].<anonymous> (file:///C:/projects/autocomplete-plus/spec/autocomplete-manager-integration-spec.coffee:1482:32)
+[00:02:07]           at Immediate._onImmediate (file:///C:/projects/autocomplete-plus/spec/spec-helper.coffee:26:9)
+[00:02:07]   when opening a javascript file
+[00:02:07]     when the buffer changes
+[00:02:07]       it keeps the suggestion list open when it's already open on backspace
+[00:02:07]         Expected null to exist.
+[00:02:07]           at [object Object].<anonymous> (file:///C:/projects/autocomp
+[00:02:07] lete-plus/spec/autocomplete-manager-integration-spec.coffee:1885:66)
+[00:02:07]           at Immediate._onImmediate (file:///C:/projects/autocomplete-plus/spec/spec-helper.coffee:26:9)
+[00:02:07] 
+[00:02:07] 
+[00:02:07] Finished in 65.196 seconds
+[00:02:07] 221 tests, 914 assertions, 5 failures, 0 skipped
+[00:02:07] 
+[00:02:07] 
+[00:02:07] [31mTests failed[39m
+[00:02:07] Command exited with code 1
+>>>>>>> upstream/master

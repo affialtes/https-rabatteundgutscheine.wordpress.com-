@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "nyc": {
     "exclude": [
       "build/src/apis",
@@ -131,5 +132,54 @@
     "source-map-support": "0.5.4",
     "tmp": "0.0.33",
     "typescript": "2.7.2"
+=======
+  "name": "yoast-acf-analysis",
+  "version": "2.0.1",
+  "description": "WordPress plugin that adds the content of all ACF fields to the Yoast SEO score analysis.",
+  "keywords": [
+    "yoast",
+    "seo",
+    "acf",
+    "advanced",
+    "custom",
+    "fields",
+    "analysis",
+    "search",
+    "engine",
+    "optimization",
+    "seo",
+    "score"
+  ],
+  "homepage": "https://wordpress.org/plugins/yoast-seo-acf-analysis/",
+  "bugs": {
+    "url": "https://github.com/Yoast/yoast-acf-analysis/issues",
+    "email": "support@yoast.com"
+  },
+  "license": "GPL-3.0",
+  "repository": "Yoast/yoast-acf-analysis",
+  "scripts": {
+    "build": "browserify js/src/main.js -o js/yoast-acf-analysis.js",
+    "watch": "watchify js/src/main.js -o js/yoast-acf-analysis.js --poll --verbose --debug",
+    "test": "(cd tests/js/system/ && exec ../../../node_modules/.bin/nightwatch)",
+    "test-acf4": "(cd tests/js/system/ && exec ../../../node_modules/.bin/nightwatch  --group general --group acf4)",
+    "test-acf5": "(cd tests/js/system/ && exec ../../../node_modules/.bin/nightwatch   --group general --group acf5 --skiptags pro)",
+    "test-acf5pro": "(cd tests/js/system/ && exec ../../../node_modules/.bin/nightwatch   --group general --group acf5)"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "browserify": "^15.0.0",
+    "chromedriver": "^2.38.3",
+    "eslint-browserify": "^1.4.4",
+    "eslint-config-yoast": "^3.0.0",
+    "eslint-plugin-react": "^7.4.0",
+    "eslint-plugin-yoast": "^1.0.1",
+    "grunt": "^1.0.1",
+    "grunt-eslint": "^20.1.0",
+    "load-grunt-config": "^1.0.0",
+    "nightwatch": "^0.9.15",
+    "ps-tree": "^1.1.0",
+    "time-grunt": "^1.4.0",
+    "watchify": "^3.9.0"
+>>>>>>> upstream/master
   }
 }

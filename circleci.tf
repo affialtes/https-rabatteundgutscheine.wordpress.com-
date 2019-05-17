@@ -1,5 +1,3 @@
-# Configure the AWS Provider
-
 data "aws_subnet" "subnet" {
   id = "${var.aws_subnet_id}"
 }
@@ -50,16 +48,6 @@ module "shutdown_sqs" {
   source = "./modules/aws_sqs"
   name   = "shutdown"
   prefix = "${var.prefix}"
-}
-
-# Populate circleci-customizations files
-
-data "template_file" "circleci-customizations" {
-  template = "${file("${path.module}/templates/ha-circle-customize.sh.tpl")}"
-  vars {
-    postgres_password = "${var.postgres_password}"
-    mongo_password = "${var.mongo_password}"
-  }
 }
 
 # Single general-purpose bucket
@@ -312,33 +300,6 @@ resource "aws_instance" "services" {
 
   user_data = "${ var.services_user_data_enabled ? data.template_file.services_user_data.rendered : "" }"
 
-  connection {
-    type     = "ssh"
-    user     = "ubuntu"
-  }
-
-  provisioner "local-exec" {
-    command = "./scripts/ha-tls.sh ${aws_instance.services.public_ip} ${var.ha}"
-  }
-
-  provisioner "file" {
-    content = "${data.template_file.circleci-customizations.rendered}"
-    destination = "~/circle-customize.sh"
-  }
-
-  provisioner "file" {
-    source = "${path.module}/files/vault.json"
-    destination = "~/vault.json"
-  }
-
-  provisioner "remote-exec" {
-    inline = [
-      "chmod +x ~/circle-customize.sh",
-      "sudo ~/circle-customize.sh",
-      "rm ~/circle-customize.sh",
-    ]
-  }
-
   lifecycle {
     prevent_destroy = false
   }
@@ -368,11 +329,21 @@ module "legacy_builder_user_data" {
 module "legacy_builder" {
   source = "./modules/legacy-builder"
 
+<<<<<<< HEAD
   prefix                    = "${var.prefix}"
   name                      = "builders"
   aws_subnet_id             = "${var.aws_subnet_id}"
   aws_ssh_key_name          = "${var.aws_ssh_key_name}"
   aws_instance_profile_name = "${aws_iam_instance_profile.circleci_profile.name}"
+=======
+curl -sSL https://get.docker.com | sh
+sudo docker pull circleci/build-image:ubuntu-14.04-XXL-1167-271bbe4
+sudo docker run -d -v /var/run/docker.sock:/var/run/docker.sock \
+    -e CIRCLE_CONTAINER_IMAGE_URI="docker://circleci/build-image:ubuntu-14.04-XXL-1167-271bbe4" \
+    -e CIRCLE_SECRET_PASSPHRASE='${var.circle_secret_passphrase}' \
+    -e SERVICES_PRIVATE_IP='${aws_instance.services.private_ip}'  \
+    circleci/builder-base:1.1
+>>>>>>> origin/DefaultDockerInstall
 
   builder_security_group_ids = [
     "${aws_security_group.circleci_builders_sg.id}",

@@ -1,4 +1,17 @@
+<<<<<<< HEAD
 _site
 .sass-cache
 Gemfile.lock
 *.gem
+=======
+/secret/
+/.dependencies/
+*.tfstate
+*.tfstate.backup
+*.tfvars-*
+*.tfvars
+.ansible/
+**.retry
+/.terraform
+.DS_Store
+>>>>>>> upstream/master
